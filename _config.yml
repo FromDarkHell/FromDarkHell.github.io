@@ -87,3 +87,9 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+defaults:
+  - scope:
+      path: "_posts/gameInfo"
+    values:
+      gameInfo: "true"
