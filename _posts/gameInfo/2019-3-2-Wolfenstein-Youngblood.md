@@ -5,14 +5,14 @@ title: Wolfenstein Youngblood Game Info
 
 Downpatcher (Created by FromDarkHell): [http://bit.ly/YoungbloodPatcher](http://bit.ly/YoungbloodPatcher)  
   
+***
 Mission Flow:  
-  
-Key:
-| Key           | Meaning          |
-| ------------- |:----------------:|
-| M             | Story Mission    |
-| S             | Side Quest       |
-| [number]      | *required* level |
+
+| Key    | Value          |
+|--------|----------------|
+| M      | Story Mission  |
+| S      | Side Quest     |
+| Number | Required Level |
 
 1. Der Nachtfather (M)
 2. Riverside (M)
