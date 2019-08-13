@@ -12,10 +12,10 @@ Downpatcher (Created by FromDarkHell): [http://bit.ly/YoungbloodPatcher](http://
 1. General Winkler (M)
 2. Riverside (M)
   - Rescue Marianne
-    - Claude the Armorer
-    - Radio Propaganda
-  - The Silent Outpost
-    - The Protohund
+      - Claude the Armorer  
+      - Radio Propaganda
+  - The Silent Outpost  
+      - The Protohund
   - Chemical Warfare
   - Lenz's Secret [12]
 3. Raid - Brother 1 (M)
