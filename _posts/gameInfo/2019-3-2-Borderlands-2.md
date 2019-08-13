@@ -3,6 +3,9 @@ layout: post
 title: Borderlands 2/TPS Game Information
 ---
 
+
+***
+
 Minimum levels for Non-Uniques to spawn: [https://goo.gl/mUUaTV](https://goo.gl/mUUaTV)  
 Gear for Allegiance Levels: [https://goo.gl/YLJCFp](https://goo.gl/YLJCFp)  
 General Allegiance Guide: [https://goo.gl/xWvpGq](https://goo.gl/xWvpGq)  
