@@ -17,7 +17,13 @@ Downpatcher (Created by FromDarkHell): [http://bit.ly/YoungbloodPatcher](http://
    - The Silent Outpost  
       * The Protohund
    - Chemical Warfare
+      * Transmitter (?)
+   - Stolen Research [12]
+      * Brother 3 Underground
    - Lenz's Secret [12]
+      * Brother 1 Underground
+   - Laser Breach Device [12]
+      * Brother 2 Underground 
 3. Raid - Brother 1 (M)
 4. Raid - Brother 2 (M)
 5. Raid - Brother 3 (M)
@@ -27,6 +33,7 @@ Downpatcher (Created by FromDarkHell): [http://bit.ly/YoungbloodPatcher](http://
 | Key      | Value          |
 |----------|----------------|
 | M        | Story Mission  |
+| ?        | Unsure         |
 | [Number] | Required Level |
 
 Notes:
