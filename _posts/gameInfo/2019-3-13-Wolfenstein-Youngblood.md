@@ -39,7 +39,11 @@ Downpatcher (Created by FromDarkHell): [http://bit.ly/YoungbloodPatcher](http://
    - Investigation Cleanup
    - Missing Resistance Fighters
 6. Raid - Lab X (M)
-7. Siegturm (M)  
+7. Siegturm (M)
+   - Lothar and Juju's Trap
+      * Missing Partner
+         - Da'at Yichud Artifacts
+   - The Robotmörder
 
 | Key      | Value          |
 |----------|----------------|
@@ -49,5 +53,6 @@ Downpatcher (Created by FromDarkHell): [http://bit.ly/YoungbloodPatcher](http://
 
 Notes:
 *  Brother 1, 2, 3 are all interchangable along with the missions that unlock their Underground.
-*  During Laser Breach Device, the "Find a Laser Device Battery" is unusable until the previous objective is complete
-*  The code for Missing Resistance Fighters is 1609, very well might be possible to skip the fighters & just go to the door.
+*  During `Laser Breach Device`, the `Find a Laser Device Battery` is unusable until the previous objective is complete
+*  The code for `Missing Resistance Fighters` is 1609, very well might be possible to skip the fighters & just go to the door.
+*  If you don't complete `Raid - Lab X`, you're unable to complete `Lothar and Juju's Trap`
