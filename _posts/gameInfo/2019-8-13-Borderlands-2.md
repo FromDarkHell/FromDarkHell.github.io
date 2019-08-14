@@ -4,6 +4,7 @@ title: Borderlands 2/TPS Game Info
 redirect_from:
   - /bl2/
   - /tps/
+permalink: /Borderlands-2/
 ---
 
 
