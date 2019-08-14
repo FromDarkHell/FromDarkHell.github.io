@@ -53,10 +53,6 @@ Notes:
 *  The code for `Missing Resistance Fighters` is 1609, very well might be possible to skip the fighters & just go to the door.
 *  If you don't complete `Raid - Lab X`, you're unable to complete `Lothar and Juju's Trap`
 
-## Downpatcher
-
-Downpatcher (Created by FromDarkHell): [http://bit.ly/YoungbloodPatcher](http://bit.ly/YoungbloodPatcher)  
-
 ## Crate Codes
 
 | Map Name          | Codes (Order of Appearance)   |
@@ -69,3 +65,15 @@ Downpatcher (Created by FromDarkHell): [http://bit.ly/YoungbloodPatcher](http://
 | Brother 2         | 1987, 2905, 5858              |
 | Brother 3         | 9012, 3201, 6743, 2354        |
 | Lab X             | 8352, 1414, 2569, 4780, 5806  |
+
+## Door Codes
+| Map Name          | Codes (Order of Appearance)   |
+|:-----------------:|:-----------------------------:|
+| Zeppelin          | 8431                          |
+| Brother 1         | 4351                          |
+| Brother 2         | 0451                          |
+| Lab X             | 1234                          |
+
+## Downpatcher
+
+Downpatcher (Created by FromDarkHell): [http://bit.ly/YoungbloodPatcher](http://bit.ly/YoungbloodPatcher)  
