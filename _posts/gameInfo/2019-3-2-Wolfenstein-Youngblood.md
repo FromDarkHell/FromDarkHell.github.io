@@ -18,12 +18,13 @@ Downpatcher (Created by FromDarkHell): [http://bit.ly/YoungbloodPatcher](http://
       * The Protohund
    - Chemical Warfare
       * Transmitter (?)
-   - Stolen Research [12]
-      * Brother 3 Underground
    - Lenz's Secret [12]
       * Brother 1 Underground
    - Laser Breach Device [12]
       * Brother 2 Underground 
+   - Stolen Research [12]
+      * Brother 3 Underground
+      * Data Tape
 3. Raid - Brother 1 (M)
 4. Raid - Brother 2 (M)
 5. Raid - Brother 3 (M)
@@ -38,3 +39,4 @@ Downpatcher (Created by FromDarkHell): [http://bit.ly/YoungbloodPatcher](http://
 
 Notes:
 *  Brother 1, 2, 3 are all interchangable along with the missions that unlock their Underground.
+*  During Laser Breach Device, the "Find a Laser Device Battery" is unusable until the previous objective is complete
