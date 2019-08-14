@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Borderlands 2 & TPS Game Information
+title: Borderlands 2/TPS Game Info
 redirect_from:
   - /bl2/
   - /tps/

@@ -26,8 +26,18 @@ Downpatcher (Created by FromDarkHell): [http://bit.ly/YoungbloodPatcher](http://
       * Brother 3 Underground
       * Data Tape
 3. Raid - Brother 1 (M)
+   - Statues (?)
+      * Übercommander Fleischer
+         - Blueprints
+   - Prison Break
+   - Infiltrator's Report [23? Sabotage Launchers?]
 4. Raid - Brother 2 (M)
+   - Zitadelle Schematics
+   - Zeppelin Sabotage
+      * Sabotage Launchers
 5. Raid - Brother 3 (M)
+   - Investigation Cleanup
+   - Missing Resistance Fighters
 6. Raid - Lab X (M)
 7. Siegturm (M)  
 
@@ -40,3 +50,4 @@ Downpatcher (Created by FromDarkHell): [http://bit.ly/YoungbloodPatcher](http://
 Notes:
 *  Brother 1, 2, 3 are all interchangable along with the missions that unlock their Underground.
 *  During Laser Breach Device, the "Find a Laser Device Battery" is unusable until the previous objective is complete
+*  The code for Missing Resistance Fighters is 1609, very well might be possible to skip the fighters & just go to the door.
