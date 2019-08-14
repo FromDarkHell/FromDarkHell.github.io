@@ -2,10 +2,6 @@
 layout: post
 title: Wolfenstein Youngblood Game Info
 ---
-
-## Downpatcher
-
-Downpatcher (Created by FromDarkHell): [http://bit.ly/YoungbloodPatcher](http://bit.ly/YoungbloodPatcher)  
   
 ## Mission Flow
 
@@ -56,3 +52,7 @@ Notes:
 *  During `Laser Breach Device`, the `Find a Laser Device Battery` is unusable until the previous objective is complete
 *  The code for `Missing Resistance Fighters` is 1609, very well might be possible to skip the fighters & just go to the door.
 *  If you don't complete `Raid - Lab X`, you're unable to complete `Lothar and Juju's Trap`
+
+## Downpatcher
+
+Downpatcher (Created by FromDarkHell): [http://bit.ly/YoungbloodPatcher](http://bit.ly/YoungbloodPatcher)  
