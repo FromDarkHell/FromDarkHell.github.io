@@ -51,6 +51,7 @@ Notes:
 *  Brother 1, 2, 3 are all interchangable along with the missions that unlock their Underground.
 *  During `Laser Breach Device`, the `Find a Laser Device Battery` is unusable until the previous objective is complete
 *  The code for `Missing Resistance Fighters` is 1609, very well might be possible to skip the fighters & just go to the door.
+*  The code for `Blueprints` is 5671
 *  If you don't complete `Raid - Lab X`, you're unable to complete `Lothar and Juju's Trap`
 
 ## Crate Codes
@@ -78,3 +79,39 @@ Notes:
 ## Downpatcher
 
 Downpatcher (Created by FromDarkHell): [http://bit.ly/YoungbloodPatcher](http://bit.ly/YoungbloodPatcher)  
+
+## All Missions Route (WIP)  
+
+1. General Winkler
+
+2. Riverside
+   - The Silent Outpost
+   - Chemical Warfare 
+   - Lenz’s Secret
+      * Brother 1 Underground
+
+3. Raid - Brother 1
+   - Laser Breach Device
+      * Brother 2 Underground
+
+4. Raid - Brother 2
+   - Zitadelle Schematics 
+   - Zeppelin Sabotage
+   - Sabotage Launchers
+
+   - Prison Break **AND** Statues (All in B1) (Farm the statues (Do Prison Break/Infiltrator's Report last statue))
+      * Ubercommander Fleischer **AND** Rescue Marianne
+      * Blueprints
+      * Infiltrator's Report
+
+   - Stolen Research
+      * Brother 3 Underground
+5. Raid - Brother 3
+   - Investigation Cleanup
+   - Missing Resistance Fighters
+6. Raid - Lab X (Genuinely need to do this otherwise softlock on `Lothar and Juju's Trap`)
+7. Siegturm
+   - Robotmörder
+   - Lothar and Juju's Trap
+      * Missing Partner
+         - Da'at Yichud Artifacts
