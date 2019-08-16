@@ -110,8 +110,11 @@ Downpatcher (Created by FromDarkHell): [http://bit.ly/YoungbloodPatcher](http://
    - Investigation Cleanup
    - Missing Resistance Fighters
 6. Raid - Lab X (Genuinely need to do this otherwise softlock on `Lothar and Juju's Trap`)
+
 7. Siegturm
    - Robotmörder
    - Lothar and Juju's Trap
       * Missing Partner
          - Da'at Yichud Artifacts
+
+-- DONE --
