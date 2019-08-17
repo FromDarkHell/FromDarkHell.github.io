@@ -21,13 +21,13 @@ title: Wolfenstein Youngblood Game Info
    - Stolen Research [12] [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/Stolen_Research:_Enter_the_Underground)]
       * Brother 3 Underground
       * Data Tape [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/Data_Tape:_Find_the_Interrogation_Center)]
+         - Prison Break [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/Break_into_the_Prison_Wing)]
 3. Raid - Brother 1 (M) 
    - Statues (?) [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/Destroy_Hitler_Statues)]
       * Übercommander Fleischer [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/Ubercommander_Fleischer:_Revisit_the_Hospital)]
          - Blueprints [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/Blueprints:_Enter_the_Gestapo_Archives)]
-   - Prison Break [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/Break_into_the_Prison_Wing)]
 4. Raid - Brother 2 (M)
-   - Zitadelle Schematics [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/Zitadelle_Schematics:_Go_to_Brother_2)]
+   - Zitadelle Schematics [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/Zitadelle_Schematics:_Go_to_Brother_2)] **Claude The Armorer Needed**
    - Zeppelin Sabotage [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/Zeppelin_Sabotage)]
       * Sabotage Launchers [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/Sabotage_Launchers:_Go_to_Brother_2)]
          - Infiltrator's Report [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/Infiltrator%27s_Report:_Reach_Brother_1%27s_Prison)]
@@ -50,7 +50,7 @@ title: Wolfenstein Youngblood Game Info
 Notes:
 *  Brother 1, 2, 3 are all interchangable along with the missions that unlock their Underground.
 *  During `Laser Breach Device`, the `Find a Laser Device Battery` is unusable until the previous objective is complete
-*  The code for `Missing Resistance Fighters` is 1609, very well might be possible to skip the fighters & just go to the door.
+*  The code for `Missing Resistance Fighters` is 1609, You can easily skip finding all the fighters.
 *  The code for `Blueprints` is 5671
 *  If you don't complete `Raid - Lab X`, you're unable to complete `Lothar and Juju's Trap`
 
@@ -94,23 +94,24 @@ Downpatcher (Created by FromDarkHell): [http://bit.ly/YoungbloodPatcher](http://
       * Brother 2 Underground
    - Transmitter 
    - The Protohund
+   - Radio Propaganda
 4. Raid - Brother 2
-   - Zitadelle Schematics 
    - Zeppelin Sabotage
    - Sabotage Launchers
    - Stolen Research
       * Brother 3 Underground
 5. Raid - Brother 3
-   - Prison Break **AND** Statues (All in B1) (Farm the statues (Do Prison Break/Infiltrator's Report last statue))
-      * Übercommander Fleischer
-      * Blueprints
+   - Data Tape
+      * Prison Break **AND** Statues (All in B1) (Farm the statues (Do Prison Break/Infiltrator's Report last statue))
+         - Übercommander Fleischer
       * Infiltrator's Report
-      * Data Tape
-      * Claude The Armorer
+   - Claude The Armorer
+   - Blueprints
    - Investigation Cleanup
    - Missing Resistance Fighters
 6. Raid - Lab X (Genuinely need to do this otherwise softlock on `Lothar and Juju's Trap`)
 7. Siegturm
+   - Zitadelle Schematics 
    - Robotmörder
    - Lothar and Juju's Trap
       * Missing Partner
