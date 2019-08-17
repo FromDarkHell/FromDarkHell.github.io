@@ -86,6 +86,7 @@ Downpatcher (Created by FromDarkHell): [http://bit.ly/YoungbloodPatcher](http://
 2. Riverside
    - The Silent Outpost
    - Chemical Warfare 
+   - Rescue Marianne
    - Lenz’s Secret
       * Brother 1 Underground
 3. Raid - Brother 1
@@ -95,15 +96,17 @@ Downpatcher (Created by FromDarkHell): [http://bit.ly/YoungbloodPatcher](http://
    - Zitadelle Schematics 
    - Zeppelin Sabotage
    - Sabotage Launchers
-   - Prison Break **AND** Statues (All in B1) (Farm the statues (Do Prison Break/Infiltrator's Report last statue))
-      * Ubercommander Fleischer **AND** Rescue Marianne
-      * Blueprints
-      * Infiltrator's Report
    - Stolen Research
       * Brother 3 Underground
 5. Raid - Brother 3
    - Investigation Cleanup
    - Missing Resistance Fighters
+
+   - Prison Break **AND** Statues (All in B1) (Farm the statues (Do Prison Break/Infiltrator's Report last statue))
+      * Ubercommander Fleischer
+      * Blueprints
+      * Infiltrator's Report
+      * Data Tape
 6. Raid - Lab X (Genuinely need to do this otherwise softlock on `Lothar and Juju's Trap`)
 7. Siegturm
    - Robotmörder
