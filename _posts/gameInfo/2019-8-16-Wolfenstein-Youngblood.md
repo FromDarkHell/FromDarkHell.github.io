@@ -26,11 +26,11 @@ title: Wolfenstein Youngblood Game Info
       * Übercommander Fleischer [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/Ubercommander_Fleischer:_Revisit_the_Hospital)]
          - Blueprints [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/Blueprints:_Enter_the_Gestapo_Archives)]
    - Prison Break [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/Break_into_the_Prison_Wing)]
-   - Infiltrator's Report [23? Sabotage Launchers?] [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/Infiltrator%27s_Report:_Reach_Brother_1%27s_Prison)]
 4. Raid - Brother 2 (M)
    - Zitadelle Schematics [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/Zitadelle_Schematics:_Go_to_Brother_2)]
    - Zeppelin Sabotage [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/Zeppelin_Sabotage)]
       * Sabotage Launchers [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/Sabotage_Launchers:_Go_to_Brother_2)]
+         - Infiltrator's Report [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/Infiltrator%27s_Report:_Reach_Brother_1%27s_Prison)]
 5. Raid - Brother 3 (M)
    - Investigation Cleanup [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/Investigation_Cleanup:_Destroy_Investigation_Material)]
    - Missing Resistance Fighters
@@ -92,6 +92,8 @@ Downpatcher (Created by FromDarkHell): [http://bit.ly/YoungbloodPatcher](http://
 3. Raid - Brother 1
    - Laser Breach Device
       * Brother 2 Underground
+   - Transmitter 
+   - The Protohund
 4. Raid - Brother 2
    - Zitadelle Schematics 
    - Zeppelin Sabotage
@@ -99,14 +101,14 @@ Downpatcher (Created by FromDarkHell): [http://bit.ly/YoungbloodPatcher](http://
    - Stolen Research
       * Brother 3 Underground
 5. Raid - Brother 3
-   - Investigation Cleanup
-   - Missing Resistance Fighters
-
    - Prison Break **AND** Statues (All in B1) (Farm the statues (Do Prison Break/Infiltrator's Report last statue))
-      * Ubercommander Fleischer
+      * Übercommander Fleischer
       * Blueprints
       * Infiltrator's Report
       * Data Tape
+      * Claude The Armorer
+   - Investigation Cleanup
+   - Missing Resistance Fighters
 6. Raid - Lab X (Genuinely need to do this otherwise softlock on `Lothar and Juju's Trap`)
 7. Siegturm
    - Robotmörder
