@@ -6,5 +6,5 @@ layout: default
 <small>Last Updated: {{ page.date | date: "%-d %B %Y" }}</small>
 
 
-{{content}}
+{% include anchor_headings.html html=content %}
 
