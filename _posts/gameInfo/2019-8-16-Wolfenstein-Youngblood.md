@@ -39,7 +39,7 @@ title: Wolfenstein Youngblood Game Info
    - Lothar and Juju's Trap [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/Lother_and_Juju%27s_Trap:_Go_to_Lab_X_Underground)]
       * Missing Partner [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/Missing_Partner:_Find_Fifi_Lacroix)]
          - Da'at Yichud Artifacts [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/Da%27at_Yichud_Artifacts:_Steal_the_Da%27at_Yichud_Artifacts)]
-   - The Robotmörder [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/The_Robotermorder:_Search_for_the_Robotermorder)]
+   - The Robotmörder [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/The_Robotermorder:_Search_for_the_Robotermorder)] **Zitadelle Schematics Needed**
 
 | Key      | Value          |
 |----------|----------------|
@@ -53,6 +53,7 @@ Notes:
 *  The code for `Missing Resistance Fighters` is 1609, You can easily skip finding all the fighters.
 *  The code for `Blueprints` is 5671
 *  If you don't complete `Raid - Lab X`, you're unable to complete `Lothar and Juju's Trap`
+*  You can easily skip `Missing Partner`, by doing the Lab X skip and finding Fifi's body in the Bio Lab.
 
 ## Crate Codes
 
