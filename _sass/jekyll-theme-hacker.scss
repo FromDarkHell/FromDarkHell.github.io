@@ -9,6 +9,12 @@ $header: $conifer !default;
 $blockquote-color: $silver-chalice !default;
 $blockquote-border: $dove-grey !default;
 
+.deepLink {
+  font-size: smaller;
+  text-shadow: none;
+  text-decoration: none;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -254,8 +260,3 @@ a {
   zoom:1;
 }
 
-a.deeplink {
-  font-size: smaller;
-  text-shadow: none;
-  text-decoration: none;
-}
