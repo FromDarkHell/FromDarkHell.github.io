@@ -35,8 +35,8 @@ title: Borderlands 3 Glitches / Info / Tools
 |:-----------------------------:|:--------------:|
 | Slide Spam (+75% Slide Speed) |      3.92s     |
 |   Sliding (+75% Slide Speed)  |      4.08s     |
-|            Sliding            |      5.84s     |
-|           Slide Spam          |      5.74s     |
 |       Running + Jumping       |      5.66s     |
+|           Slide Spam          |      5.74s     |
+|            Sliding            |      5.84s     |
 |            Running            |      6.13s     |
 |            Walking            |      8.56s     |
