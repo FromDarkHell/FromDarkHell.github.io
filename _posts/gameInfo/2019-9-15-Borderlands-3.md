@@ -43,7 +43,7 @@ title: Borderlands 3 Glitches / Info / Tools
 
 ## File Edits
 
-### Disable Intros:
+###   Disable Intros:
     Go to <InstallationPath>\Borderlands3\OakGame\Content\Movies<br/>
     Be aware, the folder is spoiler heavy<br/>
     Rename/Delete `2KLOGO`, `AMDLOGO`, `GBXLOGO` and `MARCUS_INTRO`<br/>
