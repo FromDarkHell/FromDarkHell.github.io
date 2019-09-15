@@ -40,3 +40,11 @@ title: Borderlands 3 Glitches / Info / Tools
 |            Sliding            |      5.84s     |
 |            Running            |      6.13s     |
 |            Walking            |      8.56s     |
+
+## File Edits
+
+# Disable Intros:
+    Go to <InstallationPath>\Borderlands3\OakGame\Content\Movies
+    Be aware, the folder is spoiler heavy
+    Rename/Delete `2KLOGO`, `AMDLOGO`, `GBXLOGO` and `MARCUS_INTRO`
+    This doesnt skip the Vault Hunters intro cinematic.
