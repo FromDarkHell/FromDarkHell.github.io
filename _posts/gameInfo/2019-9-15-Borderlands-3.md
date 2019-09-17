@@ -43,8 +43,12 @@ title: Borderlands 3 Glitches / Info / Tools
 
 ## File Edits
 
-###   Disable Intros:
+###    Disable Intros:
     Go to <InstallationPath>\Borderlands3\OakGame\Content\Movies<br/>
     Be aware, the folder is spoiler heavy<br/>
     Rename/Delete `2KLOGO`, `AMDLOGO`, `GBXLOGO` and `MARCUS_INTRO`<br/>
     This doesnt skip the Vault Hunters intro cinematic.<br/>
+
+## Game/Speedrun Tools
+
+* [Speedrun Profile Manager]({{site.url}}/assets/downloads/BL3SpeedrunProfileManager.rar) (You need your speedrun profile.sav named as `profile - SPEEDRUN.sav`)
