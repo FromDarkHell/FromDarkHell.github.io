@@ -42,7 +42,7 @@ title: Borderlands 3 Glitches / Info / Tools
 22. In the Shadow of Starlight
 23. Divine Retribution
 <br/>
-- Note: This mission flow may not be fully 100% accurate.
+Note: This mission flow may not be fully 100% accurate.
 
 ## Movement Sheet
 
