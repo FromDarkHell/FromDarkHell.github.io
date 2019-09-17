@@ -7,10 +7,23 @@ title: Borderlands 3 Glitches / Info / Tools
 
 1. Children of The Vault
 2. From The Ground Up
+	* Powerful Connections
 3. Cult Following
+    * Bad Reception
+    * Dump on Dumptruck
+    * Under Taker
+    * Head Case
+    * Golden Calves
+    * Skag Dog Days 
 4. Taking Flight
 5. Sanctuary
 6. Hostile Takeover
+    * Just a Prick
+    * Healers and Dealers
+    * Maliwannabees
+    * Rise and Grind
+        * Dynasty Diner 
+    * Kill Killavolt 
 7. The Impending Storm
 8. Space-Laser Tag
 9. Atlas, At Last
@@ -28,6 +41,8 @@ title: Borderlands 3 Glitches / Info / Tools
 21. Footsteps of Giants
 22. In the Shadow of Starlight
 23. Divine Retribution
+<br/>
+- Note: This mission flow may not be fully 100% accurate.
 
 ## Movement Sheet
 
