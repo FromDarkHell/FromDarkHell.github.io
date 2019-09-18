@@ -67,3 +67,7 @@ Note: This mission flow may not be fully 100% accurate.
 ## Game/Speedrun Tools
 
 * [Speedrun Profile Manager]({{site.url}}/assets/downloads/BL3SpeedrunProfileManager.rar) (You need your speedrun profile.sav named as `profile - SPEEDRUN.sav`)
+
+## Lore Info:
+
+* [All Eridian Writings]({{site.baseurl}}{% link _posts/lore-info/BL3-Eridian-Writings.md %})
