@@ -70,4 +70,4 @@ Note: This mission flow may not be fully 100% accurate.
 
 ## Lore Info:
 
-* [All Eridian Writings]({{site.baseurl}}{% link _posts/lore-info/BL3-Eridian-Writings.md %})
+* [All Eridian Writings]({{site.baseurl}}/_posts/lore-info/BL3-Eridian-Writings.md)
