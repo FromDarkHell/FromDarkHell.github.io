@@ -58,8 +58,7 @@ Note: This mission flow may not be fully 100% accurate.
 
 ## Lore Info:
 
-* [All Eridian Writings]({{ site.baseurl }}{% post_url 2019-9-17-Eridian-Writings %})
-
+* [All Eridian Writings]({{ site.baseurl }}{% post_url 2019-9-18-Eridian-Writings %})
 
 ## Movement Sheet
 
