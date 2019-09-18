@@ -19,7 +19,7 @@ title: Borderlands 3 Eridian Writings
 "[Nyriad] The Eridians were neither gods nor demons. They were simply a people whose abilities outpaced their needs, so in their curiosity broke down the walls that should have stayed up. They were, perhaps, fated to be erased at their own behest, like the forest that grows so that it may burn."
 
 ### Free 
-"[Nyriad] What will happen, I wonde2r when all the Vaults are empty, and all the terrors dead? Will the Guardians still stand their vigil? Will they find a greater purpose? And what is stopping them from finding it now?"
+"[Nyriad] What will happen, I wonder when all the Vaults are empty, and all the terrors dead? Will the Guardians still stand their vigil? Will they find a greater purpose? And what is stopping them from finding it now?"
 
 ### Language
 "[Nyriad] We once lived side-by-side with the Eridians, though already the forgetting has begun. There was no fear of one another. Only awe on one side, and a kind of sadness on the other. They never said if they knew their fate before it fell. But they also never said any of us had a choice."
@@ -103,4 +103,4 @@ title: Borderlands 3 Eridian Writings
 "[Nyriad] I have seen Guardians change their own bodies, lengthening their blades or strengthening their armor as they require. I wonder how far they might change themselves now, in the absence of their makers."
 
 ### Uncountable
-"[Nyriad] Since the Guardians are not bound to individual bodie,s it is nearly impossible to know how many the Eridians might have made. An uncountable army, hidden below the surfaces of a hundred worlds. We are fortunate that they rarely stray far from their wards.="
+"[Nyriad] Since the Guardians are not bound to individual bodies it is nearly impossible to know how many the Eridians might have made. An uncountable army, hidden below the surfaces of a hundred worlds. We are fortunate that they rarely stray far from their wards."

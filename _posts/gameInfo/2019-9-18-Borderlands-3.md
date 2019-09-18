@@ -44,18 +44,6 @@ title: Borderlands 3 Glitches / Info / Tools
 <br/>
 Note: This mission flow may not be fully 100% accurate.
 
-## Movement Sheet
-
-|        Type of Movement       | Time (seconds) |
-|:-----------------------------:|:--------------:|
-| Slide Spam (+75% Slide Speed) |      3.92s     |
-|   Sliding (+75% Slide Speed)  |      4.08s     |
-|       Running + Jumping       |      5.66s     |
-|           Slide Spam          |      5.74s     |
-|            Sliding            |      5.84s     |
-|            Running            |      6.13s     |
-|            Walking            |      8.56s     |
-
 ## File Edits
 
 ###    Disable Intros:
@@ -71,3 +59,16 @@ Note: This mission flow may not be fully 100% accurate.
 ## Lore Info:
 
 * [All Eridian Writings]({{ site.baseurl }}{% post_url 2019-9-17-Eridian-Writings %})
+
+
+## Movement Sheet
+
+|        Type of Movement       | Time (seconds) |
+|:-----------------------------:|:--------------:|
+| Slide Spam (+75% Slide Speed) |      3.92s     |
+|   Sliding (+75% Slide Speed)  |      4.08s     |
+|       Running + Jumping       |      5.66s     |
+|           Slide Spam          |      5.74s     |
+|            Sliding            |      5.84s     |
+|            Running            |      6.13s     |
+|            Walking            |      8.56s     |
