@@ -56,6 +56,7 @@ Note: This mission flow may not be fully 100% accurate.
 
 * [Speedrun Profile Manager]({{site.url}}/assets/downloads/BL3SpeedrunProfileManager.rar) (You need your speedrun profile.sav named as `profile - SPEEDRUN.sav`)
 * [Dehotfixifier]({{site.url}}/assets/downloads/BL3-Dehotfixifier.rar) (Insert where you have your Epic Launcher exe and don't click `Update Available` when its available) [Only intended for speedrunning use!]
+* [Glitch Spreadsheet](https://docs.google.com/spreadsheets/d/1KyGZIbKvd0QH23HRhby8VZVQacW4ErUvDeYAyD3FEkw/edit?usp=sharing)
 
 ## Lore Info:
 

@@ -104,3 +104,9 @@ title: Borderlands 3 Eridian Writings
 
 ### Uncountable
 "[Nyriad] Since the Guardians are not bound to individual bodies it is nearly impossible to know how many the Eridians might have made. An uncountable army, hidden below the surfaces of a hundred worlds. We are fortunate that they rarely stray far from their wards."
+
+### Secrets
+"[Nyriad] With Pandora sealed, and the Destroyer chained within, the greatest of the Eridians' secrets is put to rest. It would be folly for me to think, though, that this is the last of them. There are countless other wonders or terrors they hid across the stars before my time. For every Graveward, Traveller, or Timekeeper, there are surely a duzen more slumbering in forgotten Vaults."
+
+### Warning
+"[Nyriad] You. You know now all that I know. This was an epitaph, not for myself, but for the world I knew. I have brought ruin to the Sirens, murdered the Eridians, and imprisoned a primordial force of the universe. Perhaps I have earned your hatred or your sympathy. But that is not why I write these words. I havetold you the truth, no matter its hard edges. Before I can put my fractured mind to rest, I must pass one more warning. [Nyriad] You must never find the Seventh."
