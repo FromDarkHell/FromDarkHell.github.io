@@ -55,21 +55,11 @@ Note: This mission flow may not be fully 100% accurate.
 ## Game/Speedrun Tools
 
 * [Speedrun Profile Manager]({{site.url}}/assets/downloads/BL3SpeedrunProfileManager.rar) (You need your speedrun profile.sav named as `profile - SPEEDRUN.sav`)
-* [Dehotfixifier]({{site.url}}/assets/downloads/BL3-Dehotfixifier.rar) (Insert where you have your Epic Launcher exe and don't click `Update Available` when its available) [Only intended for speedrunning use!]
+* [Dehotfixifier]({{site.url}}/assets/downloads/BL3-Dehotfixifier.rar) (Don't click `Update Available` when/if its available) [Only intended for speedrunning use!]
 * [Glitch Spreadsheet](https://docs.google.com/spreadsheets/d/1KyGZIbKvd0QH23HRhby8VZVQacW4ErUvDeYAyD3FEkw/edit?usp=sharing)
+* [Geared Moze Save File]({{site.url}}/assets/downloads/bl3saves/1.sav)
+* [Compiled Starting Save Files]({{site.url}}/assets/downloads/bl3saves/Starters.rar)
 
 ## Lore Info:
 
 * [All Eridian Writings]({{ site.baseurl }}{% post_url 2019-9-18-Eridian-Writings %})
-
-## Movement Sheet
-
-|        Type of Movement       | Time (seconds) |
-|:-----------------------------:|:--------------:|
-| Slide Spam (+75% Slide Speed) |      3.92s     |
-|   Sliding (+75% Slide Speed)  |      4.08s     |
-|       Running + Jumping       |      5.66s     |
-|           Slide Spam          |      5.74s     |
-|            Sliding            |      5.84s     |
-|            Running            |      6.13s     |
-|            Walking            |      8.56s     |
