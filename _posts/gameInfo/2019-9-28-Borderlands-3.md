@@ -53,6 +53,8 @@ Note: This mission flow may not be fully 100% accurate.
 * [Geared Moze Save File]({{site.url}}/assets/downloads/bl3saves/1.sav)
 * [Compiled Starting Save Files]({{site.url}}/assets/downloads/bl3saves/Starters.rar)
 
+* [Collectable Guide / Online Maps](https://mapgenie.io/borderlands-3)
+
 ## Lore Info:
 
 * [All Eridian Writings]({{ site.baseurl }}{% post_url 2019-9-18-Eridian-Writings %})
