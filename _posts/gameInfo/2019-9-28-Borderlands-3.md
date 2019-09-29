@@ -64,7 +64,7 @@ Rename/Delete `2KLOGO`, `AMDLOGO`, `GBXLOGO` and `MARCUS_INTRO`<br/>
 This doesnt skip the Vault Hunters intro cinematic.<br/>
 
 ## Texture Streaming Edits
-If you navigate to, `Documents\My Games\Borderlands 3\Saved\Config\WindowsNoEditor` and edit: `GameUserSettings.ini`<br/>
+If you navigate to, `Documents\My Games\Borderlands 3\Saved\Config\WindowsNoEditor\GameUserSettings.ini`<br/>
 You'll see at the end of the file something along the lines of: `TextureStreamingViewBoostScale=0.000000`<br/>
 You can edit these ini values  and then set your `GameUserSettings.ini` to read-only. If you want to modify any of the values set their respective `Override` value to `1.000000`. I personally use (in order of appearence w/o the `Override` values): `0.5, 0.5, 160`.<br/>
 You can also try setting `bUseDynamicResolution` to `True`.
