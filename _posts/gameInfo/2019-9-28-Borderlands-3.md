@@ -49,16 +49,17 @@ Note: This mission flow may not be fully 100% accurate.
 * [Speedrun Profile Manager]({{site.url}}/assets/downloads/BL3SpeedrunProfileManager.rar) (You need your speedrun profile.sav named as `profile - SPEEDRUN.sav`)
 * [Downpatcher](https://drive.google.com/open?id=1FJr4KGBnGvaUKoKK-b4fYOzd_WFCpH3E)
 * [Glitch Spreadsheet](https://docs.google.com/spreadsheets/d/1KyGZIbKvd0QH23HRhby8VZVQacW4ErUvDeYAyD3FEkw/edit?usp=sharing)
+
 * [Geared Moze Save File]({{site.url}}/assets/downloads/bl3saves/1.sav)
 * [Compiled Starting Save Files]({{site.url}}/assets/downloads/bl3saves/Starters.rar)
-* [Downpatcher](https://drive.google.com/open?id=1FJr4KGBnGvaUKoKK-b4fYOzd_WFCpH3E)
 
 ## Lore Info:
 
 * [All Eridian Writings]({{ site.baseurl }}{% post_url 2019-9-18-Eridian-Writings %})
+* [All Typhon Logs]({{ site.baseurl }}{% post_url 2019-9-29-Typhon-Logs %})
 
 ## Disable Intros
-Go to <InstallationPath>\Borderlands3\OakGame\Content\Movies<br/>
+Go to \Borderlands3\OakGame\Content\Movies<br/>
 Be aware, the folder is spoiler heavy<br/>
 Rename/Delete `2KLOGO`, `AMDLOGO`, `GBXLOGO` and `MARCUS_INTRO`<br/>
 This doesnt skip the Vault Hunters intro cinematic.<br/>
