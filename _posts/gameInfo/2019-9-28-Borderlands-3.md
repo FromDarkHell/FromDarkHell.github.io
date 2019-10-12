@@ -5,42 +5,119 @@ title: Borderlands 3 Glitches / Info / Tools
 
 ## Mission Flow
 
-1. Children of The Vault
-2. From The Ground Up
-	* Powerful Connections
-3. Cult Following
-    * Bad Reception
-    * Dump on Dumptruck
+1. Children of the Vault
+    * The Slaughter Shaft
+    * Skag Dog Days
     * Under Taker
+    * Powerful Connections
+2. From The Ground Up
+    * Bad Reception
     * Head Case
     * Golden Calves
-    * Skag Dog Days 
+3. Cult Following
+    * Dump on Dumptruck
 4. Taking Flight
+    * Demo Skag
 5. Sanctuary
-6. Hostile Takeover
-    * Just a Prick
-    * Healers and Dealers
+    * Borman Nates
+    * Urist McEnforcer
+    * Vic and Warty
     * Maliwannabees
+    * Porta Prison
+    * Healers and Dealers
     * Rise and Grind
-        * Dynasty Diner 
-    * Kill Killavolt 
+        - Dynasty Diner
+    * Kill Killavolt
+    * Technical NOGout
+    * Proof of Wife
+6. Hostile Takeover
+    * Just A Prick
+    * Holy Spirits
 7. The Impending Storm
+    * Dinklebot
+    * Invasion of Privacy
+    * Opposition Research
 8. Space-Laser Tag
-9. Atlas, At Last
+    * Power Troopers
+9. Atlas At Last
+    * Ratch'd Up
 10. Beneath the Meridian
+    * Kill the Grogans and Their Mother
+    * Kill IndoTyrant
+    * On the Blood Path
+    * Get Quick, Slick
 11. Hammerlocked
+    * El Dragon Jr
+    * The Kevin Konundrum
+    * Cistern of Slaughter
+    * Sacked
+    * Don't Truck with Eden-6
+    * Witch's Brew
 12. Lair of the Harpy
+    * Malevolent Practice
+    * Irregular Customers
 13. The Guns of Reliance
+    * Maxitrillion
+    * Rumble In The Jungle
+    * Swamp Bro
+    * Capture the Frag
+    * Dynasty Dash: Eden-6 (Dynasty Diner needed)
 14. The Family Jewel
+    Red Jabber
+    The Unstoppable
+    Sell Out
 15. Going Rogue
+    Raiders of the Lost Rock
 16. Cold as the Grave
+    * Rakkman
+    * Road Dog
+    * Tarantella
+    * The Homestead
+        - The Homestead (Part 2)
+            * The Homestead (Part 3)
+    * Pandora's Next Top Mouthpiece
+    * Buff Film Buff
+    * Just Desserts
+    * Boom Boom Boomtown
+        * Life of the Party
+        * Sheega's All That
+    * Dynasty Dash: Pandora (Dynasty Diner needed)
+    * The Feeble and the Furious
+    * Let's Get It Vaughn
+    * ECHOnet Neutrality
 17. Blood Drive
+    * Captain Thunk and Sloth
+    * The Demon in the Dark
+    * Childhood's End
+    * Wildlife Conservation (Life of the Party needed)
 18. Angels and Speed Demons
 19. The Great Vault
+    * Discover the Trial of Survival
+        - Trial of Survival
+    * Discover the Trial of Fervor
+        - Trial of Fervor
+    * Discover the Trial of Cunning
+        - Trial of Cunning
+    * Discover the Trial of Supremacy
+        - Trial of Supremacy
+    * Discover the Trial of Discipline
+        - Trial of Discipline
+    * Discover the Trial of Instinct
+        - Trial of Instinct
+    * Welcome to Slaughterstar 3000
+        - Tech Slaughter
+    * Transaction-Packed
+        - Baby Dancer (ECHOnet Neutrality, Healers and Dealers, Raiders of the Lost Rock needed)
 20. The First Vault Hunter
+    * Cannonization
+        - Bad Vibrations
+    * Homeopathological
 21. Footsteps of Giants
+    * It's Alive (Homeopathological needed)
 22. In the Shadow of Starlight
+    * Fire in the Sky (Bad Vibrations needed)
 23. Divine Retribution
+
 <br/>
 Note: This mission flow may not be fully 100% accurate.
 
