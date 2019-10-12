@@ -4,7 +4,6 @@ title: Borderlands 3 Glitches / Info / Tools
 ---
 
 ## Mission Flow
-
 1. Children of the Vault
     * The Slaughter Shaft
     * Skag Dog Days
@@ -38,7 +37,7 @@ title: Borderlands 3 Glitches / Info / Tools
     * Invasion of Privacy
     * Opposition Research
 8. Space-Laser Tag
-    * Power Troopers
+    * Kill Power Troopers
 9. Atlas At Last
     * Ratch'd Up
 10. Beneath the Meridian
@@ -126,10 +125,8 @@ Note: This mission flow may not be fully 100% accurate.
 * [Speedrun Profile Manager]({{site.url}}/assets/downloads/BL3SpeedrunProfileManager.rar) (You need your speedrun profile.sav named as `profile - SPEEDRUN.sav`)
 * [Downpatcher](https://drive.google.com/open?id=1FJr4KGBnGvaUKoKK-b4fYOzd_WFCpH3E)
 * [Glitch Spreadsheet](https://docs.google.com/spreadsheets/d/1KyGZIbKvd0QH23HRhby8VZVQacW4ErUvDeYAyD3FEkw/edit?usp=sharing)
-
 * [Geared Moze Save File]({{site.url}}/assets/downloads/bl3saves/1.sav)
 * [Compiled Starting Save Files]({{site.url}}/assets/downloads/bl3saves/Starters.rar)
-
 * [Collectable Guide / Online Maps](https://mapgenie.io/borderlands-3)
 
 ## Lore Info:
