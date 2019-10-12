@@ -17,11 +17,11 @@ title: Borderlands 3 Glitches / Info / Tools
 3. Cult Following
     * Dump on Dumptruck
 4. Taking Flight
-    * Demo Skag
+    * Kill Demo Skag
 5. Sanctuary
-    * Borman Nates
-    * Urist McEnforcer
-    * Vic and Warty
+    * Kill Borman Nates
+    * Kill Urist McEnforcer
+    * Kill Vic and Warty
     * Maliwannabees
     * Porta Prison
     * Healers and Dealers
@@ -34,7 +34,7 @@ title: Borderlands 3 Glitches / Info / Tools
     * Just A Prick
     * Holy Spirits
 7. The Impending Storm
-    * Dinklebot
+    * Kill Dinklebot
     * Invasion of Privacy
     * Opposition Research
 8. Space-Laser Tag
@@ -47,7 +47,7 @@ title: Borderlands 3 Glitches / Info / Tools
     * On the Blood Path
     * Get Quick, Slick
 11. Hammerlocked
-    * El Dragon Jr
+    * Kill El Dragon Jr
     * The Kevin Konundrum
     * Cistern of Slaughter
     * Sacked
@@ -57,21 +57,21 @@ title: Borderlands 3 Glitches / Info / Tools
     * Malevolent Practice
     * Irregular Customers
 13. The Guns of Reliance
-    * Maxitrillion
+    * Kill Maxitrillion
     * Rumble In The Jungle
     * Swamp Bro
     * Capture the Frag
     * Dynasty Dash: Eden-6 (Dynasty Diner needed)
 14. The Family Jewel
-    Red Jabber
-    The Unstoppable
-    Sell Out
+    * Kill Red Jabber
+    * The Unstoppable
+    * Sell Out
 15. Going Rogue
-    Raiders of the Lost Rock
+    * Raiders of the Lost Rock
 16. Cold as the Grave
-    * Rakkman
-    * Road Dog
-    * Tarantella
+    * Kill Rakkman
+    * Kill Road Dog
+    * Kill Tarantella
     * The Homestead
         - The Homestead (Part 2)
             * The Homestead (Part 3)
