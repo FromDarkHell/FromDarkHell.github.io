@@ -29,6 +29,8 @@ title: Borderlands 3 Glitches / Info / Tools
     * Kill Killavolt
     * Technical NOGout
     * Proof of Wife
+    * Bloody Harvest: Descent into Heck
+        - Bloody Harvest: The Rebloodening
 6. Hostile Takeover
     * Just A Prick
     * Holy Spirits
