@@ -118,6 +118,8 @@ title: Borderlands 3 Glitches / Info / Tools
 22. In the Shadow of Starlight
     * Fire in the Sky (Bad Vibrations needed)
 23. Divine Retribution
+    * Discover: Takedown at the Maliwan Blacksite
+        - Takedown at the Maliwan Blacksite
 
 <br/>
 Note: This mission flow may not be fully 100% accurate.
