@@ -29,8 +29,25 @@ title: Borderlands 3 Glitches / Info / Tools
     * Kill Killavolt
     * Technical NOGout
     * Proof of Wife
-    * Bloody Harvest: Descent into Heck
+    * Bloody Harvest: Descent into Heck (**Bloody Harvest Event**)
         - Bloody Harvest: The Rebloodening
+    1. The Handsome Jackpot (**The Handsome Jackpot**)
+        2. Playing with Fire
+            3. Winners and Losers
+                4. One Man's Treasure
+                    5. The Plan
+                        6. Jack's Wild
+                            7. All Bets Off
+                                * Double Down
+                        * Acid Trip
+                        * Raging Bot
+                    - Too Much Of A Good Thing
+                - Do It For Digby - Part 1
+                    * Do It For Digby - Part 2
+                        - Do It For Digby - Part 3
+                - Heart of Gold
+            * The Great Escape
+        - Sisterly Love
 6. Hostile Takeover
     * Just A Prick
     * Holy Spirits
