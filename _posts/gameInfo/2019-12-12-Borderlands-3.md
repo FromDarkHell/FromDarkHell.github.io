@@ -31,13 +31,13 @@ title: Borderlands 3 Glitches / Info / Tools
     * Proof of Wife
     * Bloody Harvest: Descent into Heck (**Bloody Harvest Event**)
         - Bloody Harvest: The Rebloodening
-    * 1. The Handsome Jackpot (**The Handsome Jackpot**)
-        - 2. Playing with Fire
-            * 3. Winners and Losers
-                - 4. One Man's Treasure
-                    * 5. The Plan
-                        - 6. Jack's Wild
-                            * 7. All Bets Off
+    * The Handsome Jackpot (**The Handsome Jackpot**)
+        - Playing with Fire
+            * Winners and Losers
+                - One Man's Treasure
+                    * The Plan
+                        - Jack's Wild
+                            * All Bets Off
                                 - Double Down
                         * Acid Trip
                         * Raging Bot
