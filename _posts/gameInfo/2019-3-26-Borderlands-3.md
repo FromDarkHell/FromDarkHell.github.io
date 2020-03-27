@@ -48,7 +48,7 @@ title: Borderlands 3 Glitches / Info / Tools
                 - Heart of Gold
             * The Great Escape
         - Sisterly Love
-    * The Party Out Of Space (**AAAA**)
+    * The Party Out Of Space (**Guns, Love, and Tentacles**)
         - The Shadow Over Cursehaven
             * The Case of Wainwright Jakobs
                 - The Horror in the Woods
