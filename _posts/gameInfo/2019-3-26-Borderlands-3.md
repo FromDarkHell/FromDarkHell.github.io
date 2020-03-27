@@ -48,6 +48,30 @@ title: Borderlands 3 Glitches / Info / Tools
                 - Heart of Gold
             * The Great Escape
         - Sisterly Love
+    * The Party Out Of Space (**AAAA**)
+        - The Shadow Over Cursehaven
+            * The Case of Wainwright Jakobs
+                - The Horror in the Woods
+                    * On the Mountain of Mayhem
+                        - The Call of Gythian
+                            * Happily Ever After
+                    * We Slass!
+                        -  We Slass! (Part 2)
+                            * We Slass! (Part 3)
+                    * The Madness Beneath
+                    * Kill Voltborn
+                    * Kill Shiverous the Unscathed
+                - The Great Escape (Part 2)
+                - Cold Case: Buried Questions
+                    * Cold Case: Restless Memories
+                        - Cold Case: Forgotten Answer
+                - The Nibblenomicon
+                - The Proprietor: Rare Vintage
+                - Kill Fungal Gorger
+            * Sinister Sounds
+            * The Proprietor: Empty Bottles
+        - The Call of the Deep
+        - Kill Amach
 6. Hostile Takeover
     * Just A Prick
     * Holy Spirits
@@ -140,6 +164,7 @@ title: Borderlands 3 Glitches / Info / Tools
 
 <br/>
 Note: This mission flow may not be fully 100% accurate.
+Note #2: Data gathered through `getall Mission MissionDependencies`
 
 ## Game/Speedrun Tools
 
