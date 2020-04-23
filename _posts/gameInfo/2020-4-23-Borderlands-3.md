@@ -72,6 +72,8 @@ title: Borderlands 3 Glitches / Info / Tools
             * The Proprietor: Empty Bottles
         - The Call of the Deep
         - Kill Amach
+    * Revenge of the Cartels: Ultraviolet Nights (**Cartels Event**)
+        - Revenge of the Cartels II: The Revengening
 6. Hostile Takeover
     * Just A Prick
     * Holy Spirits
