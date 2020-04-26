@@ -77,6 +77,7 @@ title: Borderlands 3 Glitches / Info / Tools
 6. Hostile Takeover
     * Just A Prick
     * Holy Spirits
+    * Claw and Order
 7. The Impending Storm
     * Kill Dinklebot
     * Invasion of Privacy
