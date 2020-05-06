@@ -2,6 +2,8 @@
 layout: post
 title: Borderlands 2/TPS Game Info
 redirect_from: "/bl2"
+date: 2019-08-13
+last-modified: 2019-08-14
 ---
 
 
