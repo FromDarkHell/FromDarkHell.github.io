@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Borderlands 3 Glitches / Info / Tools
-date:  2020-04-25
+date:  2020-04-25T00:00:00Z
 ---
 
 ## Mission Flow

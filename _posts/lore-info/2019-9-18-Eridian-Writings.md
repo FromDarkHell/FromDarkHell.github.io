@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Borderlands 3 Eridian Writings
-date:  2019-09-18
+date:  2019-09-18T00:00:00Z
 ---
 
 ### Nyriad 

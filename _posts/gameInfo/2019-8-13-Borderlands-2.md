@@ -2,7 +2,7 @@
 layout: post
 title: Borderlands 2/TPS Game Info
 redirect_from: "/bl2"
-date: 2019-08-14
+date: 2019-08-14T00:00:00Z
 ---
 
 

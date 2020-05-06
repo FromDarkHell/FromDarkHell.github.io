@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Borderlands 3 Typhon Logs
-date:  2019-09-20
+date:  2019-09-20T00:00:00Z
 ---
 All quotes are said by Typhon DeLeon unless otherwise specified.
 
