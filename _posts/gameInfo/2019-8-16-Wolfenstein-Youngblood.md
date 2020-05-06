@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Wolfenstein Youngblood Game Info
-date:  2019-08-13
-last-modified: 2019-08-17
+date:  2019-08-17
 ---
   
 ## Mission Flow

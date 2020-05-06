@@ -3,14 +3,7 @@ layout: default
 ---
 
 <h1>{{ page.title }}</h1>
-{%- assign date_format = '%b %-d, %Y' -%}
-
-{%- if page.last_modified_at -%}
-    	<small>Last updated: {%- page.last_modified_at | date: date_format -%}</small>
-{%- else -%}
-    	<small>Last updated: {%- page.date | date: date_format -%}</small>
-{%- endif -%}
-
+<small>Last Updated: {{ page.date | date_to_string }}</small>
 
 
 {{content}}
