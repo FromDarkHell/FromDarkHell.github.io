@@ -9,6 +9,21 @@ title: Borderlands 3 Glitches / Info / Tools
     * Skag Dog Days
     * Under Taker
     * Powerful Connections
+    * Blood From A Stone (**Bounty of Blood**)
+        - The Legend of McSmugger
+        - Miracle Elixir Fixer
+        - Devil Rustlers
+            * Saurdew Valley
+        - Money Back Guarantee
+        - Dirty Deeds
+        - The Name of the Law
+            * Of Blood and Beans
+            * Lost and Found
+            * Off the Rails
+                - The Dandy and Damsel
+                - The Meatman Prophecy
+                - Where It All Started
+                    * Riding to Ruin
 2. From The Ground Up
     * Bad Reception
     * Head Case
