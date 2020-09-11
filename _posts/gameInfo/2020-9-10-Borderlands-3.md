@@ -24,6 +24,23 @@ title: Borderlands 3 Glitches / Info / Tools
                 - The Meatman Prophecy
                 - Where It All Started
                     * Riding to Ruin
+    * Enter The Psychoscape (**Psycho Krieg and the Fantastic Fustercluck**)
+        - Siege of Castle Crimson
+            * What Love Remains
+                - Inhuman Trials
+                    * Locus of Rage
+                    * Remodel Behavior
+                - Check, Please
+                - Don't Call It A Rorschach
+                - It's An Allegory
+            * Brainstorm
+            * That Rings A Something
+            * Scratch, Don't Sniff
+            * A Good Egg
+            * Krieg's On Parade
+        - Laid To Rust
+        - Blast Requests
+        - Hot And Unbothered
 2. From The Ground Up
     * Bad Reception
     * Head Case
@@ -195,8 +212,8 @@ Note #2: Data gathered through `getall Mission MissionDependencies`
 
 ## Lore Info:
 
-* [All Eridian Writings]({{ site.baseurl }}{% post_url 2019-9-18-Eridian-Writings %})
-* [All Typhon Logs]({{ site.baseurl }}{% post_url 2019-9-29-Typhon-Logs %})
+* [All Eridian Writings]({{ site.baseurl }}/Eridian-Writings/)
+* [All Typhon Logs]({{ site.baseurl }}/Typhon-Logs/)
 
 ## Disable Intros
 Go to \Borderlands3\OakGame\Content\Movies<br/>
