@@ -11,7 +11,10 @@ All of this data was extracted from the game's disc and then parsed with [specif
 ## Music Information
 Note: I hold no claims of owning these assets, they're posted here purely for historical reference
 
+
 ### Naming Table
+These are all from the main soundtrack or songs that play during the background (and not licensed)
+
 
 | Extracted Name    | Song Title                            | In Game Song Name   |
 |:-----------------:|:-------------------------------------:|:-------------------:|
@@ -60,7 +63,53 @@ Note: I hold no claims of owning these assets, they're posted here purely for hi
 | Rock8.mp3         | Scattering Guts                       | Rock 6
 | Rock9.mp3         | To The Rotten World                   | Rock 8
 
-Note: This table was created a [Tumblr post](https://linktm.tumblr.com/post/29913931959/lollipop-chainsaw-complete-soundtrack-rip/amp)<br/>
+### Other Songs
+These are just other miscellaneous songs / files (that I don't actually have on hand myself)
+
+
+| Extracted Name     | Song Title                            | Stage/Other   |
+|:------------------:|:-------------------------------------:|:-------------------:|
+| Music Title 01.mp3  | Title Screen |
+| NowLoadingBicycle.mp3 | Now Loading, Bicycle | Chapter 1 
+| NowLoadingCafeExplodes.mp3 | Now Loading Cafe Explodes | Chapter 2
+| TelBell.mp3 | Juliet's Ringtone | N/A
+| TELEPHONETIMEMom.mp3 | Telephone Time with Mom |
+| NowLoadingToJunkward.mp3 | Now Loading To Junkyard | Chapter 2
+| CHB1MusicP1.mp3 | Punk Rock Zombie - Phase 1 | (Zed1)
+| CHB1MusicP2.mp3 | Punk Rock Zombie - Phase 2 | (Zed2)
+| TELEPHONETIMECordelia.mp3 | Telephone Time w/Cordelia | 
+| ZOMBIWALK.mp3 | You're Already Dead! |
+| Gatekeeper.mp3 | Pass the Gatekeeper |
+| MusicTrack100.mp3 | Zombie Baseball |
+| STAGELAST Connector.mp3 | Waiting Room (End of Stage)
+| CHB2MusicP1.mp3 | Viking Metal Zombie | Phase 1 (Vikke1)
+| CHB2MusicP2.mp3 | Viking Metal Zombie | Phase 2 (Vikke2)
+| CHB2MusicP3.mp3 | Viking Metal Zombie | Phase 3 (Vikke3)
+| TELEPHONETIMEMomB.mp3 | Telephone Time w/Mom B
+| NowLoadingKaleidoscope.mp3 | Now Loading, Kaleidoscope | CH4
+| ThreeFaces.mp3 | Chickenzilla
+| ThreeFacesAfter.mp3 | Mecha Chickenzilla
+| SurvivorsZombieJINGLE.mp3 | Zombified Survivor
+| CH_B3_Music_P1.mp3 | Psychedelic Zombie | Phase 1 (Mariska1)
+| CH_B3_Music_P2.mp3 | Psychedelic Zombie | Phase 2 (Mariska2)
+| CH_B3_Music_P3.mp3 | Psychedelic Zombie | Phase 3 (Mariska3)
+| Neighbor.mp3 | Ate My Neighbors
+| Jingle.mp3 | Jingle (Funk Arcade)
+| NowLoading.mp3 | Now Loading
+| TELEPHONETIMEMomC.mp3 | Telephone Time w/Mom C
+| TELEPHONETIMECordeliaB.mp3 | Telephone Time w/Cordelia B
+| JingleShort.mp3 | Jingle |
+| CH_B4_Music_P1.mp3 | Funk Zombie | Phase 1 (Josey1)
+| CHB4MusicP2.mp3 | Funk Zombie | Phase 2 (Josey2)
+| TELEPHONETIME Rosalind.mp3 | Telephone Time with Rosalind |
+| NowLoadingtoLewis.mp3 | Now Loading, To Lewis | CH6 
+| CHB5Music.mp3 | Rock n' Roller Zombie (Lewis) |
+| KilabillyRoll.mp3 | KillaBilly n' Roll | Killabilly Boss Fight?
+| CHB6Music.mp3 | Zombie of Zombies | Killabilly1
+| NowLoadingIntoKillabillysBody.mp3 | Now Loading, Into Killabilly's Body | CH7
+
+Note: This table was created based off of a [Tumblr post](https://linktm.tumblr.com/post/29913931959/lollipop-chainsaw-complete-soundtrack-rip/amp)<br/>
+Note 2: Yeah honestly for some reason the .mp3 extracted names don't actually match with the proper in game song number, it makes no sense but y'know *sure I guess*<br/>
 
 ### Cover Images
 <div style="display: flex;width: 100%;margin-bottom: 3rem;flex-wrap:wrap;">
