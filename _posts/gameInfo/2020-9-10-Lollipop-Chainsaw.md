@@ -4,15 +4,17 @@ title: Lollipop Chainsaw Game Info
 ---
 <br/>
 
+Most of this page is just already known info with nothing new but just me wanting to compile random things about this dumb game
 
- 
+All of this data was extracted from the game's disc and then parsed with [specific python scripts](https://gist.github.com/FromDarkHell/38b09cc3b22a577659077f85661c7dce)
+
 ## Music Information
 Note: I hold no claims of owning these assets, they're posted here purely for historical reference
 
 ### Naming Table
 
-| Extracted Name    | Song Title                        | In Game Song Name |
-|:-----------------:|:---------------------------------:|:-------------------:|
+| Extracted Name    | Song Title                            | In Game Song Name   |
+|:-----------------:|:-------------------------------------:|:-------------------:|
 | Punk1.mp3         | Zombie Festival All Day!              | Punk 8
 | Punk2.mp3         | 5 Meters to Juliet                    | Punk 4
 | Punk3.mp3         | Throwin' Around Zombie Heads          | Punk 5
@@ -60,18 +62,91 @@ Note: I hold no claims of owning these assets, they're posted here purely for hi
 
 Note: This table was created a [Tumblr post](https://linktm.tumblr.com/post/29913931959/lollipop-chainsaw-complete-soundtrack-rip/amp)<br/>
 
-
 ### Cover Images
 <div style="display: flex;width: 100%;margin-bottom: 3rem;flex-wrap:wrap;">
 {% for image in site.static_files %}
     {% if image.path contains 'assets/downloads/lollipop-chainsaw/soundtrack/cover-images' %}
-        	<a href="{{ site.baseurl }}{{ image.path }}" style="text-align: center;height: 15%;width:15%;">
+            <a href="{{ site.baseurl }}{{ image.path }}" style="text-align: center;height: 15%;width:15%;">
                 <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="display:block;flex-shrink: 1;min-width:0;height:auto;width:100%;align-self: flex-start; margin-right: .5rem;" />
                 <p style="font-size: 16px;align-content: center;margin: auto;"> {{image.path | replace:'assets/downloads/lollipop-chainsaw/soundtrack/cover-images/','' | replace:'.png','' | replace: '/', '' | replace: '_', ' '}}<br/> </p>
             </a>
     {% endif %}
 {% endfor %}
 </div> 
+
+## Trophy Information
+
+Download to the processed data: [Download Link]({{site.url}}/assets/downloads/lollipop-chainsaw/trophies/Processed_Trophies.zip)<br/>
+Download to the unprocessed / purely extracted data: [Download Link]({{site.url}}/assets/downloads/lollipop-chainsaw/trophies/Raw_Trophies.zip)
+
+### Trophy Table
+
+| Name              | Description                       | Trophy ID    |
+|:-----------------:|:---------------------------------:|:------------:|
+| Legendary Zombie Hunter | 100% Complete! Thank you for playing! | 000
+| Zombie Hunter Apprentice | Buy a combo at Chop2Shop.Zom and use it. | 001
+| Unclean and Uncool | Defeated Hazmat in Prologue. | 002
+| Zed's Dead, Baby, Zed's Dead | Defeated Zed. | 003
+| Viking Metal Rules! | Defeated Vikke. | 004
+| Dirty Hippy | Defeated Mariska. | 005
+| Disco's Dead | Defeated Josey. | 006
+| Rock'n Roll Isn't Here Anymore | Defeated Lewis LEGEND. | 007
+| I Came, I Saw, I Kicked Its Ass | Defeated Killabilly. | 008
+| Leapfrog girl | Leapfrogged 10 times in a row. | 009
+| I Swear! I Did It By Mistake! | Peeped under Juliet's skirt once. | 010
+| Endorsed by Cordelia | Get 30 headshots. | 011
+| Sparkle Hunting Master | Succeed in 7 zombie Sparkle Hunting. | 012
+| Gunn Struck | Struck by lightning 10 times. | 013
+| Super Shopper | Spend 10,000 medals at Chop2Shop.Zom. | 014
+| Love Nick | Kissed Nick 100 times. | 015
+| JULIET51 | 51 successful dropkicks. | 016
+| International Zombie Hunter | Registered in world leaderboards for all stages. | 017
+| Groovy Hunter | Kill 500 zombies. | 018
+| Zombie Slayer?! | Kill 3,000 zombies. | 019
+| Rich Hunter | Pick up 1,000 zombie medals. | 020
+| Millionaire Hunter | Pick up 10,000 zombie medals. | 021
+| San Romero Knights Savior | Rescued All Classmates. | 022
+| Lollipop Addict | Collected all lollipop wrappers. | 023
+| Always On The Phone | Collected all telephone messages. | 024
+| Zombie Fancier | Completed the zombie album. | 025
+| OMG, Music Is Soooo Coooool | Collected all BGM. | 026
+| Perfect Body | Completely level up Juliet. | 027
+| Master Sushi Chef | Collected all combos. | 028
+| Watch Out For The Balls | Dodge & Counter Zed's Electric Balls 15 times. | 029
+| Cheerleader Overboard! | Succeed in QTE at edge of Vikke's ship. | 030
+| Third Eye | Dodge all balloon attacks in Mariska battle. | 031
+| Critical UFO Finish | Funk Josey in the last 10 seconds. | 032
+| Elephant Tamer | Counter Lewis' attack 10 times. | 033
+| Fingered | Cut off 20 fingers during Killabilly's fight! | 034
+| Life Guard | Rescued all classmates in Prologue. | 035
+| Accidental Vandalism | Destroyed 300 objects in the game. | 036
+| Go, Medal Racer, Go!   | Picked up all zombie medals on the rooftop with Chainsaw Dash. | 037
+| Legendary Harvester | Harvested all crops in the 1st field with the combine in Stage 3. | 038
+| No Fear Of Heights | Beat the Gondola game without shooting. | 039
+| Little Sisters Are The Worst! | Do not get hit by Rosalind's wrecking ball. | 040
+| Aced Auto-shop Class | Clear all the Kill Car QTE's in a row. | 041
+| n00b Zombie Hunter | Clear Prologue, surpassing Dad's score. | 042
+| Beginner Zombie Hunter | Clear Stage 1, surpassing Dad's score. | 043
+| Intermediate Zombie Hunter | Clear Stage 2, surpassing Dad's score. | 044
+| Advanced Zombie Hunter | Clear Stage 3, surpassing Dad's score. | 045
+| Super Zombie Hunter | Clear Stage 4, surpassing Dad's score. | 046
+| Excellent Zombie Hunter | Clear Stage 5, surpassing Dad's score. | 047
+| Master Zombie Hunter | Clear Stage 6, surpassing Dad's score. | 048
+| Congratulations! Happy Birthday! | Watched the happy ending. | 049
+| Horrid Birthday | Watched the bad ending. | 050
+
+
+### Trophy Images
+<div style="display: flex;width: 100%;margin-bottom: 3rem;flex-wrap:wrap;">
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/downloads/lollipop-chainsaw/trophies/Processed_Trophies' and image.path contains '.png' %}
+            <a href="{{ site.baseurl }}{{ image.path }}" style="text-align: center;height: 15%;width:15%;">
+                <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="display:block;flex-shrink: 1;min-width:0;height:auto;width:100%;align-self: flex-start; margin-right: .5rem;" />
+                <p style="font-size: 16px;align-content: center;margin: auto;"> {{ image.path | replace:'/assets/downloads/lollipop-chainsaw/trophies/Processed_Trophies','' | replace: '.png', '' | replace: '/', '' }}<br/> </p>
+            </a>
+    {% endif %}
+{% endfor %}
+</div>
 
 <!-- A quick JS script to make all the tables on this page sortable -->
 <script>for(const e of document.getElementsByTagName("table")) e.classList.add("sortable");</script>
