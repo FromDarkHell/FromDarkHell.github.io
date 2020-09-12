@@ -3,6 +3,11 @@ layout: post
 title: Borderlands 3 Glitches / Info / Tools
 ---
 
+**Contents**
+* TOC
+{:toc}
+
+
 ## Mission Flow
 1. Children of the Vault
     * The Slaughter Shaft
@@ -197,7 +202,8 @@ title: Borderlands 3 Glitches / Info / Tools
     * Discover: Takedown at the Maliwan Blacksite
         - Takedown at the Maliwan Blacksite
 
-<br/>
+
+
 Note: This mission flow may not be fully 100% accurate.
 Note #2: Data gathered through `getall Mission MissionDependencies`
 
@@ -210,19 +216,19 @@ Note #2: Data gathered through `getall Mission MissionDependencies`
 * [Compiled Starting Save Files]({{site.url}}/assets/downloads/bl3saves/Starters.rar)
 * [Collectable Guide / Online Maps](https://mapgenie.io/borderlands-3)
 
-## Lore Info:
+## Lore Info
 
 * [All Eridian Writings]({{ site.baseurl }}/Eridian-Writings/)
 * [All Typhon Logs]({{ site.baseurl }}/Typhon-Logs/)
 
 ## Disable Intros
-Go to \Borderlands3\OakGame\Content\Movies<br/>
-Be aware, the folder is spoiler heavy<br/>
-Rename/Delete `2KLOGO`, `AMDLOGO`, `GBXLOGO` and `MARCUS_INTRO`<br/>
-This doesnt skip the Vault Hunters intro cinematic.<br/>
+Go to \Borderlands3\OakGame\Content\Movies
+Be aware, the folder is spoiler heavy
+Rename/Delete `2KLOGO`, `AMDLOGO`, `GBXLOGO` and `MARCUS_INTRO`
+This doesnt skip the Vault Hunters intro cinematic.
 
 ## Texture Streaming Edits
-If you navigate to, `Documents\My Games\Borderlands 3\Saved\Config\WindowsNoEditor\GameUserSettings.ini`<br/>
-You'll see at the end of the file something along the lines of: `TextureStreamingViewBoostScale=0.000000`<br/>
-You can edit these ini values  and then set your `GameUserSettings.ini` to read-only. If you want to modify any of the values set their respective `Override` value to `1.000000`. I personally use (in order of appearence w/o the `Override` values): `0.5, 0.5, 160`.<br/>
+If you navigate to, `Documents\My Games\Borderlands 3\Saved\Config\WindowsNoEditor\GameUserSettings.ini`
+You'll see at the end of the file something along the lines of: `TextureStreamingViewBoostScale=0.000000`
+You can edit these ini values  and then set your `GameUserSettings.ini` to read-only. If you want to modify any of the values set their respective `Override` value to `1.000000`. I personally use (in order of appearence w/o the `Override` values): `0.5, 0.5, 160`.
 You can also try setting `bUseDynamicResolution` to `True`.

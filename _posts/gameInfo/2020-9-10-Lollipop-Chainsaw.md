@@ -2,7 +2,24 @@
 layout: post
 title: Lollipop Chainsaw Game Info
 ---
-<br/>
+
+<style>
+    img { 
+        max-width: 100%; 
+        height: auto;
+    }
+
+    #image-container {
+        display: flex;
+        width: 100%;
+        margin-bottom: 3rem;
+        flex-wrap:wrap;
+    }
+</style>
+
+**Contents**
+* TOC
+{:toc}
 
 Most of this page is just already known info with nothing new but just me wanting to compile random things about this dumb game
 
@@ -108,24 +125,63 @@ These are just other miscellaneous songs / files (that I don't actually have on 
 | CHB6Music.mp3 | Zombie of Zombies | Killabilly1
 | NowLoadingIntoKillabillysBody.mp3 | Now Loading, Into Killabilly's Body | CH7
 
-Note: This table was created based off of a [Tumblr post](https://linktm.tumblr.com/post/29913931959/lollipop-chainsaw-complete-soundtrack-rip/amp)<br/>
-Note 2: Yeah honestly for some reason the .mp3 extracted names don't actually match with the proper in game song number, it makes no sense but y'know *sure I guess*<br/>
+Note: This table was created based off of a [Tumblr post](https://linktm.tumblr.com/post/29913931959/lollipop-chainsaw-complete-soundtrack-rip/amp)
+
+Note 2: Yeah honestly for some reason the .mp3 extracted names don't actually match with the proper in game song number, it makes no sense but y'know *sure I guess*
+
+### Album Download(s)
+
+I also happened to rip out the raw mp3 files (obviously), using some more [python scripts](https://gist.github.com/FromDarkHell/38b09cc3b22a577659077f85661c7dce#file-lollipopchainsawtableparser-py) to parse these tables (after handwriting them :/)
+Here's the [output JSON dictionary](https://gist.github.com/FromDarkHell/f5723a6c7c05be430a9b80b945a4f7a0) if you're too lazy to go through the extra steps
+Then I created another [Python script](https://gist.github.com/FromDarkHell/38b09cc3b22a577659077f85661c7dce#file-convertmp3names-py) using [`mp3-tagger`](https://pypi.org/project/mp3-tagger/)
+
+
+So now the ripped MP3 files are available for download on [Google Drive](https://drive.google.com/file/d/1sGgF4eT9p5NkwS0BGTW89tClyazUiclT/view?usp=sharing). 
+Note: Those files don't contain the licensed music (because don't kill me Warner Bros or whoever I like my living)
 
 ### Cover Images
-<div style="display: flex;width: 100%;margin-bottom: 3rem;flex-wrap:wrap;">
+<div id="image-container">
 {% for image in site.static_files %}
     {% if image.path contains 'assets/downloads/lollipop-chainsaw/soundtrack/cover-images' %}
             <a href="{{ site.baseurl }}{{ image.path }}" style="text-align: center;height: 15%;width:15%;">
                 <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="display:block;flex-shrink: 1;min-width:0;height:auto;width:100%;align-self: flex-start; margin-right: .5rem;" />
-                <p style="font-size: 16px;align-content: center;margin: auto;"> {{image.path | replace:'assets/downloads/lollipop-chainsaw/soundtrack/cover-images/','' | replace:'.png','' | replace: '/', '' | replace: '_', ' '}}<br/> </p>
+                {% assign a = image.path | split: '/' %}
+                <p style="font-size: 16px;align-content: center;margin: auto;">{{ a[6] | replace: '.png','' | replace: '_',' ' }}<br/></p>
             </a>
     {% endif %}
 {% endfor %}
 </div> 
 
+
+## Concept Art
+
+### Concept Art Information
+In an extracted disc, all of the concept art is stored in the `UICOLLECTION_ARTS__.xxx`, you'll need to decompress it using the Unreal Decompressor (much like all of the other `.XXX` files), then you'll need to rename the extracted output to have a .upk extension. I used gildor's [UModel](https://www.gildor.org/en/projects/umodel) to be able to view & extract all of the texture outputs. Now you've got a crap ton of folders with all of the .png textures (if you extracted them like that as you should). Then I made (and ran obviously) the `organizeArts.py` available in the [Python Gists](https://gist.github.com/FromDarkHell/38b09cc3b22a577659077f85661c7dce).
+Here's the weird part: for some reason all of the images are 1024x1024 resolution *but* the right half of the images are cut off and put in the bottom left even though UE3 supports 1x1 -> 4096x4096 (maybe it's a console thing idk)
+
+Now that you've magically obtained the cut off images, you'd want to run `combineImageHalves.py` (in the same gist), now all of your combined concept art is stored in `./OUTPUT` folder
+
+Just as a note: In this album, Cordelia is spelled as Cordiria (I assume because of Japanese transliteration issues), but I'm just keeping it like that here for record's sake.
+
+### Concept Art Albums
+
+<div id="image-container">
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/downloads/lollipop-chainsaw/concept-art/' %}
+            <a href="{{ site.baseurl }}{{ image.path }}" style="text-align: center;height: 30%;width:30%;">
+                <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="display:block;flex-shrink: 1;min-width:0;height:auto;width:100%;align-self: flex-start; margin-right: .5rem;" />
+                {% assign a = image.path | split: '/' %}
+                <p style="font-size: 16px;align-content: center;margin: auto;">{{ a[6] | replace: '.png','' | replace: '_',' ' }}<br/></p>
+            </a>
+    {% endif %}
+{% endfor %}
+</div> 
+
+
 ## Trophy Information
 
-Download to the processed data: [Download Link]({{site.url}}/assets/downloads/lollipop-chainsaw/trophies/Processed_Trophies.zip)<br/>
+Download to the processed data: [Download Link]({{site.url}}/assets/downloads/lollipop-chainsaw/trophies/Processed_Trophies.zip)
+
 Download to the unprocessed / purely extracted data: [Download Link]({{site.url}}/assets/downloads/lollipop-chainsaw/trophies/Raw_Trophies.zip)
 
 ### Trophy Table
@@ -186,12 +242,13 @@ Download to the unprocessed / purely extracted data: [Download Link]({{site.url}
 
 
 ### Trophy Images
-<div style="display: flex;width: 100%;margin-bottom: 3rem;flex-wrap:wrap;">
+<div id="image-container">
 {% for image in site.static_files %}
     {% if image.path contains 'assets/downloads/lollipop-chainsaw/trophies/Processed_Trophies' and image.path contains '.png' %}
             <a href="{{ site.baseurl }}{{ image.path }}" style="text-align: center;height: 15%;width:15%;">
                 <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="display:block;flex-shrink: 1;min-width:0;height:auto;width:100%;align-self: flex-start; margin-right: .5rem;" />
-                <p style="font-size: 16px;align-content: center;margin: auto;"> {{ image.path | replace:'/assets/downloads/lollipop-chainsaw/trophies/Processed_Trophies','' | replace: '.png', '' | replace: '/', '' }}<br/> </p>
+                {% assign a = image.path | split: '/' %}
+                <p style="font-size: 16px;align-content: center;margin: auto;">{{ a[6] | replace: '.png','' | replace: '_',' ' }}</p>
             </a>
     {% endif %}
 {% endfor %}
