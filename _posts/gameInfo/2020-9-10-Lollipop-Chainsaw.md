@@ -144,7 +144,7 @@ Note: Those files don't contain the licensed music (because don't kill me Warner
 {% for image in site.static_files %}
     {% if image.path contains 'assets/downloads/lollipop-chainsaw/soundtrack/cover-images' %}
             <a href="{{ site.baseurl }}{{ image.path }}" style="text-align: center;height: 15%;width:15%;">
-                <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="display:block;flex-shrink: 1;min-width:0;height:auto;width:100%;align-self: flex-start; margin-right: .5rem;" />
+                <img src="{{ site.baseurl }}{{ image.path }}" alt="image" loading="lazy" style="display:block;flex-shrink: 1;min-width:0;height:auto;width:100%;align-self: flex-start; margin-right: .5rem;" />
                 {% assign a = image.path | split: '/' %}
                 <p style="font-size: 16px;align-content: center;margin: auto;">{{ a[6] | replace: '.png','' | replace: '_',' ' }}<br/></p>
             </a>
@@ -169,7 +169,7 @@ Just as a note: In this album, Cordelia is spelled as Cordiria (I assume because
 {% for image in site.static_files %}
     {% if image.path contains 'assets/downloads/lollipop-chainsaw/concept-art/' %}
             <a href="{{ site.baseurl }}{{ image.path }}" style="text-align: center;height: 30%;width:30%;">
-                <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="display:block;flex-shrink: 1;min-width:0;height:auto;width:100%;align-self: flex-start; margin-right: .5rem;" />
+                <img src="{{ site.baseurl }}{{ image.path }}" alt="image" loading="lazy" style="display:block;flex-shrink: 1;min-width:0;height:auto;width:100%;align-self: flex-start; margin-right: .5rem;" />
                 {% assign a = image.path | split: '/' %}
                 <p style="font-size: 16px;align-content: center;margin: auto;">{{ a[6] | replace: '.png','' | replace: '_',' ' }}<br/></p>
             </a>
@@ -246,7 +246,7 @@ Download to the unprocessed / purely extracted data: [Download Link]({{site.url}
 {% for image in site.static_files %}
     {% if image.path contains 'assets/downloads/lollipop-chainsaw/trophies/Processed_Trophies' and image.path contains '.png' %}
             <a href="{{ site.baseurl }}{{ image.path }}" style="text-align: center;height: 15%;width:15%;">
-                <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="display:block;flex-shrink: 1;min-width:0;height:auto;width:100%;align-self: flex-start; margin-right: .5rem;" />
+                <img src="{{ site.baseurl }}{{ image.path }}" alt="image"  loading="lazy" style="display:block;flex-shrink: 1;min-width:0;height:auto;width:100%;align-self: flex-start; margin-right: .5rem;" />
                 {% assign a = image.path | split: '/' %}
                 <p style="font-size: 16px;align-content: center;margin: auto;">{{ a[6] | replace: '.png','' | replace: '_',' ' }}</p>
             </a>
