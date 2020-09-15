@@ -46,10 +46,10 @@ title: Wolfenstein Youngblood Game Info
          - Da'at Yichud Artifacts [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/Da%27at_Yichud_Artifacts:_Steal_the_Da%27at_Yichud_Artifacts)]
    - The Robotmörder [[IGN Guide](https://www.ign.com/wikis/wolfenstein-youngblood/The_Robotermorder:_Search_for_the_Robotermorder)] **Zitadelle Schematics Needed**
 
-| Key      | Value          |
-|----------|----------------|
-| M        | Story Mission  |
-| ?        | Unsure         |
+|   Key    |     Value      |
+|:--------:|:--------------:|
+|    M     | Story Mission  |
+|    ?     |     Unsure     |
 | [Number] | Required Level |
 
 Notes:
@@ -62,25 +62,25 @@ Notes:
 
 ## Crate Codes
 
-| Map Name          | Codes (Order of Appearance)   |
-|:-----------------:|:-----------------------------:|
-| Riverside         | 9576, 2703, 1234              |
-| Little Berlin     | 1234, 9317, 8055              |
-| Detention Area 4  | 7144, 1983                    |
-| Victory Boulevard | 9189, 2161                    |
-| Brother 1         | 7532, 1265, 3444              |
-| Brother 2         | 1987, 2905, 5858              |
-| Brother 3         | 9012, 3201, 6743, 2354        |
-| Lab X             | 8352, 1414, 2569, 4780, 5806  |
+|     Map Name      | Codes (Order of Appearance)  |
+|:-----------------:|:----------------------------:|
+|     Riverside     |       9576, 2703, 1234       |
+|   Little Berlin   |       1234, 9317, 8055       |
+| Detention Area 4  |          7144, 1983          |
+| Victory Boulevard |          9189, 2161          |
+|     Brother 1     |       7532, 1265, 3444       |
+|     Brother 2     |       1987, 2905, 5858       |
+|     Brother 3     |    9012, 3201, 6743, 2354    |
+|       Lab X       | 8352, 1414, 2569, 4780, 5806 |
 
 ## Door Codes
 
-| Map Name          | Codes (Order of Appearance)   |
-|:-----------------:|:-----------------------------:|
-| Zeppelin          | 8431                          |
-| Brother 1         | 4351                          |
-| Brother 2         | 0451                          |
-| Lab X             | 1234                          |
+| Map Name  | Codes (Order of Appearance) |
+|:---------:|:---------------------------:|
+| Zeppelin  |            8431             |
+| Brother 1 |            4351             |
+| Brother 2 |            0451             |
+|   Lab X   |            1234             |
 
 ## Downpatcher
 
