@@ -136,7 +136,7 @@ Here's the [output JSON dictionary](https://gist.github.com/FromDarkHell/f5723a6
 Then I created another [Python script](https://gist.github.com/FromDarkHell/38b09cc3b22a577659077f85661c7dce#file-convertmp3names-py) using [`mp3-tagger`](https://pypi.org/project/mp3-tagger/)
 
 
-So now the ripped MP3 files are available for download on [Google Drive](https://drive.google.com/file/d/1sGgF4eT9p5NkwS0BGTW89tClyazUiclT/view?usp=sharing). 
+So now the ripped MP3 files are available for download on [Google Drive](https://bit.ly/3dinjQL). 
 Note: Those files don't contain the licensed music (because don't kill me Warner Bros or whoever I like my living)
 
 ### Cover Images
