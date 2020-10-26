@@ -102,3 +102,7 @@ defaults:
       path: "_posts/gameInfo"
     values:
       gameInfo: "true"
+  - scope:
+      path: "_posts/lore-info"
+    values:
+      loreInfo: "true"
