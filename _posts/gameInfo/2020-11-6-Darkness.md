@@ -45,6 +45,8 @@ This comes from `PS3_Game/USRDIR/SYSTEM/PS3/GAMEDATA/PIC1.PNG`
 
 [Image #3](/assets/downloads/darkness/rips/pic2.png) comes from `PS3_Game/USRDIR/SYSTEM/PS3/SAVEDATA/PIC1.PNG`
 
+---
+
 ## Darkness 2
 Unlike Darkness 1, this game actually came out on PC (and I got it for free from some sale as far as I remember)
 This game uses [Digital Extremes](https://en.wikipedia.org/wiki/Digital_Extremes)'s proprietary [Evolution engine](https://en.wikipedia.org/wiki/Digital_Extremes#Technology) (in fact its the second game to use it)

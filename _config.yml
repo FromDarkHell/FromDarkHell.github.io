@@ -20,7 +20,7 @@ plugins:
     - jekyll-paginate
     - jekyll-redirect-from
     - jekyll-feed
-
+    - jekyll-target-blank
 #
 # Flags below are optional
 #
@@ -31,15 +31,14 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: FromDarkHell/FromDarkHell.github.io
+  github: FromDarkHell
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: yes # just type anything here for a working RSS icon
   twitter: FromDarkHell
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  youtube: channel/UCwBdQkIk9aAsUEk3Lxrf8fQ # channel/<your_long_string> or user/<user-name>
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -51,7 +50,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://www.fromdarkhell.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
