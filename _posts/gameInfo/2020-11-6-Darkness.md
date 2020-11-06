@@ -38,12 +38,12 @@ These other formats seem to have a different structure than what the posts say s
 
 ### Image Rips
 
-<img src="{{ site.baseurl }}/assets/downloads/darkness/rips/pic1.png" loading="lazy"/>
+<img src="{{ site.baseurl }}/assets/downloads/darkness/rips/CoverImg.png" loading="lazy"/>
 This comes from `PS3_Game/USRDIR/SYSTEM/PS3/GAMEDATA/PIC1.PNG`
 
-[Image #2](/assets/downloads/darkness/rips/ICON0.png) comes from `PS3_Game/USRDIR/SYSTEM/PS3/SAVEDATA/ICON0.PNG`
+[Image #2](/assets/downloads/darkness/rips/SaveData.png) comes from `PS3_Game/USRDIR/SYSTEM/PS3/SAVEDATA/ICON0.PNG`
 
-[Image #3](/assets/downloads/darkness/rips/pic2.png) comes from `PS3_Game/USRDIR/SYSTEM/PS3/SAVEDATA/PIC1.PNG`
+[Image #3](/assets/downloads/darkness/rips/SaveData2.png) comes from `PS3_Game/USRDIR/SYSTEM/PS3/SAVEDATA/PIC1.PNG`
 
 ---
 
