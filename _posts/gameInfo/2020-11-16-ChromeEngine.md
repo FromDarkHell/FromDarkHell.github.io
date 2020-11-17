@@ -121,6 +121,10 @@ Just some random facts I learned from static analysis:
   - Use `--wd` to be able to set the game's working directory (usually the exe dir)
   - Use `-game_dir=` to be able to set where the game loads its files? (unsure rn)
   - All the cmd args include: [https://pastebin.com/raw/DtbJ8eJx](https://pastebin.com/raw/DtbJ8eJx)
+  - It can also load "DLC" Pak files located in `coj4/DataDLC%d.pak` (up until `DataDLC2.pak`)
+  - Use `/multimon` to switch the monitor that the game is on
+  - Launch the game with `/repltest` to get uhh results:
+  <video src="{{ site.baseurl }}/assets/images/ohEOAIO2wX.mp4" width="600" height="400" controls preload></video>
 
 (I doubt that most of those args like `-autostartlevel` etc are actually called considering there's no references to their functions in Ghidra but idk)
 
