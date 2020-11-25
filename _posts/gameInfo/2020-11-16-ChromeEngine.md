@@ -107,14 +107,16 @@ Repeat until EOF:
 ### Call of Juarez: Gunslinger
 This game (according to Wikipedia) uses Chrome Engine 5, which still basically functions the same way in effect
 One of the big differences between this game and the past games is that this one's `*.pak` files are encrypted
-The `*.pak` files are still zip files but now they've got a password in them
+The `*.pak` files are still zip files but now they've got a password in them (they're also Level 4 compressed)
 
 #### Encryption
-Luckily it uses the less secure [ZIP2.0](https://en.wikipedia.org/wiki/ZIP_(file_format)#Encryption) form of encryption which has a 96-bit encryption key. Ironically using AES encryption [probably](https://github.com/mmozeiko/aes-finder) would've been easier to rip out rather than needing to brute force it due to the tools available for it
+Luckily it uses the less secure [ZIP2.0](https://en.wikipedia.org/wiki/ZIP_(file_format)#Encryption) form of encryption which has a 96-bit encryption key. Ironically using AES encryption [probably](https://github.com/mmozeiko/aes-finder) would've been easier to rip out rather than needing to brute force it due to the tools available for it.
 
 It also seems to have a DLL meant for game scripts, buuut I've got no idea how on earth it actually gets loaded
 Its got a function called `InitializeGameScriptDLL` and `ShutdownGameScriptDLL` but they do some weird code magic that I'm yet to figure out
 Annoyingly enough since the game comes with SteamStub based DRM, you'll want to use [Steamless](https://github.com/atom0s/Steamless) by [atom0s](https://github.com/atom0s).
+
+The password for the encrypted zip (`*.pak`) files is `TN2kTjNmBvn5axaS6tGY`
 
 Just some random facts I learned from static analysis:
   - Run the game with the cmd arg, `-ami` to be able to run multiple copies at the same time
@@ -128,7 +130,29 @@ Just some random facts I learned from static analysis:
 
 (I doubt that most of those args like `-autostartlevel` etc are actually called considering there's no references to their functions in Ghidra but idk)
 
-I plan on figuring out the password / key (or even format) for the `*.pak` files but I'm never not getting side tracked with every little thing so we'll see.
+#### Modification
+Now that "we" (meaning me but late to the party) can modify files in the "ZIP" files, they use a "custom" CRC for a checksum rather than a normal one that you can just open up into WinRAR etc.
+Looking at [Gibbed.Chrome](https://github.com/gibbed/Gibbed.Chrome) by [Gibbed](https://github.com/gibbed/) you'll notice that there's a few errors in their hashing algorithm.
+No real idea on what they are, hashing/cryptography kinda just isn't my jam, but I still want to see how far into it I can get.
+(One downside to Gibbed's approach to modifying the pak files is that it doubles the file size of the `.pak` files :/)
+So I got to setting that code up to be its own standalone class/namespace rather than a single command line program.
+Now I've got a small program that takes a `[original file]` argument and a `[modified directory]` so that way it can get zipped up.
+
+I started messing with the localization files first just because they're an easier place to test than code modifications (and its just strings). These are stored in `DataEn.pak`, specifically mainly `cotexts.bin`
+
+<img src="{{ site.baseurl }}/assets/images/coj_cG2OnUnVjo.png"/>
+<img src="{{ site.baseurl }}/assets/images/coj_I0FvMJBPw2.png" width="643" height="450"/>
+
+So uhhh it didn't quite work, buuut the initial `Press Any Key To Continue` key *did* become **HELP ME PLEASE**
+
+As it turns out, when I was saving the files in my code (since I was just writing it to a zip and then using Gibbed's fix code),
+I didn't write any of it to a `data/*.*` but instead just `*.*`
+
+Impressively though, the `*.scr` in the `data/` directory which I was *trying* to edit, doesn't actually control any of the text for some reason.
+The text that's localized in game is instead stored in the `cotexts.bin` (and the other `.bin` files too)
+<img src="{{ site.baseurl }}/assets/images/coj_bUgbyZvu2N.png" width="643" height="450"/>
+
+Pointlessly I created a python script to print them all out to a JSON dict, it's on a [Gist](https://gist.github.com/FromDarkHell/9d729df807ba5231a624d41ad2dcf6e1#file-voicesparser-py)
 
 ## Footnotes
 Here's your reminder that "western" styled content (**ALMOST**) always portrays a white washed viewpoint of history.
