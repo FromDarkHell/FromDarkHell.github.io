@@ -1,0 +1,111 @@
+{
+	"PATH_0_COMPLETE_LEVEL_0": {
+		"name_en": "Rock Star (Not So Easy)",
+		"description_en": "Guided 3 groups of 16 Zoombinis through The Big, the Bad, and the Hungry when the going was Not So Easy.",
+		"name_es": "Estrella de Rock (No Tan Fácil)",
+		"description_es": "Guiamos a 3 grupos de 16 Zoombinis a través de El Grande, el Malo y el Hambriento cuando la situación estaba No Tan Fácil."
+	},
+	"PATH_0_COMPLETE_LEVEL_1": {
+		"name_en": "Rock Star (Oh, So Hard)",
+		"description_en": "Guided 3 groups of 16 Zoombinis through The Big, the Bad, and the Hungry when the going was Oh, So Hard.",
+		"name_es": "Estrella de Rock (Ay, Tan Difícil)",
+		"description_es": "Guiamos a 3 grupos de 16 Zoombinis a través de El Grande, el Malo y el Hambriento cuando la situación estaba Ay, Tan Difícil."
+	},
+	"PATH_0_COMPLETE_LEVEL_2": {
+		"name_en": "Rock Star (Very Hard)",
+		"description_en": "Guided 3 groups of 16 Zoombinis through The Big, the Bad, and the Hungry when the going was Very Hard.",
+		"name_es": "Estrella de Rock (Muy Difícil)",
+		"description_es": "Guiamos a 3 grupos de 16 Zoombinis a través de El Grande, el Malo y el Hambriento cuando la situación estaba Muy Difícil."
+	},
+	"PATH_0_COMPLETE_LEVEL_3": {
+		"name_en": "Rock Star (Very, Very Hard)",
+		"description_en": "Guided 3 groups of 16 Zoombinis through The Big, the Bad, and the Hungry when the going was Very, Very Hard.",
+		"name_es": "Estrella de Rock (Muy, Muy Difícil)",
+		"description_es": "Guiamos a 3 grupos de 16 Zoombinis a través de El Grande, el Malo y el Hambriento cuando la situación estaba Muy, Muy Difícil."
+	},
+	"PATH_1_COMPLETE_LEVEL_0": {
+		"name_en": "Swamp Thing (Not So Easy)",
+		"description_en": "Guided 3 groups of 16 Zoombinis through Who's Bayou when the going was Not So Easy.",
+		"name_es": "Cosa del Pantano (No Tan Fácil)",
+		"description_es": "Guiamos a 3 grupos de 16 Zoombinis a través de Quién es Bayou cuando la situación estaba No Tan Fácil."
+	},
+	"PATH_1_COMPLETE_LEVEL_1": {
+		"name_en": "Swamp Thing (Oh, So Hard)",
+		"description_en": "Guided 3 groups of 16 Zoombinis through Who's Bayou when the going was Oh, So Hard.",
+		"name_es": "Cosa del Pantano (Ay, Tan Difícil)",
+		"description_es": "Guiamos a 3 grupos de 16 Zoombinis a través de Quién es Bayou cuando la situación estaba Ay, Tan Difícil."
+	},
+	"PATH_1_COMPLETE_LEVEL_2": {
+		"name_en": "Swamp Thing (Very Hard)",
+		"description_en": "Guided 3 groups of 16 Zoombinis through Who's Bayou when the going was Very Hard.",
+		"name_es": "Cosa del Pantano (Muy Difícil)",
+		"description_es": "Guiamos a 3 grupos de 16 Zoombinis a través de Quién es Bayou cuando la situación estaba Muy Difícil."
+	},
+	"PATH_1_COMPLETE_LEVEL_3": {
+		"name_en": "Swamp Thing (Very, Very Hard)",
+		"description_en": "Guided 3 groups of 16 Zoombinis through Who's Bayou when the going was Very, Very Hard.",
+		"name_es": "Cosa del Pantano (Muy, Muy Difícil)",
+		"description_es": "Guiamos a 3 grupos de 16 Zoombinis a través de Quién es Bayou cuando la situación estaba Muy, Muy Difícil."
+	},
+	"PATH_2_COMPLETE_LEVEL_0": {
+		"name_en": "Tree Hugger (Not So Easy)",
+		"description_en": "Guided 3 groups of 16 Zoombinis through the Deep, Dark Forest when the going was Not So Easy.",
+		"name_es": "Abrazador de Árboles (No Tan Fácil)",
+		"description_es": "Guiamos a 3 grupos de 16 Zoombinis a través del Profundo, Oscuro Bosque cuando la situación estaba No Tan Fácil."
+	},
+	"PATH_2_COMPLETE_LEVEL_1": {
+		"name_en": "Tree Hugger (Oh, So Hard)",
+		"description_en": "Guided 3 groups of 16 Zoombinis through the Deep, Dark Forest when the going was Oh, So Hard.",
+		"name_es": "Abrazador de Árboles (Ay, Tan Difícil)",
+		"description_es": "Guiamos a 3 grupos de 16 Zoombinis a través del Profundo, Oscuro Bosque cuando la situación estaba Ay, Tan Difícil."
+	},
+	"PATH_2_COMPLETE_LEVEL_2": {
+		"name_en": "Tree Hugger (Very Hard)",
+		"description_en": "Guided 3 groups of 16 Zoombinis through the Deep, Dark Forest when the going was Very Hard.",
+		"name_es": "Abrazador de Árboles (Muy Difícil)",
+		"description_es": "Guiamos a 3 grupos de 16 Zoombinis a través del Profundo, Oscuro Bosque cuando la situación estaba Muy Difícil."
+	},
+	"PATH_2_COMPLETE_LEVEL_3": {
+		"name_en": "Tree Hugger (Very, Very Hard)",
+		"description_en": "Guided 3 groups of 16 Zoombinis through the Deep, Dark Forest when the going was Very, Very Hard.",
+		"name_es": "Abrazador de Árboles (Muy, Muy Difícil)",
+		"description_es": "Guiamos a 3 grupos de 16 Zoombinis a través del Profundo, Oscuro Bosque cuando la situación estaba Muy, Muy Difícil."
+	},
+	"PATH_3_COMPLETE_LEVEL_0": {
+		"name_en": "Cave Dweller (Not So Easy)",
+		"description_en": "Guided 3 groups of 16 Zoombinis through the Mountains of Despair when the going was Not So Easy.",
+		"name_es": "Cavernícola (No Tan Fácil)",
+		"description_es": "Guiamos a 3 grupos de 16 Zoombinis a través de las Montañas de Desesperación cuando la situación estaba No Tan Fácil."
+	},
+	"PATH_3_COMPLETE_LEVEL_1": {
+		"name_en": "Cave Dweller (Oh, So Hard)",
+		"description_en": "Guided 3 groups of 16 Zoombinis through the Mountains of Despair when the going was Oh, So Hard.",
+		"name_es": "Cavernícola (Ay, Tan Difícil)",
+		"description_es": "Guiamos a 3 grupos de 16 Zoombinis a través de las Montañas de Desesperación cuando la situación estaba Ay, Tan Difícil."
+	},
+	"PATH_3_COMPLETE_LEVEL_2": {
+		"name_en": "Cave Dweller (Very Hard)",
+		"description_en": "Guided 3 groups of 16 Zoombinis through the Mountains of Despair when the going was Very Hard.",
+		"name_es": "Cavernícola (Muy Difícil)",
+		"description_es": "Guiamos a 3 grupos de 16 Zoombinis a través de las Montañas de Desesperación cuando la situación estaba Muy Difícil."
+	},
+	"PATH_3_COMPLETE_LEVEL_3": {
+		"name_en": "Cave Dweller (Very, Very Hard)",
+		"description_en": "Guided 3 groups of 16 Zoombinis through the Mountains of Despair when the going was Very, Very Hard.",
+		"name_es": "Cavernícola (Muy, Muy Difícil)",
+		"description_es": "Guiamos a 3 grupos de 16 Zoombinis a través de las Montañas de Desesperación cuando la situación estaba Muy, Muy Difícil."
+	},
+	"SHELTER_ROCK_EASTER_EGGS": {
+		"name_en": "Shelter Rock Surprises",
+		"description_en": "Found all of the Easter Eggs at Shelter Rock.",
+		"name_es": "Sorpresas del Refugio Rocoso",
+		"description_es": "Encontramos todos los Huevos de Pascua en el Albergue Rocoso."
+	},
+	"SHADE_TREE_EASTER_EGGS": {
+		"name_en": "Shade Tree Surprises",
+		"description_en": "Found all of the Easter Eggs at Shade Tree.",
+		"name_es": "Sorpresas del Árbol de Sombra",
+		"description_es": "Encontramos todos los Huevos de Pascua en Árbol de Sombra."
+	}
+
+}

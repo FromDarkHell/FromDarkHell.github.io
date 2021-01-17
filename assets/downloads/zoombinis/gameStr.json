@@ -1,0 +1,442 @@
+{
+	"Options_Lang_English": {
+		"en": "English",
+		"es": "Inglés"
+	},
+	"Options_Lang_Spanish": {
+		"en": "Spanish",
+		"es": "Español"
+	},
+	"Options_SFX": {
+		"en": "Dialog and Sound Effects",
+		"es": "Diálogo y Efectos de Sonido"
+	},
+	"Options_Music": {
+		"en": "Background Music",
+		"es": "Música de Fondo"
+	},
+	"Options_Title": {
+		"en": "Options",
+		"es": "Opciones"
+	},
+	"Options_Audio": {
+		"en": "Audio",
+		"es": "Audio"
+	},
+	"Options_Language": {
+		"en": "Language",
+		"es": "Idioma"
+	},
+	"Options_Captions": {
+		"en": "On-Screen Captions",
+		"es": "Subtítulos en pantalla"
+	},
+	"Quit_Confirm": {
+		"en": "Are you sure you want to quit?",
+		"es": "¿Estás seguro de que quieres parar?"
+	},
+	"Level_0": {
+		"en": "Not So Easy",
+		"es": "No Tan Fácil"
+	},
+	"Level_1": {
+		"en": "Oh, So Hard",
+		"es": "Ay, Muy Difícil"
+	},
+	"Level_2": {
+		"en": "Very Hard",
+		"es": "Muy Difícil"
+	},
+	"Level_3": {
+		"en": "Very, Very Hard",
+		"es": "Muy, Muy Difícil"
+	},
+	"Path_0": {
+		"en": "The Big, the Bad and the Hungry",
+		"es": "El Grande, el Malo y el Hambriento"
+	},
+	"Path_1": {
+		"en": "Who's Bayou",
+		"es": "Quién es Bayou"
+	},
+	"Path_2": {
+		"en": "Deep, Dark Forest",
+		"es": "Profundo, Oscuro Bosque"
+	},
+	"Path_3": {
+		"en": "Mountains of Despair",
+		"es": "Montañas de Desesperación"
+	},
+	"Mode_Journey": {
+		"en": "Journey",
+		"es": "Viaje"
+	},
+	"Mode_Practice": {
+		"en": "Practice",
+		"es": "Practica"
+	},
+	"Map_Confirmation": {
+		"en": "The current party of Zoombinis will lose their way if you visit the map now.",
+		"es": "El grupo actual de Zoombinis perderá su camino si tú visitas el mapa ahora."
+	},
+	"Map_Confirmation_No": {
+		"en": "Stay with 'em",
+		"es": "Quédate con ellos"
+	},
+	"Map_Confirmation_Yes": {
+		"en": "Leave 'em",
+		"es": "Déjalos"
+	},
+	"Plaque_Clock_Tower": {
+		"en": "This  CLOCK TOWER  was constructed for the Zoombinis who: ",
+		"es": "Esta TORRE DEL RELOJ fue construída para los Zoombinis quienes:"
+	},
+	"Plaque_Windmill": {
+		"en": "This  WINDMILL  was wrought to honor the Zoombinis who: ",
+		"es": "Este MOLINO DE VIENTO fue forjado para honrar a los Zoombinis quienes: "
+	},
+	"Plaque_Schoolhouse": {
+		"en": "This  SCHOOLHOUSE salutes the Zoombinis who: ",
+		"es": "Esta ESCUELA elogia a los Zoombinis quienes: "
+	},
+	"Plaque_Bowling_Alley": {
+		"en": "This  BOWLING ALLEY honors the Zoombinis who: ",
+		"es": "Esta BOLERA rinde homenaje a los Zoombinis quienes: "
+	},
+	"Plaque_Swimming_Pool": {
+		"en": "This SWIMMING POOL salutes the Zoombinis who: ",
+		"es": "Esta PISCINA elogia a los Zoombinis quienes: "
+	},
+	"Plaque_Band_Shell": {
+		"en": "This BAND SHELL was built to honor the Zoombinis who: ",
+		"es": "Esta CONCHA ACÚSTICA fue construída para rendir homenaje a los Zoombinis quienes: "
+	},
+	"Plaque_General_Store": {
+		"en": "This  GENERAL STORE  was erected for the Zoombinis who: ",
+		"es": "Este ALMACÉN fue levantado para los Zoombinis quienes: "
+	},
+	"Plaque_Firehouse": {
+		"en": "This  FIREHOUSE  honors the Zoombinis who: ",
+		"es": "Este CUARTEL DE BOMBEROS rinde homenaje a los Zoombinis quienes: "
+	},
+	"Plaque_City_Hall": {
+		"en": "This  CITY HALL  celebrates the Zoombinis who: ",
+		"es": "Este AYUNTAMIENTO celebra a los Zoombinis quienes: "
+	},
+	"Plaque_Library": {
+		"en": "This LIBRARY  was raised to honor the Zoombinis who: ",
+		"es": "Esta BIBLIOTECA fue levantada para rendir homenaje a los Zoombinis quienes: "
+	},
+	"Plaque_Courthouse": {
+		"en": "This  COURTHOUSE  was constructed for the Zoombinis who: ",
+		"es": "Este JUZGADO fue construído para los Zoombinis quienes: "
+	},
+	"Plaque_Paper_Clip_Museum": {
+		"en": "This  PAPER CLIP MUSEUM  was made for the Zoombinis who: ",
+		"es": "Este MUSEO DE SUJETAPAPELES fue hecho para los Zoombinis quienes: "
+	},
+	"Plaque_Observatory": {
+		"en": "This OBSERVATORY observes the Zoombinis who: ",
+		"es": "Este OBSERVATORIO observa a los Zoombinis quienes: "
+	},
+	"Plaque_Playground": {
+		"en": "This  PLAYGROUND  was pitched to honor the Zoombinis who: ",
+		"es": "Este PARQUE INFANTIL fue propuesto para rendir homenaje a los Zoombinis quienes: "
+	},
+	"Plaque_Opera_House": {
+		"en": "This  OPERA HOUSE  sings praises to the Zoombinis who: ",
+		"es": "Este TEATRO DE ÓPERA elogia a los Zoombinis quienes: "
+	},
+	"Plaque_Monument": {
+		"en": "This  MONUMENT  was made to honor the Zoombinis who: ",
+		"es": "Este MONUMENTO fue hecho para rendir homenaje a los Zoombinis quienes: "
+	},
+	"Path_0_Plaque_Level_0": {
+		"en": "ambled past Allergic Cliffs, cruised on by Stone Cold Caves, and appeased Arno the almost omnivorous",
+		"es": "pasearon más allá de los Allergic Cliffs, rondaron cerca de las Stone Cold Caves y calmaron a Arno, el casi omnívoro."
+	},
+	"Path_0_Plaque_Level_1": {
+		"en": "braved blustery bridges, outsmarted Onyx's stone faced crew, and won over Willomaen the pizza eating troll",
+		"es": "desafiaron puentes tempestuosos, burlaron al equipo inexpresivo de Onyx y conquistaron a Willomaen el trol come pizza."
+	},
+	"Path_0_Plaque_Level_2": {
+		"en": "bested bridge watchers, crept cautiously past cave guards, and satiated Shyler the pizza loving troll",
+		"es": "vencieron a vigilantes de puentes, se deslizaron cuidadosamente pasándole a guardias de cuevas y saciaron a Shyler el trol amante de pizza."
+	},
+	"Path_0_Plaque_Level_3": {
+		"en": "outsmarted sneezing cliffs, conquered crusty cave guards, and placated picky pizza trolls without hearing \"Yuck!\"",
+		"es": "aventajaron barrancos que estornudan, conquistaron guardias de cuevas crujientes y calmaron a exigentes troles de pizza sin escuchar \"¡Puaj\""
+	},
+	"Path_1_Plaque_Level_0": {
+		"en": "calmed Captain Cajun, rode Tattooed Toads, and knew how to network",
+		"es": "calmaron a Captain Cajun, montaron Sapos Tatuados y supieron cómo relacionarse"
+	},
+	"Path_1_Plaque_Level_1": {
+		"en": "finagled the ferryboat, successfully swapped lily pads, and connected the current",
+		"es": "consiguieron el ferry con artimañas, intercambiaron nenúfares exitosamente y conectaron la corriente"
+	},
+	"Path_1_Plaque_Level_2": {
+		"en": "finessed the ferryboat, crept cautiously past lily pad crabs, and surmounted stone elevators",
+		"es": "trataron al ferry con delicadeza, se deslizaron cuidadosamente pasandole a cangrejos de nenúfares y vencieron a elevadores de piedra"
+	},
+	"Path_1_Plaque_Level_3": {
+		"en": "calmed Captain Cajun, rode Tattooed Toads, and knew how to network",
+		"es": "calmaron a Captain Cajun, montaron Sapos Tatuados y supieron cómo relacionarse"
+	},
+	"Path_2_Plaque_Level_0": {
+		"en": "flushed the finicky Fleens, in Hotel Dimensia had pleasant dreams and catapulted cleanly over Mudball Wall",
+		"es": "descargaron a los quisquillosos Fleens, en el Hotel Dimensia tuvieron dulces sueños y catapultaron límpiamente sobre Mudball Wall"
+	},
+	"Path_2_Plaque_Level_1": {
+		"en": "flustered the Fleens, didn't dally at Hotel Dimensia, and mastered the mudball making machine",
+		"es": "aturdieron a los Fleens, no perdieron el tiempo en el Hotel Demensia y dominaron la máquina que hace bolas de lodo"
+	},
+	"Path_2_Plaque_Level_2": {
+		"en": "sent the Fleens flying, wrangled with ransacked rooms, and vaulted the wall with hardly a fall",
+		"es": "mandaron a los Fleens a volar, pelearon con cuartos saqueados y saltaron la pared sin tan siquiera caerse"
+	},
+	"Path_2_Plaque_Level_3": {
+		"en": "finally foiled the Fleens, resolved the hotel rooming scene, and mastered the Mudball Wall machine",
+		"es": "finalmente frustraron a los Fleens, resolvieron la escena de las habitaciones del hotel y dominaron a la máquina Mudball Wall"
+	},
+	"Path_3_Plaque_Level_0": {
+		"en": "did not lag in Lion's Lair, solved the secrets of the Mirror Machine, and flew above Bubblewonder Abyss",
+		"es": "no se rezagaron en Lion's Lair, resolvieron los secretos del Mirror Machine y volaron sobre el Bubblewonder Abyss "
+	},
+	"Path_3_Plaque_Level_1": {
+		"en": "overcame their fear in Lion's Lair, had things go fine in the Mirror Machine, and rode a wonderous bubble ship",
+		"es": "vencieron su miedo en Lion's Lair, las cosas les fueron bien en el Mirror Machine y cabalgaron un asombroso barco de burbuja"
+	},
+	"Path_3_Plaque_Level_2": {
+		"en": "deciphered the lion's logic, correctly calculated the crystals, and ascended the airy abyss",
+		"es": "descifraron la lógica del león, calcularon correctamente los cristales y ascendieron el espacioso abismo"
+	},
+	"Path_3_Plaque_Level_3": {
+		"en": "raised up high the lion's paw, lined up the right crystals that they clearly saw, and mastered Bubblewonder without falling in its maw",
+		"es": "levantaron en alto la garra del león, alinearon los cristales correctos que vieron claramente y dominaron Bubblewonder sin caer en sus fauces"
+	},
+	"Plaque_Level_Intro": {
+		"en": "when the traveling was",
+		"es": "cuando el viajar era"
+	},
+	"Month_1": {
+		"en": "January",
+		"es": "enero"
+	},
+	"Month_2": {
+		"en": "Februrary",
+		"es": "febrero"
+	},
+	"Month_3": {
+		"en": "March",
+		"es": "marzo"
+	},
+	"Month_4": {
+		"en": "April",
+		"es": "abril"
+	},
+	"Month_5": {
+		"en": "May",
+		"es": "mayo"
+	},
+	"Month_6": {
+		"en": "June",
+		"es": "junio"
+	},
+	"Month_7": {
+		"en": "July",
+		"es": "julio"
+	},
+	"Month_8": {
+		"en": "August",
+		"es": "agosto"
+	},
+	"Month_9": {
+		"en": "September",
+		"es": "septiembre"
+	},
+	"Month_10": {
+		"en": "October",
+		"es": "octubre"
+	},
+	"Month_11": {
+		"en": "November",
+		"es": "noviembre"
+	},
+	"Month_12": {
+		"en": "December",
+		"es": "diciembre"
+	},
+	"Game_End_1": {
+		"en": "THANK YOU",
+		"es": "GRACIAS"
+	},
+	"Game_End_2": {
+		"en": "With your help all of the Zoombinis have escaped the Bloats and braved the treacherous journey to their new home in Zoombiniville. Well done!  Hip Hip Zoombinis!",
+		"es": "Con tu ayuda todos los Zoombinis escaparon de los Bloats y desafiaron el peligroso viaje hacia su casa nueva en Zoombiniville. ¡Bien Hecho! ¡Hurra, hurra Zoombinis!"
+	},
+	"Game_End_3": {
+		"en": "THE END",
+		"es": "FIN"
+	},
+	"Game_End_4": {
+		"en": "(for now)",
+		"es": "(por ahora)"
+	},
+	"Achievements_Title": {
+		"en": "Achievements",
+		"es": "Logros"
+	},
+	"Achievements_None": {
+		"en": "You haven't earned any achievements yet.",
+		"es": "Aun no has ganado ningún logro."
+	},
+	"Creator_No_More_Than_Two": {
+		"en": "There are no more Zoombinis left to recruit who look like this. Try another combination.",
+		"es": "No quedan más Zoombinis para reclutar que luzcan así. Intenta otra combinación."
+	},
+	"Creator_Unique_Party": {
+		"en": "Each Zoombini in this crew must be unique. Try another combination.",
+		"es": "Cada Zoombini en este equipo debe ser único. Intenta otra combinación."
+	},
+	"Creator_Dialog_Confirm": {
+		"en": "Got it",
+		"es": "Entendido"
+	},
+	"User_Select_Title": {
+		"en": "Choose Your Game",
+		"es": "Escoge Tu Juego"
+	},
+	"Cancel_Btn": {
+		"en": "Cancel",
+		"es": "Cancelar"
+	},
+	"Delete_Btn": {
+		"en": "Delete",
+		"es": "Borrar"
+	},
+	"Start_Btn": {
+		"en": "Start",
+		"es": "Comenzar"
+	},
+	"Delete_Confirmation": {
+		"en": "Are you sure you want to delete your game?",
+		"es": "¿Estás seguro de que quieres borrar tu juego?"
+	},
+	"Yes_Btn": {
+		"en": "Yes",
+		"es": "Sí"
+	},
+	"No_Btn": {
+		"en": "No",
+		"es": "No"
+	},
+	"Duplicate_Game_Name": {
+		"en": "This game name is already being used on this device. Enter another.",
+		"es": "Este nombre de juego ya se está utilizando en otro aparato. Introduce otro."
+	},
+	"OK_Btn": {
+		"en": "OK",
+		"es": "Está bien"
+	},
+	"Game_Name_Title": {
+		"en": "Name Your Game",
+		"es": "Ponle Nombre a tu Juego"
+	},
+	"New_Game": {
+		"en": "New Game",
+		"es": "Juego Nuevo"
+	},
+	"Enter_Name": {
+		"en": "enter name",
+		"es": "introducir nombre"
+	},
+	"Change_User": {
+		"en": "Change User",
+		"es": "Cambiar Usuario"
+	},
+	"Quit_Btn": {
+		"en": "Quit",
+		"es": "Salir"
+	},
+	"Watch_Intro": {
+		"en": "Watch Intro",
+		"es": "Mirar la Introducción"
+	},
+	"Credits": {
+		"en": "Credits",
+		"es": "Créditos"
+	},
+	"Map": {
+		"en": "The Map",
+		"es": "El Mapa"
+	},
+	"Creator": {
+		"en": "Zoombini Isle",
+		"es": "Isla Zoombini"
+	},
+	"AllergicCliffs": {
+		"en": "Allergic Cliffs",
+		"es": "Barrancos Alérgicos"
+	},
+	"StoneColdCaves": {
+		"en": "Stone Cold Caves",
+		"es": "Cuevas Heladas"
+	},
+	"PizzaPass": {
+		"en": "Pizza Pass",
+		"es": "Pase de Pizza"
+	},
+	"ShelterRock": {
+		"en": "Shelter Rock",
+		"es": "Roca de Albergue"
+	},
+	"Ferryboat": {
+		"en": "Capt'n Cajun's Ferryboat",
+		"es": "Ferry del Capitán Cajun"
+	},
+	"Toads": {
+		"en": "Titanic Tattooed Toads",
+		"es": "Sapos Titánico Tatuado"
+	},
+	"StoneRise": {
+		"en": "Stone Rise",
+		"es": "Subida de Piedra"
+	},
+	"Fleens": {
+		"en": "Fleens!",
+		"es": "¡Fleens!"
+	},
+	"HotelDimensia": {
+		"en": "Hotel Dimensia",
+		"es": "Hotel Dimensia"
+	},
+	"MudballWall": {
+		"en": "Mudball Wall",
+		"es": "Pared Bola de Lodo"
+	},
+	"ShadeTree": {
+		"en": "Shade Tree",
+		"es": "Árbol de Sombra"
+	},
+	"LionsLair": {
+		"en": "Lion's Lair",
+		"es": "Guarida de León"
+	},
+	"MirrorMachine": {
+		"en": "Mirror Machine",
+		"es": "Máquina de Espejo"
+	},
+	"BubblewonderAbyss": {
+		"en": "Bubblewonder Abyss",
+		"es": "Abismo Bubblewonder"
+	},
+	"Zoombiniville": {
+		"en": "Zoombiniville",
+		"es": "Zoombiniville"
+	},
+	"Population": {
+		"en": "Population",
+		"es": "Población"
+	}
+}

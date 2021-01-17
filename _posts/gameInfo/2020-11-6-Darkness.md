@@ -16,9 +16,11 @@ title: The Darkness Info Dump
 ## Darkness 1
 
 Darkness 1 is PS3/X360 exclusive so I don't have much to spew out my mouth about
+GameFAQ Link: [https://gamefaqs.gamespot.com/ps3/927013-the-darkness/faqs/51997](https://gamefaqs.gamespot.com/ps3/927013-the-darkness/faqs/51997)
 But considering (unlike Darkness 2) it was developed by Starbreeze Studio, so its Starbreeze's own proprietary engine
 
 After doing some digging (and getting a disc copy and ripping it)
+As a quick note, the version I was given seems to be tagged as `1.03` btw.
 
 ---
 
@@ -37,6 +39,13 @@ There's also the `.xwc` files which (according to some other posts) store the ra
 These other formats seem to have a different structure than what the posts say so idk
 
 ### Image Rips
+According to the [PS3Homebrew](https://www.reddit.com/r/ps3homebrew/wiki/retroxmb) subreddit:
+  - `ICON0.PNG` is a "content icon"
+  - `ICON1.PAM` is a "content icon video" (Not available in D1)
+  - `SND0.AT3` is a "content icon sound" (D1 does not have this)
+  - `PIC0.PNG` is the "overlay picture", only availbe on 16:9 PS3 screens (N/A)
+  - `PIC1.PNG` is a "background picture"
+  - `PIC2.PNG` is an "overlay picture", only available on 4:3 screens (of which D1 has none)
 
 <img src="{{ site.baseurl }}/assets/downloads/darkness/rips/CoverImg.png" loading="lazy"/>
 This comes from `PS3_Game/USRDIR/SYSTEM/PS3/GAMEDATA/PIC1.PNG`
@@ -44,6 +53,53 @@ This comes from `PS3_Game/USRDIR/SYSTEM/PS3/GAMEDATA/PIC1.PNG`
 [Image #2](/assets/downloads/darkness/rips/SaveData.png) comes from `PS3_Game/USRDIR/SYSTEM/PS3/SAVEDATA/ICON0.PNG`
 
 [Image #3](/assets/downloads/darkness/rips/SaveData2.png) comes from `PS3_Game/USRDIR/SYSTEM/PS3/SAVEDATA/PIC1.PNG`
+
+### Extra Content
+All of the stuff in this subheading comes from `PS3_GAME/USRDIR/EXTRACONTENT/OFFLINE01/*`.
+In the root dir there's `INFO.XRG` which just defines some basic stuff (collectables etc), but the end of the XRG file is a bit more interesting:
+```
+/* -- these will not work if unlocked by "unlock all" since additional script commands are needed.
+      so let's remove them from the extra content (not really needed, since the player will get info
+    when unlocking the darklings ingame).
+*0
+{
+  *id retailer_bat
+  *name §LEC_122_NAME
+  *desc §LEC_122_DESC
+  *type picture
+  *KeyID 122
+}
+
+*0
+{
+  *id retailer_golfdriver
+  *name §LEC_123_NAME
+  *desc §LEC_123_DESC
+  *type picture
+  *KeyID 123
+}
+*/
+```
+From here you have a bit more extra info:
+```
+//*0
+//{
+//  *id retailer_machete
+//  *name Registration Darkling
+//  *desc You've unlocked a special darkling outfit by calling the number you got from registering your game online. You will see it when you summon a berserker.
+//  *type picture
+//  *KeyID 124
+//}
+```
+All of this is commented out so it obviously doesn't exist in the game but quite interesting.
+There's also some movie files in `VIDEOS/PROFILEMAIN`
+TODO: ADD AND CONVERT THESE MOVIES
+
+### System
+Under `PS3_GAME/USRDIR/SYSTEM`, there's `GL`, `PS3`, `PS3EXES`, and `SOUND`.
+First off is `GL`, there's not too much interesting in here, its basically just [ARB_fragment_program](https://en.wikipedia.org/wiki/ARB_assembly_language#ARB_fragment_program) and then some more shader vertex code written by Starbreeze devs, but it doesn't seem to interesting to me.
+
+Under `PS3`, there's also not too much except for those images from above and some cache files 
 
 ---
 
