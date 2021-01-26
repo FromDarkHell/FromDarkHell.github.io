@@ -265,5 +265,8 @@ Anyways there's a [Google Drive Link](https://bit.ly/3osQdC5) available for all 
 ## Footnotes
 Here's your reminder that J.K. Rowling is a [TERF](https://www.nytimes.com/2019/12/19/world/europe/jk-rowling-maya-forstater-transgender.html) (alongside [Robbie Coltrane](https://www.insider.com/hagrid-actor-robbie-coltrane-defends-jk-rowling-over-transphobia-claim-2020-9) and [Brian Cox](https://www.pinknews.co.uk/2020/09/24/succession-brian-cox-jk-rowling-defence-cancel-culture-troubled-blood-robert-galbraith/) both of whom voiced their support for her transphobic essay) but [Rupert Grint](https://metro.co.uk/2020/06/12/rupert-grint-trans-statement-following-jk-rowling-backlash-12842044/) and [Daniel Radcliffe](https://www.thetrevorproject.org/2020/06/08/daniel-radcliffe-responds-to-j-k-rowlings-tweets-on-gender-identity/) are all (atleast in this aspect) better people than Rowling.
 
-As Racliffe said, `Transgender women are women. Any statement to the contrary erases the identity and dignity of transgender people and goes against all advice given by professional health care associations who have far more expertise on this subject matter`.
+I honestly cannot do a good job of explaining J.K. Rowling's transphobia as a cis man. I would instead recommend you watch [Contrapoints](https://twitter.com/ContraPoints/)'s video about her.
+
+<iframe width="1024" height="576" src="https://www.youtube.com/embed/7gDKbT_l2us" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Please feel free to donate to [The Trevor Project](https://give.thetrevorproject.org/give/63307/#!/donation/checkout) or any other charity of your choice.
