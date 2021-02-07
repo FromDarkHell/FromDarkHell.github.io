@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zoombinis
+title: Zoombinis Dumps
 ---
 
 **Contents**
