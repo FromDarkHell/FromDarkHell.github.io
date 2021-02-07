@@ -63,7 +63,7 @@ function furnitureSearch() {
 			// Ignore those that don't fit the conditions
 			if (parseFloat(f["X"]) > maxX || parseFloat(f["X"]) < minX) continue;
 			if (parseFloat(f["Y"]) > maxY || parseFloat(f["Y"]) < minY) continue;
-			if (parseFloat(f["Z"]) > maxY || parseFloat(f["Z"]) < minZ) continue;
+			if (parseFloat(f["Z"]) > maxZ || parseFloat(f["Z"]) < minZ) continue;
 
 			var bulletPoint = document.createElement('li');
 			bulletPoint.innerHTML = (f["Name"] + " / Cell: " + locationID + " @ (" + f["X"] + "," + f["Y"] + "," + f["Z"] + ")")
