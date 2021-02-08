@@ -39,7 +39,6 @@ function furnitureSearch() {
 		startup();
 	}
 
-
 	// Restore these to a more usable value
 	minX = (minX === "") ? Number.MIN_SAFE_INTEGER : minX
 	minY = (minY === "") ? Number.MIN_SAFE_INTEGER : minY
@@ -66,10 +65,8 @@ function furnitureSearch() {
 			if (parseFloat(f["Z"]) > maxZ || parseFloat(f["Z"]) < minZ) continue;
 
 			var bulletPoint = document.createElement('li');
-			bulletPoint.innerHTML = (f["Name"] + " / Cell: " + locationID + " @ (" + f["X"] + "," + f["Y"] + "," + f["Z"] + ")")
+			bulletPoint.innerHTML = (f["Name"] + " / Cell: <code class=\"language-plaintext highlighter-rouge\">" + locationID + "</code> @ (<code class=\"language-plaintext highlighter-rouge\">" + f["X"] + ", " + f["Y"] + ", " + f["Z"] + "</code>)")
 			$("#resultsList")[0].appendChild(bulletPoint)
-
-			break;
 		}
 	});
 }

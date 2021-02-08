@@ -1,13 +1,407 @@
 Chair Name, Cell Name, Location ID, Chair X, Chair Y, Chair Z
+"Chair #1", "<no name>", "ChorrolStables00", -65439.734375, 89574.257813, 14260.479492
+"Chair #2", "<no name>", "ChorrolStables00", -65440.214844, 89476.007813, 14260.479492
+"Bedroll #1", "<no name>", "ChorrolExterior05", -69004.4219, 99186.5000, 14545.9375
+"Bedroll #1", "<no name>", "ChorrolStables01", -65641.070313, 89111.710938, 14226.110352
+"Chair #1", "<no name>", "ChorrolExterior14", -70783.4688, 90850.3594, 14112.7568
+"Chair #1", "<no name>", "ChorrolExterior15", -69331.2891, 90330.6875, 14058.0889
+"Bench #1", "<no name>", "ChorrolExterior11", -65385.6953, 97094.9844, 14533.6133
+"Bench #2", "<no name>", "ChorrolExterior11", -65451.0859, 97333.1953, 14533.6133
+"Bench #1", "<no name>", "ChorrolExterior10", -65644.7734, 97436.5391, 14533.6133
+"Bench #2", "<no name>", "ChorrolExterior10", -65680.1016, 96871.2500, 14533.6133
+"Bench #3", "<no name>", "ChorrolExterior10", -65915.7266, 97029.1953, 14533.6133
+"Bench #4", "<no name>", "ChorrolExterior10", -65931.3828, 97248.8203, 14533.6133
 "Bench #1", "<no name>", "testIst", 704.000000, 480.000000, 32.000000
+"Bedroll #1", "<no name>", "groBakCamp", -42038.144531, -2891.268555, 5414.929688
+"Bedroll #2", "<no name>", "groBakCamp", -42101.210938, -3482.586914, 5416.530273
+"Bedroll #3", "<no name>", "groBakCamp", -42146.460938, -3167.565918, 5410.673828
+"Stool #1", "<no name>", "groBakCamp", -41599.972656, -3416.457764, 5429.079102
+"Stool #2", "<no name>", "groBakCamp", -41881.003906, -3360.227295, 5427.872070
+"Stool #3", "<no name>", "groBakCamp", -41983.871094, -3552.986816, 5432.364746
+"Bedroll #1", "<no name>", "DiveRock", 137164.750000, 141998.421875, 33968.785156
+"Bedroll #2", "<no name>", "DiveRock", 137214.953125, 141958.609375, 33972.304688
+"Bedroll #1", "<no name>", "AerinsCamp", 131887.984375, 135810.015625, 19291.908203
+"Stool #1", "<no name>", "AerinsCamp", 131799.781250, 135579.375000, 19304.929688
+"A Battered Stool #1", "<no name>", "RicketyMineExterior", 137518.875000, 91888.929688, 12375.713867
+"A Battered Stool #2", "<no name>", "RicketyMineExterior", 137662.062500, 91970.710938, 12375.713867
+"A Battered Stool #3", "<no name>", "RicketyMineExterior", 137770.093750, 92328.398438, 12520.258789
+"Bedroll #1", "<no name>", "RicketyMineExterior", 137301.515625, 92080.429688, 12329.570313
+"A Battered Stool #1", "<no name>", "FortSciniaExterior", 148559.578125, 83621.539063, 9791.151367
+"Bedroll #1", "<no name>", "FortSciniaExterior", 148365.968750, 83656.296875, 9774.991211
+"Bedroll #2", "<no name>", "FortSciniaExterior", 149361.781250, 83862.921875, 9511.791992
+"Bench #1", "<no name>", "BoethiaShrineExterior", 153056.203125, 47080.238281, 16231.919922
+"Bench #2", "<no name>", "BoethiaShrineExterior", 153312.296875, 47212.433594, 16231.919922
+"Bedroll #1", "<no name>", "SercenCamp", 141581.156250, 42393.320313, 5706.110352
+"Stool #1", "<no name>", "SercenCamp", 141592.187500, 42769.996094, 5720.929199
+"Bedroll #1", "<no name>", "Wilderness", 141348.421875, 18524.572266, 6118.779785
+"Bedroll #1", "<no name>", "CarbosCamp", 133202.203125, 63550.523438, 1538.110474
+"Bedroll #2", "<no name>", "CarbosCamp", 133467.093750, 63745.570313, 1538.110474
+"Bedroll #1", "<no name>", "TrossanCamp", 133411.968750, 9495.930664, 6474.110352
+"Bedroll #2", "<no name>", "TrossanCamp", 133440.750000, 10113.537109, 6474.110352
+"Bedroll #3", "<no name>", "TrossanCamp", 133641.750000, 9612.773438, 6474.110352
+"Bedroll #1", "<no name>", "BravilStables00", 64719.593750, -29405.812500, 980.501770
+"Bench #1", "<no name>", "BravilStables00", 65333.808594, -28979.589844, 994.311401
+"Bench #1", "<no name>", "PeryiteShrineExterior", 157549.343750, -19269.464844, 1063.920044
+"Bench #2", "<no name>", "PeryiteShrineExterior", 157635.875000, -19620.494141, 1066.052368
+"Bedroll #1", "<no name>", "NayonCamp", 173666.062500, -18191.232422, 1658.110474
+"Bedroll #2", "<no name>", "NayonCamp", 173830.281250, -18417.777344, 1658.110474
+"Stool #1", "<no name>", "NayonCamp", 173559.312500, -18718.845703, 1672.929443
+"Stool #2", "<no name>", "NayonCamp", 173641.546875, -18603.347656, 1672.929443
+"Chair #1", "<no name>", "ImperialBridgeTavernExterior02", 135416.000000, -22400.000000, 767.983154
+"Bedroll #1", "<no name>", "GarnetCamp", 181949.203125, -52038.613281, 4815.652832
+"Bedroll #2", "<no name>", "GarnetCamp", 182233.921875, -51808.359375, 4818.113281
+"Stool #1", "<no name>", "GarnetCamp", 181856.812500, -51574.757813, 4832.929199
+"Stool #2", "<no name>", "GarnetCamp", 181975.296875, -51716.730469, 4827.061035
+"Bedroll #1", "<no name>", "BlackDogCamp", 140414.390625, -55157.460938, 576.879517
+"Bedroll #2", "<no name>", "BlackDogCamp", 140755.921875, -55174.652344, 576.837646
+"Bedroll #3", "<no name>", "BlackDogCamp", 140956.140625, -55475.046875, 575.756042
+"Stool #1", "<no name>", "BlackDogCamp", 140523.250000, -55525.875000, 589.837891
+"Stool #2", "<no name>", "BlackDogCamp", 140654.859375, -55444.500000, 590.269104
+"Stool #3", "<no name>", "BlackDogCamp", 140758.203125, -55758.179688, 589.574036
+"Bedroll #1", "<no name>", "MarshPunkCamp", 157673.718750, -71053.476563, 3712.872314
+"Bedroll #2", "<no name>", "MarshPunkCamp", 157920.953125, -71311.351563, 3712.189209
+"Bedroll #3", "<no name>", "MarshPunkCamp", 158482.171875, -71071.359375, 3712.548584
+"Stool #1", "<no name>", "MarshPunkCamp", 157729.796875, -70858.320313, 3735.065918
+"Stool #2", "<no name>", "MarshPunkCamp", 157976.343750, -71064.828125, 3729.197754
+"Stool #3", "<no name>", "MarshPunkCamp", 158142.359375, -70936.218750, 3735.065918
+"Bedroll #1", "<no name>", "SeranCamp", 169130.031250, -69788.164063, 1785.090942
+"Bedroll #2", "<no name>", "SeranCamp", 169457.718750, -69918.570313, 1784.363647
+"Bedroll #3", "<no name>", "SeranCamp", 169741.421875, -70160.250000, 1784.987427
+"Stool #1", "<no name>", "SeranCamp", 169261.296875, -70220.601563, 1800.929443
+"Stool #2", "<no name>", "SeranCamp", 169296.890625, -70499.328125, 1800.929443
+"Stool #3", "<no name>", "SeranCamp", 169382.062500, -70200.109375, 1799.934204
+"A Battered Stool #1", "<no name>", "Wilderness", 141318.843750, -115813.781250, 4855.681152
+"Bedroll #2", "<no name>", "Wilderness", 141080.156250, -115988.851563, 4838.110840
+"Chair #1", "<no name>", "ImperialBridgeInnExterior", 134315.078125, -21941.830078, 730.010803
+"Bedroll #1", "<no name>", "TwoDeckerCamp", 59547.050781, 165452.593750, 27304.800781
+"Bedroll #2", "<no name>", "TwoDeckerCamp", 59611.738281, 165750.281250, 27304.925781
+"Bedroll #3", "<no name>", "TwoDeckerCamp", 61022.019531, 164523.375000, 27720.904297
+"Bedroll #1", "<no name>", "GnollMountain", 54732.757813, 152609.843750, 34707.125000
+"Stool #1", "<no name>", "GnollMountain", 54378.281250, 152544.453125, 34712.628906
+"Bedroll #1", "<no name>", "BrumaExterior02", 21215.9629, 148987.9844, 27135.3691
+"Bedroll #2", "<no name>", "BrumaExterior02", 21302.3418, 149015.8750, 27136.3184
+"Bedroll #3", "<no name>", "BrumaExterior02", 21632.8965, 149180.8281, 27096.8828
+"Bedroll #4", "<no name>", "BrumaExterior02", 21690.8906, 147549.3594, 27143.5957
+"Bedroll #5", "<no name>", "BrumaExterior02", 21875.3340, 147691.4063, 27143.8594
+"Bedroll #6", "<no name>", "BrumaExterior02", 22796.3066, 150683.6250, 26760.8730
+"Bedroll #7", "<no name>", "BrumaExterior02", 22822.4746, 147816.0469, 26843.7344
+"Bedroll #8", "<no name>", "BrumaExterior02", 22834.0996, 147897.3438, 26843.7188
+"Bedroll #9", "<no name>", "BrumaExterior02", 22834.1035, 148279.0000, 26842.5137
+"Bedroll #10", "<no name>", "BrumaExterior02", 22854.5957, 148490.2969, 26844.0566
+"Stool #1", "<no name>", "BrumaExterior02", 21370.7949, 147567.9688, 27163.4805
+"Stool #2", "<no name>", "BrumaExterior02", 21412.0820, 148903.2813, 27138.9043
+"Stool #3", "<no name>", "BrumaExterior02", 21670.7969, 147674.0156, 27162.5352
+"Stool #4", "<no name>", "BrumaExterior02", 23185.3457, 148015.1875, 26858.5371
+"Stool #5", "<no name>", "BrumaExterior02", 23189.5098, 148194.4375, 26858.5371
+"Bench #1", "<no name>", "BrumaMainEntrance", 29711.292969, 148821.312500, 25841.296875
+"Bedroll #1", "<no name>", "BrumaExterior04", 21323.6484, 147378.6094, 27150.1973
+"Bedroll #1", "<no name>", "BrumaExterior06", 25843.7480, 141273.4063, 25837.6113
+"Chair #1", "<no name>", "BrumaExterior06", 26551.2578, 142195.9844, 25858.6680
+"Bench #1", "<no name>", "NamiraShrineExterior", 47000.757813, 141535.187500, 22325.433594
+"Bench #2", "<no name>", "NamiraShrineExterior", 47280.183594, 141523.843750, 22319.078125
+"Bench #1", "<no name>", "AzuraShrineExterior", 111626.109375, 138062.875000, 21831.919922
+"Bench #2", "<no name>", "AzuraShrineExterior", 111839.250000, 137929.656250, 21831.919922
+"Bedroll #1", "<no name>", "AnvilMainEntrance", -191119.156250, -27430.384766, 472.702545
+"Bench #1", "<no name>", "AnvilMainEntrance", -191988.921875, -26649.363281, 661.328125
+"Bedroll #1", "<no name>", "AnvilTownCenter", -192427.343750, -32626.984375, 235.593430
+"Bedroll #1", "<no name>", "HiddenCamp", 91150.375000, 133742.000000, 25410.111328
+"Bedroll #2", "<no name>", "HiddenCamp", 91406.070313, 133032.468750, 25408.185547
+"Bedroll #3", "<no name>", "HiddenCamp", 91664.742188, 133319.062500, 25410.111328
+"Chair #1", "<no name>", "LordRugdumphsStateExterior", 119899.289063, 128549.687500, 15204.758789
+"Chair #2", "<no name>", "LordRugdumphsStateExterior", 120022.531250, 128532.265625, 15204.758789
+"Bedroll #1", "<no name>", "WalkerCamp", 129126.351563, 124775.476563, 16808.851563
+"Bedroll #2", "<no name>", "WalkerCamp", 129689.601563, 124543.156250, 16804.003906
+"Stool #1", "<no name>", "WalkerCamp", 129368.046875, 124608.648438, 16824.929688
+"Bench #1", "<no name>", "MephalaShrineExterior", 55162.707031, 112646.625000, 9943.919922
+"Bench #2", "<no name>", "MephalaShrineExterior", 55353.734375, 112434.609375, 9943.919922
+"Bench #3", "<no name>", "MephalaShrineExterior", 55538.902344, 112597.171875, 9943.919922
+"Bedroll #1", "<no name>", "WindRangeCamp", 112093.765625, 108637.851563, 9521.028320
+"Bedroll #2", "<no name>", "WindRangeCamp", 112411.992188, 108642.140625, 9520.826172
+"Stool #1", "<no name>", "WindRangeCamp", 112165.539063, 108398.015625, 9536.929688
+"Stool #2", "<no name>", "WindRangeCamp", 112281.914063, 108381.242188, 9536.929688
+"A Battered Stool #1", "<no name>", "SercenExterior", 34829.164063, 103760.218750, 2435.771729
+"A Battered Stool #2", "<no name>", "SercenExterior", 35139.472656, 103466.585938, 2435.771729
+"Bedroll #1", "<no name>", "SercenExterior", 34673.812500, 103378.085938, 2413.444824
+"Bedroll #2", "<no name>", "SercenExterior", 35027.554688, 103244.773438, 2413.444824
+"Bedroll #1", "<no name>", "RoxeyInnExterior01", 48272.097656, 103851.539063, 3042.110596
+"Chair #1", "<no name>", "RoxeyInnExterior01", 48042.738281, 103096.750000, 3074.756104
+"Bedroll #1", "<no name>", "FortCaractacusExterior", 19096.341797, 97012.554688, 4566.110352
+"Stool #1", "<no name>", "FortCaractacusExterior", 19055.515625, 96806.164063, 4580.929199
+"Bedroll #1", "<no name>", "CheydinhalExterior07", 117413.2422, 90864.0156, 7160.5713
+"Chair #1", "<no name>", "CheydinhalExterior09", 124611.8984, 92175.2656, 7200.1665 
+"A Battered Stool #2", "<no name>", "Wilderness", 53571.949219, 86135.585938, 313.705597
+"Bedroll #3", "<no name>", "Wilderness", 53926.589844, 86523.867188, 381.139496
+"Bedroll #4", "<no name>", "Wilderness", 53997.765625, 86116.992188, 411.697876
+"Bench #1", "<no name>", "CheydinhalExterior10Arena", 117336.8203, 89190.7813, 7097.0386
+"Bedroll #1", "<no name>", "CheydinhalExterior11", 122471.6250, 86503.8047, 7194.1104 
+"Stool #1", "<no name>", "CheydinhalExterior11", 122272.9063, 86520.6641, 7208.2939
+"Chair #1", "<no name>", "CheydinhalExterior12", 122953.1797, 87373.0000, 7368.7935
+"Bedroll #1", "<no name>", "CheydinhalExterior13Cathedral", 117485.5078, 85949.6094, 7026.1104
+"A Battered Stool #1", "<no name>", "SinkholeCaveExterior", 17909.275391, 81055.257813, 803.680908
+"A Battered Stool #2", "<no name>", "SinkholeCaveExterior", 18049.835938, 81126.656250, 803.680908
+"Bedroll #1", "<no name>", "SinkholeCaveExterior", 17733.058594, 81029.070313, 783.713745
+"Bedroll #2", "<no name>", "SinkholeCaveExterior", 17740.982422, 80766.640625, 783.789001
+"Bedroll #3", "<no name>", "SinkholeCaveExterior", 18281.474609, 81059.460938, 779.372864
+"Bedroll #4", "<no name>", "SinkholeCaveExterior", 18297.480469, 80860.835938, 779.377686
+"Bench #1", "<no name>", "ICStables00", 17654.175781, 66287.976563, 2991.920166
+"Bench #1", "<no name>", "ICStables01", 17584.621094, 64764.226563, 3007.735352
+"Bench #1", "<no name>", "VaerminaShrineExterior", 104743.757813, 65413.847656, 1183.920044
+"Bench #2", "<no name>", "VaerminaShrineExterior", 105022.296875, 65490.847656, 1183.920044
+"Bedroll #1", "<no name>", "DzonotCaveExterior", 11511.560547, 56574.921875, 122.767159
+"Bedroll #1", "<no name>", "ICWaterfront02", 14895.829102, 46703.023438, 298.110565
+"Bedroll #2", "<no name>", "ICWaterfront02", 14899.031250, 46526.351563, 298.466980
+"A Battered Stool #1", "<no name>", "SquanderedMineExterior", 128680.468750, 45463.191406, 4839.553711
+"A Battered Stool #2", "<no name>", "SquanderedMineExterior", 128799.031250, 45737.230469, 4869.861328
+"Bedroll #1", "<no name>", "CropsfordExterior01", 92613.625000, 23037.292969, 1632.552612
+"Bedroll #2", "<no name>", "CropsfordExterior01", 92861.359375, 23104.703125, 1632.911987
+"Bench #1", "<no name>", "CropsfordExterior01", 92877.718750, 22885.732422, 1647.920044
+"Stool #1", "<no name>", "CropsfordExterior01", 92796.687500, 22734.097656, 1652.630005
+"Stool #2", "<no name>", "CropsfordExterior01", 92928.281250, 22729.636719, 1656.910889
+"Bedroll #1", "<no name>", "SweetwaterCamp", 43342.152344, 18487.574219, 1894.309570
+"Bedroll #2", "<no name>", "SweetwaterCamp", 43375.449219, 18027.613281, 1890.110474
+"Stool #1", "<no name>", "SweetwaterCamp", 43549.375000, 18631.201172, 1904.929443
+"Stool #2", "<no name>", "SweetwaterCamp", 43662.492188, 18613.982422, 1904.929443
+"Bench #1", "<no name>", "HircineShrineExterior", 42883.535156, 10614.570313, 4311.919922
+"Bench #2", "<no name>", "HircineShrineExterior", 43128.140625, 10567.915039, 4311.919922
+"Bench #3", "<no name>", "HircineShrineExterior", 43341.113281, 10365.755859, 4311.919922
+"Bedroll #1", "<no name>", "Crestbridge", 107266.968750, 12163.182617, 502.992004
+"Bedroll #2", "<no name>", "Crestbridge", 107419.289063, 11742.590820, 495.992401
+"Bedroll #3", "<no name>", "Crestbridge", 107860.164063, 12258.584961, 491.381653
+"Bench #1", "<no name>", "Crestbridge", 107619.468750, 12146.958984, 519.417175
+"Stool #1", "<no name>", "Crestbridge", 107522.437500, 11989.294922, 512.929382
+"Stool #2", "<no name>", "Crestbridge", 107654.031250, 11984.833984, 512.929382
+"Bedroll #5", "<no name>", "Wilderness", 85816.0000, -137908.0000, 259.2482 
+"Bedroll #1", "<no name>", "LeyawiinExterior22", 84113.8594, -149072.5625, 750.3423
+"Bedroll #2", "<no name>", "LeyawiinExterior22", 85210.0547, -149952.2656, 697.6475 
+"Bedroll #1", "<no name>", "Bogwater", 124810.132813, -169823.609375, 2719.478271
+"Bedroll #1", "<no name>", "OBGateRandWW002", 4976.068359, -6105.979492, 5708.089844
+"Bedroll #2", "<no name>", "OBGateRandWW002", 5037.529785, -6541.812500, 5675.108887
+"Bedroll #1", "<no name>", "BravilRiver17", 69699.226563, -21304.953125, 97.755516
+"Bedroll #1", "<no name>", "FortGriefExterior", 100961.585938, -21974.076172, 488.649750
+"Bedroll #6", "<no name>", "Wilderness", 55169.539063, -25930.060547, 2591.678223
+"Stool #1", "<no name>", "Wilderness", 55316.816406, -26135.103516, 2607.072510
+"Stool #2", "<no name>", "Wilderness", 55366.726563, -25818.380859, 2608.929443
+"Bedroll #1", "<no name>", "BravilExteriorEntrance02", 67582.5703, -33787.3203, 536.4713
+"Bedroll #1", "<no name>", "BravilExterior11", 60669.0156, -40284.7109, 564.0000
+"Bench #1", "<no name>", "BravilSouth01", 62447.2578, -38934.7422, 640.8126
+"Bench #2", "<no name>", "BravilSouth01", 62468.4961, -39375.9883, 640.8126
+"Chair #1", "<no name>", "BravilSouth01", 64880.5703, -38984.5977, 883.1834
+"Bedroll #1", "<no name>", "BawnwatchCamp", 83383.679688, -47156.960938, 400.312378
+"Bench #1", "<no name>", "SheogorathShrineExterior", 75902.078125, -88036.492188, 3383.604004
+"Bench #2", "<no name>", "SheogorathShrineExterior", 75993.062500, -87742.757813, 3383.258057
+"Bench #1", "<no name>", "NocturnalShrineExterior", 108890.757813, -105501.289063, 3366.908447
+"Bench #2", "<no name>", "NocturnalShrineExterior", 108977.242188, -105786.414063, 3413.526611
+"A Battered Stool #1", "<no name>", "RockmilkCaveExterior", 78872.343750, -107751.507813, 1882.518066
+"A Battered Stool #2", "<no name>", "RockmilkCaveExterior", 79204.257813, -107902.695313, 1882.518066
+"Bedroll #1", "<no name>", "RockmilkCaveExterior", 79214.257813, -107428.117188, 1862.696777
+"Bedroll #2", "<no name>", "RockmilkCaveExterior", 79370.406250, -107683.765625, 1862.696777
+"A Battered Stool #1", "<no name>", "FishermansRock", 95795.898438, -108314.593750, 792.929382
+"A Battered Stool #2", "<no name>", "FishermansRock", 95913.664063, -108267.343750, 792.191895
+"Bedroll #1", "<no name>", "FishermansRock", 95657.343750, -107913.960938, 749.164490
+"Bedroll #2", "<no name>", "FishermansRock", 96260.539063, -107738.062500, 763.705566
+"Bedroll #3", "<no name>", "FishermansRock", 96653.195313, -107928.820313, 772.739807
+"Bedroll #4", "<no name>", "FishermansRock", 96972.703125, -108481.250000, 778.110474
+"Bench #1", "<no name>", "BorderWatchExterior", 70558.898438, -112914.125000, 2639.920166
+"Stool #1", "<no name>", "WatersEdgeExterior", 81874.929688, -112124.195313, 51.637177
+"Stool #1", "<no name>", "WatersEdgeExterior02", 81973.593750, -112363.398438, 49.185085
+"Stool #3", "<no name>", "Wilderness", 81695.007813, -125217.312500, 319.946014
+"Stool #4", "<no name>", "Wilderness", 81870.460938, -125129.085938, 319.934235
+"Chair #1", "<no name>", "WhiteStallionLodge", 82169.375000, -125540.632813, 345.237335
+"Chair #2", "<no name>", "WhiteStallionLodge", 82267.843750, -125651.656250, 345.415253
+"A Battered Stool #1", "<no name>", "TelepeExterior", 77512.585938, -132242.328125, 2510.493896
+"Bedroll #1", "<no name>", "TelepeExterior", 77673.179688, -132035.953125, 2467.589111
+"A Battered Stool #1", "<no name>", "UndertowCavernExterior", 85107.335938, -133968.656250, 1235.680908
+"A Battered Stool #2", "<no name>", "UndertowCavernExterior", 85305.054688, -134140.359375, 1235.680908
+"Bedroll #1", "<no name>", "UndertowCavernExterior", 85006.898438, -134148.062500, 1206.575562
+"Bedroll #1", "<no name>", "CheydinhalStable01", 111314.437500, 93111.484375, 7138.409180
+"Chair #1", "<no name>", "CheydinhalStable01", 111950.140625, 92849.804688, 7200.170898
+"Chair #2", "<no name>", "CheydinhalStable01", 112048.343750, 92846.468750, 7200.170898
+"Bench #1", "<no name>", "Wilderness", -47685.207031, 159358.171875, 38727.921875
+"Bench #2", "<no name>", "Wilderness", -47687.199219, 159660.937500, 38727.921875
+"A Battered Stool #1", "<no name>", "OutlawEndresCaveExterior", 2310.072021, 119559.359375, 15869.604492
+"Bedroll #1", "<no name>", "OutlawEndresCaveExterior", 2165.577637, 119349.992188, 15845.236328
+"Chair #1", "<no name>", "LeyawiinStables00", 84123.804688, -138124.593750, 434.377869
+"A Battered Stool #1", "<no name>", "BrokenPromisesCaveExterior", -95377.406250, 75437.484375, 13382.098633
+"Bedroll #1", "<no name>", "BrokenPromisesCaveExterior", -95351.210938, 75045.507813, 13349.984375
+"A Battered Stool #1", "<no name>", "FortNikelExterior", -13310.192383, 68256.062500, 1464.791504
+"Bedroll #1", "<no name>", "FortNikelExterior", -13236.424805, 67894.718750, 1418.552490
+"Bench #1", "<no name>", "WawnetInnExterior", -1027.154297, 62211.070313, 1246.425781
+"Bench #1", "<no name>", "MolagBalShrineExterior", -46926.710938, 54440.050781, 10351.919922
+"Bench #2", "<no name>", "MolagBalShrineExterior", -47268.460938, 54437.640625, 10351.919922
+"Bench #3", "<no name>", "Wilderness", -21262.933594, 52254.816406, 6828.147461
+"Bench #4", "<no name>", "Wilderness", -21303.443359, 52564.128906, 6828.147461
+"Bench #5", "<no name>", "Wilderness", -21424.109375, 52263.562500, 6828.147461
+"Bench #6", "<no name>", "Wilderness", -21454.814453, 52572.792969, 6828.147461
+"Bedroll #1", "<no name>", "FanacaseculExterior", -4221.609863, 52929.718750, 436.868195
+"Bedroll #7", "<no name>", "Wilderness", -92124.820313, 48996.464844, 10069.964844
+"Bedroll #1", "<no name>", "BrindleHomeExterior01", -55298.832031, 46679.890625, 7874.110352
+"Chair #1", "<no name>", "BrindleHomeExterior01", -55385.808594, 45892.335938, 7911.132813
+"Chair #2", "<no name>", "BrindleHomeExterior01", -55408.851563, 45987.859375, 7911.132813
+"Bedroll #1", "<no name>", "BrotchCamp", -111928.593750, 44312.480469, 12657.465820
+"Bedroll #2", "<no name>", "BrotchCamp", -112118.945313, 44732.890625, 12655.159180
+"Bedroll #3", "<no name>", "BrotchCamp", -112424.000000, 44656.210938, 12655.780273
+"Bedroll #4", "<no name>", "BrotchCamp", -112509.710938, 44441.234375, 12656.192383
+"Stool #1", "<no name>", "BrotchCamp", -112075.828125, 44115.777344, 12672.929688
+"Stool #2", "<no name>", "BrotchCamp", -112192.976563, 44084.246094, 12672.929688
+"Stool #3", "<no name>", "BrotchCamp", -112388.335938, 44127.484375, 12672.929688
+"Bench #1", "<no name>", "BrindleHomeExterior", -55325.691406, 43185.960938, 7887.919922
+"A Battered Stool #1", "<no name>", "EchoMineExterior", -108462.242188, 38686.691406, 14132.129883
+"Bedroll #1", "<no name>", "ValleyViewCamp", -100251.468750, 39443.484375, 13342.479492
+"Bedroll #2", "<no name>", "ValleyViewCamp", -100553.367188, 39225.046875, 13344.429688
+"Stool #1", "<no name>", "ValleyViewCamp", -100278.914063, 39568.687500, 13359.916016
+"Bench #1", "<no name>", "SanguineShrineExterior", -85829.757813, 38045.769531, 11487.919922
+"Bench #2", "<no name>", "SanguineShrineExterior", -85836.500000, 38338.996094, 11486.924805
+"Bench #1", "<no name>", "ClavicusVileShrineExterior", -13802.514648, 35099.671875, 2015.920044
+"Bench #2", "<no name>", "ClavicusVileShrineExterior", -13830.733398, 34842.753906, 2015.920044
+"Bedroll #1", "<no name>", "TalwinqueExterior", -109994.406250, 24673.365234, 9282.110352
+"A Battered Stool #3", "<no name>", "Wilderness", -109798.992188, 24405.001953, 9312.338867
+"A Battered Stool #4", "<no name>", "Wilderness", -109988.859375, 24267.910156, 9289.835938
+"Bedroll #1", "<no name>", "DagnysCamp", -116259.257813, 18893.160156, 7690.964355
+"Bedroll #2", "<no name>", "DagnysCamp", -116537.468750, 19201.511719, 7690.114746
+"Bedroll #3", "<no name>", "DagnysCamp", -116868.179688, 19046.671875, 7690.111328
+"Bedroll #4", "<no name>", "DagnysCamp", -116884.382813, 18744.226563, 7690.110352
+"Stool #1", "<no name>", "DagnysCamp", -116334.773438, 18665.781250, 7704.929199
+"Stool #2", "<no name>", "DagnysCamp", -116555.812500, 18831.767578, 7704.929199
+"Stool #3", "<no name>", "DagnysCamp", -116655.695313, 18732.457031, 7704.929199
+"Stool #1", "<no name>", "ShardrockExterior", -108527.320313, 9850.776367, 6788.501953
+"Bench #1", "<no name>", "MeridiaShrineExterior", -97494.132813, 7282.200684, 7758.924805
+"Bench #2", "<no name>", "MeridiaShrineExterior", -97689.570313, 7483.211914, 7758.924805
+"Bedroll #1", "<no name>", "FatRatCamp", -84044.687500, -2856.550537, 6825.027344
+"Bedroll #2", "<no name>", "FatRatCamp", -84303.359375, -3143.144287, 6826.110352
+"Bedroll #3", "<no name>", "FatRatCamp", -84540.273438, -2537.184326, 6824.214355
+"Bedroll #1", "<no name>", "CollarBoneCamp", -29628.574219, -4697.674316, 7064.305176
+"Bedroll #2", "<no name>", "CollarBoneCamp", -29951.312500, -4835.943848, 7037.396973
+"Stool #1", "<no name>", "CollarBoneCamp", -29748.593750, -5060.951660, 7066.750000
+"Bedroll #1", "<no name>", "GnollMeetingCamp", -117845.718750, -15631.137695, 4890.110352
+"Bedroll #2", "<no name>", "GnollMeetingCamp", -118171.515625, -15527.233398, 4890.110352
+"Bedroll #3", "<no name>", "GnollMeetingCamp", -118330.671875, -15257.091797, 4890.110352
+"Stool #1", "<no name>", "GnollMeetingCamp", -117865.820313, -15252.315430, 4904.929199
+"Stool #2", "<no name>", "GnollMeetingCamp", -118002.570313, -15285.936523, 4904.539551
+"Stool #3", "<no name>", "GnollMeetingCamp", -118022.539063, -14975.463867, 4897.419922
+"Bedroll #8", "<no name>", "Wilderness", -49788.000000, -16624.000000, 3916.000000
+"Bedroll #1", "<no name>", "MortalCamp", -129143.148438, -22123.312500, 7080.570313
+"Bedroll #2", "<no name>", "MortalCamp", -129676.843750, -22095.986328, 7083.310547
+"Stool #1", "<no name>", "MortalCamp", -129287.218750, -22061.267578, 7091.460938
+"Bedroll #9", "<no name>", "Wilderness", -120768.234375, -43231.765625, 6624.166992
+"Bedroll #1", "<no name>", "MaladaExterior02", 185440.031250, -1309.985474, 6386.125000
+"Bedroll #2", "<no name>", "MaladaExterior02", 185673.484375, -1039.477173, 6386.216309
+"Bedroll #3", "<no name>", "MaladaExterior02", 185782.687500, -1242.003418, 6384.639160
+"Bedroll #1", "<no name>", "LastChanceCamp", -170534.625000, 36342.562500, 8104.263184
+"Bedroll #2", "<no name>", "LastChanceCamp", -170781.859375, 36500.472656, 8102.602539
+"Stool #1", "<no name>", "LastChanceCamp", -170799.046875, 36150.296875, 8120.929199
+"Stool #2", "<no name>", "LastChanceCamp", -170972.671875, 35908.855469, 8120.929199
+"Bedroll #1", "<no name>", "VarusCamp", -182441.093750, 27281.994141, 5233.043457
+"Bedroll #2", "<no name>", "VarusCamp", -182590.687500, 27010.285156, 5233.076660
+"Stool #1", "<no name>", "VarusCamp", -182239.343750, 26917.386719, 5248.929199
+"Chair #1", "<no name>", "Wilderness", -75274.054688, 8513.795898, 6257.148438
+"Stool #5", "<no name>", "Wilderness", -75250.664063, 8597.098633, 6244.134766
+"Bedroll #1", "<no name>", "SkingradExteriorB", -72038.3594, 5700.1025, 6384.8623
+"Bedroll #1", "<no name>", "SkingradExteriorCC", -68544.4844, 5169.4541, 6368.7119
+"Bench #1", "<no name>", "SkingradUurasSheepfold", -74001.937500, 3578.524902, 5720.835449
+"Bedroll #1", "<no name>", "SkingradExteriorW", -71788.7656, 608.0245, 6708.6348
+"Chair #1", "<no name>", "SkingradTamikaVineyards", -74563.843750, -847.928223, 6674.701172
+"Stool #1", "<no name>", "SkingradTamikaVineyards", -74463.390625, -756.249878, 6646.808594
+"Bench #1", "<no name>", "MalacathShrineExterior", -202502.843750, 10308.406250, 5711.919922
+"Bench #2", "<no name>", "MalacathShrineExterior", -202750.593750, 10366.640625, 5708.544922
+"Bedroll #1", "<no name>", "BodeanCamp", -173661.296875, 6177.067383, 6176.543457
+"Bedroll #2", "<no name>", "BodeanCamp", -174159.218750, 6284.323242, 6175.431152
+"Stool #1", "<no name>", "BodeanCamp", -174094.203125, 6000.230957, 6192.989746
+"Bedroll #1", "<no name>", "RasavaCamp", -112263.375000, -6555.043945, 7144.171875
+"Bedroll #2", "<no name>", "RasavaCamp", -112690.328125, -6743.432129, 7146.386230
+"Bedroll #3", "<no name>", "RasavaCamp", -112852.000000, -6428.000000, 7162.075684
+"Stool #1", "<no name>", "RasavaCamp", -112374.687500, -6228.717773, 7159.747070
+"Stool #2", "<no name>", "RasavaCamp", -112527.632813, -6450.253906, 7172.000000
+"Bedroll #1", "<no name>", "AtreneCamp", -197987.406250, -6637.259277, 4378.116211
+"Bedroll #2", "<no name>", "AtreneCamp", -198228.125000, -6794.407227, 4378.110352
+"Stool #1", "<no name>", "AtreneCamp", -198275.531250, -6451.571289, 4392.929199
+"Stool #2", "<no name>", "AtreneCamp", -198284.265625, -6329.212891, 4392.929199
+"Stool #3", "<no name>", "AtreneCamp", -198464.312500, -6276.425293, 4392.929199
+"Bedroll #1", "<no name>", "GottshawInnExterior", -162511.734375, -13540.625977, 6935.637207
+"Chair #1", "<no name>", "GottshawInnExterior", -162723.046875, -13571.405273, 6968.082031
+"Chair #1", "<no name>", "AnvilExterior07", -188949.3125, -27992.7617, 275.3763
+"Bench #1", "<no name>", "AnvilExterior02", -194768.0000, -30384.0000, 416.0000
+"Bench #2", "<no name>", "AnvilExterior02", -194768.0000, -30384.0000, 416.0000 
+"Chair #1", "<no name>", "AnvilExterior02", -194488.9063, -29125.0234, 549.7162
+"Chair #2", "<no name>", "AnvilExterior02", -194517.6875, -28964.7148, 549.7162
+"Bench #1", "<no name>", "AnvilMainGate", -189680.0000, -29408.0000, 272.0000
+"Chair #1", "<no name>", "AnvilExterior04", -184918.7969, -30382.4844, 342.0656
+"Bedroll #1", "<no name>", "RedLaneCamp", -149387.859375, -33313.003906, 7226.030762
+"Bedroll #2", "<no name>", "RedLaneCamp", -149670.828125, -33615.527344, 7215.735840
+"Bedroll #3", "<no name>", "RedLaneCamp", -149878.796875, -33018.003906, 7223.572754
+"Bedroll #4", "<no name>", "RedLaneCamp", -149912.593750, -33839.632813, 7214.585449
+"Bedroll #5", "<no name>", "RedLaneCamp", -150351.484375, -33778.261719, 7211.286133
+"Bedroll #6", "<no name>", "RedLaneCamp", -150702.968750, -33586.261719, 7215.464844
+"Bedroll #7", "<no name>", "RedLaneCamp", -150808.453125, -33258.367188, 7215.651367
+"Stool #1", "<no name>", "RedLaneCamp", -149392.593750, -33092.980469, 7262.659180
+"Stool #2", "<no name>", "RedLaneCamp", -149576.718750, -32864.375000, 7281.893555
+"Stool #3", "<no name>", "RedLaneCamp", -149579.093750, -33457.726563, 7226.856445
+"Stool #4", "<no name>", "RedLaneCamp", -149674.234375, -32909.031250, 7253.759766
+"Stool #5", "<no name>", "RedLaneCamp", -150151.578125, -33225.503906, 7229.025879
+"Stool #6", "<no name>", "RedLaneCamp", -150191.687500, -33403.031250, 7231.942383
+"Stool #7", "<no name>", "RedLaneCamp", -150203.968750, -33114.750000, 7231.062012
+"Stool #8", "<no name>", "RedLaneCamp", -150508.171875, -33186.699219, 7231.595703
+"Bedroll #1", "<no name>", "TrollCandleCamp", -157960.062500, -38673.511719, 3080.822021
+"Stool #1", "<no name>", "TrollCandleCamp", -158036.734375, -38520.691406, 3095.793457
+"Chair #1", "<no name>", "AnvilExteriorCastle02", -186821.234375, -41474.070313, 1629.239136
+"Chair #2", "<no name>", "AnvilExteriorCastle02", -186839.437500, -41313.093750, 1629.239136
+"Chair #3", "<no name>", "AnvilExteriorCastle02", -186934.453125, -41465.277344, 1628.939575
+"Chair #4", "<no name>", "AnvilExteriorCastle02", -187077.921875, -41221.375000, 1629.206909
+"Bedroll #1", "<no name>", "KvatchEncampment", -144282.140625, -27052.146484, 7466.982910
+"Bedroll #2", "<no name>", "KvatchEncampment", -144411.421875, -27377.310547, 7464.198730
+"Bedroll #3", "<no name>", "KvatchEncampment", -144575.843750, -27535.283203, 7465.527344
+"Bedroll #4", "<no name>", "KvatchEncampment", -145121.796875, -27748.433594, 7473.851074
+"Bedroll #5", "<no name>", "KvatchEncampment", -145489.515625, -27759.949219, 7473.567871
+"Bedroll #6", "<no name>", "KvatchEncampment", -145636.312500, -26475.855469, 7477.980957
+"Bedroll #7", "<no name>", "KvatchEncampment", -145899.359375, -26512.503906, 7470.113770
+"Bedroll #8", "<no name>", "KvatchEncampment", -146211.359375, -26719.820313, 7473.048828
+"Bench #1", "<no name>", "KvatchEncampment", -144951.687500, -27088.203125, 7480.059570
+"Bench #2", "<no name>", "KvatchEncampment", -145629.343750, -26663.416016, 7479.079102
+"Chair #1", "<no name>", "KvatchEncampment", -144997.687500, -27260.078125, 7505.975098
+"Chair #2", "<no name>", "KvatchEncampment", -146088.953125, -26880.423828, 7490.487793
+"Stool #1", "<no name>", "KvatchEncampment", -144715.937500, -27124.304688, 7487.934082
+"Stool #2", "<no name>", "KvatchEncampment", -145121.718750, -27196.828125, 7481.648438
+"Stool #3", "<no name>", "KvatchEncampment", -145227.375000, -27660.814453, 7488.729980
+"Stool #4", "<no name>", "KvatchEncampment", -145584.343750, -26865.175781, 7480.929199
+"Stool #5", "<no name>", "KvatchEncampment", -145726.375000, -26821.080078, 7480.946777
+"Stool #6", "<no name>", "KvatchEncampment", -145983.703125, -26758.261719, 7471.934082
 "Throne #1", "<no name>", "TestClara02", -2528.000000, 208.000000, -224.000000
 "Throne #2", "<no name>", "TestClara02", -2528.000000, 832.000000, -222.541840
 "Throne #3", "<no name>", "TestClara02", -2531.105957, -339.506165, -222.291489
 "Throne #4", "<no name>", "TestClara02", -2551.051270, -845.511841, -222.324387
+"Bedroll #1", "<no name>", "ICElvenGardensDistrict04", 24557.7695, 67513.2734, 3601.2061
+"Stool #1", "<no name>", "ICElvenGardensDistrict04", 24428.8984, 68259.8906, 3616.9294 
+"Bedroll #1", "<no name>", "ICMarketDistrict03", 33147.2148, 67860.7188, 3600.6809
+"Bedroll #1", "<no name>", "ICArena07", 38221.8242, 61835.0195, 3593.0527
+"Bedroll #1", "<no name>", "ICArena05", 36075.7656, 60120.2656, 3661.1138
+"Bedroll #2", "<no name>", "ICArena05", 36208.1172, 60020.5469, 3661.0586
+"Bench #1", "<no name>", "ICArena05", 36387.3867, 60498.4531, 3673.1797
+"Bedroll #1", "<no name>", "ICArboretum03", 35111.4336, 56980.3750, 3591.3882
+"Bedroll #1", "<no name>", "ICTempleDistrict01", 24225.2832, 59595.1367, 3594.1106
+"Bedroll #1", "<no name>", "ICTalosPlazaDistrict06", 20355.9180, 64971.6445, 3505.2048
+"Bench #1", "<no name>", "ICImperialLegionHQ05", 38431.2344, 78520.0156, 3243.6907
+"Bench #2", "<no name>", "ICImperialLegionHQ05", 38532.2969, 80474.7500, 2991.1990
+"Stool #1", "<no name>", "ICImperialLegionHQ05", 39157.0117, 78020.1797, 2984.9294
+"Bench #1", "<no name>", "ICImperialLegionHQ06", 37172.1055, 77660.7188, 3244.3379
+"Bedroll #1", "<no name>", "ICImperialLegionHQ04", 36259.9570, 80022.5469, 2958.6379
+"Bench #1", "<no name>", "ICImperialLegionHQ04", 36562.6758, 78122.4375, 3243.6907
+"Bench #2", "<no name>", "ICImperialLegionHQ04", 36637.2031, 78036.3828, 3040.4280
+"Bench #3", "<no name>", "ICImperialLegionHQ04", 36656.9219, 77986.1484, 3243.6907
+"Bench #4", "<no name>", "ICImperialLegionHQ04", 36714.1953, 78103.3047, 3040.4280
+"Bench #5", "<no name>", "ICImperialLegionHQ04", 36726.0078, 78247.0781, 3040.4280
+"Chair #1", "<no name>", "ICImperialLegionHQ04", 36526.6484, 80112.6641, 2994.6487
+"Stool #1", "<no name>", "ICImperialLegionHQ04", 36156.7695, 79594.7813, 2976.9294
+"Bench #1", "<no name>", "ICTheArcaneUniversity01", 39617.1914, 45950.4609, 3007.6206
+"Bench #2", "<no name>", "ICTheArcaneUniversity01", 39715.8828, 46122.1094, 3007.6206
 "Stool #1", "<no name>", "EmilTest", 1806.862793, 1951.649902, 7140.499512
 "Bed #1", "<no name>", "TESTTavernTempCOPY0000", 282.502319, -63.737259, -4.596901
 "Chair #1", "<no name>", "TESTTavernTempCOPY0000", 186.166779, 8.678225, -189.817856
+"A Battered Stool #1", "<no name>", "ShatteredMineExterior", -148568.984375, 18300.445313, 8353.780273
+"Bedroll #1", "<no name>", "ShatteredMineExterior", -148095.125000, 18227.033203, 8338.110352
+"Bedroll #2", "<no name>", "ShatteredMineExterior", -148240.156250, 18008.761719, 8338.110352
+"Bedroll #1", "<no name>", "CampAles", -147266.281250, 30202.322266, 12729.037109
+"Stool #1", "<no name>", "CampAles", -147073.437500, 30033.929688, 12744.929688
 "A Battered Stool #1", "<no name>", "TestMine", 196.684097, -288.123962, -32.000000
+"Stool #1", "<no name>", "AnvilCastleCourtyardA", -185650.8594, -39043.9844, 615.6161
 "Bed #1", "<no name>", "TestVampireInterior", 1584.407349, 2147.527344, 7198.985352
 "Bed #2", "<no name>", "TestVampireInterior", 2355.348145, 2022.398193, 7198.003906
 "A Battered Stool #1", "<no name>", "WareHouseMinesGeneric", 263.120972, 1774.069580, 2155.285645
@@ -25,6 +419,7 @@ Chair Name, Cell Name, Location ID, Chair X, Chair Y, Chair Z
 "Stool #2", "<no name>", "TestHavokSettle", 674.028320, 82.885498, 1822.596191
 "Stool #3", "<no name>", "TestHavokSettle", 731.250977, 189.537598, 1822.596191
 "Stool #4", "<no name>", "TestHavokSettle", 835.178711, 137.719727, 1822.596191
+"Stool #1", "<no name>", "TempleOfTheEmperorZeroInterior", 71734.2422, -56732.1211, 3780.9294
 "Stool #1", "<no name>", "WarehouseCaveGeneric", 4627.375488, 5830.390625, 6365.278320
 "Stool #1", "<no name>", "WarehouseCaveNatureMythic", 8547.856445, 3234.935547, 5831.389648
 "A Battered Stool #1", "<no name>", "WarehouseAyleidRooms04", 2535.675293, 3942.658447, -56.215557
@@ -81,6 +476,12 @@ Chair Name, Cell Name, Location ID, Chair X, Chair Y, Chair Z
 "Stool #1", "A Warlock's Luck", "BravilaWarlockluck", -182.551498, 107.734413, -271.754181
 "Stool #2", "A Warlock's Luck", "BravilaWarlockluck", -241.076355, 169.383240, -271.754181
 "Stool #3", "A Warlock's Luck", "BravilaWarlockluck", -61.160839, 330.385376, -270.332611
+"Bed #1", "AI Testing Warehouse", "WarehouseAI", 1623.978638, 2102.122559, 7028.474609
+"Bed #2", "AI Testing Warehouse", "WarehouseAI", 1625.137939, 2310.081787, 6996.269531
+"Bedroll #1", "AI Testing Warehouse", "WarehouseAI", 1882.430908, 2397.956299, 6997.643066
+"Bedroll #2", "AI Testing Warehouse", "WarehouseAI", 2119.346191, 2431.736816, 6997.643066
+"Bench #1", "AI Testing Warehouse", "WarehouseAI", 2655.426025, 2114.425049, 7011.959961
+"Chair #1", "AI Testing Warehouse", "WarehouseAI", 2216.326660, 1873.096436, 7042.546875
 "Chair #1", "Abandoned House", "AnvilAbandonedHouse", 392.778564, -111.619347, 185.508652
 "Stool #1", "Abandoned House", "AnvilAbandonedHouse", 437.336334, 23.153833, 167.159485
 "A Battered Stool #1", "Abandoned Mine Caverns", "AbandonedMine02", -1701.211426, -4065.681152, -607.850708
@@ -150,12 +551,6 @@ Chair Name, Cell Name, Location ID, Chair X, Chair Y, Chair Z
 "Chair #12", "Ahdarji's House", "LeyawiinAhdarjisHouse", 627.781677, -66.367943, 41.928627
 "Chair #13", "Ahdarji's House", "LeyawiinAhdarjisHouse", 637.748535, 378.780151, 41.748878
 "Chair #14", "Ahdarji's House", "LeyawiinAhdarjisHouse", 81.400352, -79.306976, 332.612946
-"Bed #1", "AI Testing Warehouse", "WarehouseAI", 1623.978638, 2102.122559, 7028.474609
-"Bed #2", "AI Testing Warehouse", "WarehouseAI", 1625.137939, 2310.081787, 6996.269531
-"Bedroll #1", "AI Testing Warehouse", "WarehouseAI", 1882.430908, 2397.956299, 6997.643066
-"Bedroll #2", "AI Testing Warehouse", "WarehouseAI", 2119.346191, 2431.736816, 6997.643066
-"Bench #1", "AI Testing Warehouse", "WarehouseAI", 2655.426025, 2114.425049, 7011.959961
-"Chair #1", "AI Testing Warehouse", "WarehouseAI", 2216.326660, 1873.096436, 7042.546875
 "Stool #1", "Alberic Litte's Basement", "ChorrolAlbericLittesBasement", 349.268646, -424.779449, -111.370140
 "Bed #1", "Alberic Litte's House", "ChorrolAlbericLittesHouse", -38.657082, 279.275818, -91.193138
 "Bed #2", "Alberic Litte's House", "ChorrolAlbericLittesHouse", 296.581024, -180.007080, -89.701164
@@ -1397,6 +1792,9 @@ Chair Name, Cell Name, Location ID, Chair X, Chair Y, Chair Z
 "Chair #4", "Chapel Hall", "BrumaChapelHall", 1021.904541, -19.941742, -80.550629
 "Chair #5", "Chapel Hall", "BrumaChapelHall", 12.318434, -426.142029, -82.757927
 "Chair #6", "Chapel Hall", "BrumaChapelHall", 409.791840, -1340.402222, -178.557449
+"Bedroll #1", "Chapel Undercroft", "KvatchChapelUndercroft", 260.453094, 282.680908, -157.889496
+"Bedroll #2", "Chapel Undercroft", "KvatchChapelUndercroft", 272.824463, 165.114761, -157.889496
+"Bed #1", "Chapel Undercroft", "ChorrolChapelUndercroft", 205.069168, -1277.015991, -223.874039
 "Bedroll #1", "Chapel of Akatosh", "KvatchChapelofAkatosh", 1010.906250, 674.750183, -1149.887817
 "Bedroll #2", "Chapel of Akatosh", "KvatchChapelofAkatosh", 1036.972046, -640.852539, -1149.887817
 "Bedroll #3", "Chapel of Akatosh", "KvatchChapelofAkatosh", 1138.279785, 667.971802, -1149.887817
@@ -1431,9 +1829,6 @@ Chair Name, Cell Name, Location ID, Chair X, Chair Y, Chair Z
 "Bench #4", "Chapel of the Brethren", "HackdirtChapel", 2146.902344, 1926.878418, 6910.585938
 "Bench #5", "Chapel of the Brethren", "HackdirtChapel", 2148.435547, 2184.343750, 6910.585938
 "Bench #6", "Chapel of the Brethren", "HackdirtChapel", 2153.399170, 2049.597656, 6910.585938
-"Bedroll #1", "Chapel Undercroft", "KvatchChapelUndercroft", 260.453094, 282.680908, -157.889496
-"Bedroll #2", "Chapel Undercroft", "KvatchChapelUndercroft", 272.824463, 165.114761, -157.889496
-"Bed #1", "Chapel Undercroft", "ChorrolChapelUndercroft", 205.069168, -1277.015991, -223.874039
 "Stool #1", "Charcoal Cave - Bandit Lair", "CharcoalCave03", 4867.856445, 418.935303, -4.575987
 "Stool #1", "Charcoal Cave", "CharcoalCave", 6339.856445, 2594.935547, 7162.313965
 "Bed #1", "Chestnut Handy Stables", "ICChestnutHandyStables", 181.825928, 207.894516, -48.048027
@@ -3292,6 +3687,12 @@ Chair Name, Cell Name, Location ID, Chair X, Chair Y, Chair Z
 "Chair #2", "J'Ghasta's House", "BrumaJGhastasHouse", -182.187714, 372.620483, 33.152298
 "Chair #3", "J'Ghasta's House", "BrumaJGhastasHouse", -202.678940, 250.463867, 33.152298
 "Chair #4", "J'Ghasta's House", "BrumaJGhastasHouse", -93.310402, 68.380493, -193.556885
+"Bed #1", "J'Riska's House", "BorderWatchJriskasHouse", 108.034592, -264.883606, -81.224098
+"Bench #1", "J'Riska's House", "BorderWatchJriskasHouse", -329.661713, 143.809235, -97.203072
+"Chair #1", "J'Riska's House", "BorderWatchJriskasHouse", -144.918640, 248.691650, -75.119461
+"Chair #2", "J'Riska's House", "BorderWatchJriskasHouse", -184.379517, 409.733307, -79.298904
+"Stool #1", "J'Riska's House", "BorderWatchJriskasHouse", -197.146027, -315.829681, -101.022095
+"Stool #2", "J'Riska's House", "BorderWatchJriskasHouse", -39.135086, -297.320862, -101.022095
 "Chair #1", "J'mhad's Basement", "ICTempleDistrictJmhadsBasement", 277.601318, -244.890488, 2170.719727
 "Chair #2", "J'mhad's Basement", "ICTempleDistrictJmhadsBasement", 388.493469, -168.407318, 2170.719727
 "Bench #1", "J'mhad's House", "ICTempleDistrictJmhadsHouse", 308.324799, 149.225204, -289.807190
@@ -3309,12 +3710,6 @@ Chair Name, Cell Name, Location ID, Chair X, Chair Y, Chair Z
 "Chair #4", "J'mhad's Private Quarters", "ICTempleDistrictJmhadsHouseUpstairs", 1985.998047, 2073.813477, 7338.314453
 "Chair #5", "J'mhad's Private Quarters", "ICTempleDistrictJmhadsHouseUpstairs", 2228.525879, 1506.063232, 7340.990234
 "Chair #6", "J'mhad's Private Quarters", "ICTempleDistrictJmhadsHouseUpstairs", 2337.883301, 1912.995850, 7340.990234
-"Bed #1", "J'Riska's House", "BorderWatchJriskasHouse", 108.034592, -264.883606, -81.224098
-"Bench #1", "J'Riska's House", "BorderWatchJriskasHouse", -329.661713, 143.809235, -97.203072
-"Chair #1", "J'Riska's House", "BorderWatchJriskasHouse", -144.918640, 248.691650, -75.119461
-"Chair #2", "J'Riska's House", "BorderWatchJriskasHouse", -184.379517, 409.733307, -79.298904
-"Stool #1", "J'Riska's House", "BorderWatchJriskasHouse", -197.146027, -315.829681, -101.022095
-"Stool #2", "J'Riska's House", "BorderWatchJriskasHouse", -39.135086, -297.320862, -101.022095
 "Bed #1", "J'zidzo's House", "SESplitManiaJzidzosHouse", 73.619629, -2330.111816, -86.869766
 "Bed #2", "J'zidzo's House", "SESplitManiaJzidzosHouse", 85.596497, -2381.815430, 185.580032
 "Chair #1", "J'zidzo's House", "SESplitManiaJzidzosHouse", 173.174454, -1729.552246, -85.277298
@@ -4791,6 +5186,10 @@ Chair Name, Cell Name, Location ID, Chair X, Chair Y, Chair Z
 "Bed #2", "Reynald Jemane's House", "ChorrolReynaldJemanesHouse", 459.315826, 181.606277, -119.180626
 "Chair #1", "Reynald Jemane's House", "ChorrolReynaldJemanesHouse", -70.985008, 43.561810, -123.125771
 "Stool #1", "Reynald Jemane's House", "ChorrolReynaldJemanesHouse", -494.763214, 164.528839, -364.600189
+"Bed #1", "Ri'Zakar's Room", "LeyawiinBlackwoodRoom02", 177.366684, 3.848246, 36.914917
+"Bench #1", "Ri'Zakar's Room", "LeyawiinBlackwoodRoom02", -257.975525, 274.122345, 16.427906
+"Chair #1", "Ri'Zakar's Room", "LeyawiinBlackwoodRoom02", -121.830330, -342.587708, 46.878304
+"Chair #2", "Ri'Zakar's Room", "LeyawiinBlackwoodRoom02", -23.626863, -283.789032, 46.878304
 "Bed #1", "Ri'bassa's House", "BorderWatchRibassasHouse", 346.239746, 177.752930, -81.224075
 "Bench #1", "Ri'bassa's House", "BorderWatchRibassasHouse", -285.805328, -62.871166, -98.990219
 "Bench #2", "Ri'bassa's House", "BorderWatchRibassasHouse", -69.160248, -21.284479, -98.990219
@@ -4798,10 +5197,6 @@ Chair Name, Cell Name, Location ID, Chair X, Chair Y, Chair Z
 "Stool #1", "Ri'bassa's House", "BorderWatchRibassasHouse", -103.293144, -214.053818, -97.980865
 "Stool #2", "Ri'bassa's House", "BorderWatchRibassasHouse", -131.989609, 268.937622, -97.980858
 "Stool #3", "Ri'bassa's House", "BorderWatchRibassasHouse", -164.595261, -208.020615, -97.980865
-"Bed #1", "Ri'Zakar's Room", "LeyawiinBlackwoodRoom02", 177.366684, 3.848246, 36.914917
-"Bench #1", "Ri'Zakar's Room", "LeyawiinBlackwoodRoom02", -257.975525, 274.122345, 16.427906
-"Chair #1", "Ri'Zakar's Room", "LeyawiinBlackwoodRoom02", -121.830330, -342.587708, 46.878304
-"Chair #2", "Ri'Zakar's Room", "LeyawiinBlackwoodRoom02", -23.626863, -283.789032, 46.878304
 "Bedroll #1", "Rickety Mine Bottom Section", "RicketyMine02", -1876.627930, -2050.794922, 128.351196
 "Bench #1", "Rickety Mine Bottom Section", "RicketyMine02", -4321.164063, -2513.617432, 148.860321
 "Stool #1", "Rickety Mine Bottom Section", "RicketyMine02", -2050.100342, -1769.653931, 144.952576
@@ -5033,6 +5428,15 @@ Chair Name, Cell Name, Location ID, Chair X, Chair Y, Chair Z
 "Chair #5", "S'rathad's House", "ICTalosPlazaSrathadsHouse", 163.118637, 589.105225, -187.368210
 "Bed #1", "S'rathad's Private Quarters", "ICTalosPlazaSrathadsHouseUpstairs", 4.941598, -116.262421, -248.726929
 "Chair #1", "S'rathad's Private Quarters", "ICTalosPlazaSrathadsHouseUpstairs", 253.520874, -302.603394, -240.882751
+"Bed #1", "SE Settlement Interiors", "TestMeganSE", 1378.400146, -256.367493, -269.432831
+"Bed #2", "SE Settlement Interiors", "TestMeganSE", 238.410965, 213.810944, -140.310440
+"Bed #3", "SE Settlement Interiors", "TestMeganSE", 2419.563965, -426.301453, 92.895195
+"Bed #4", "SE Settlement Interiors", "TestMeganSE", 2595.739990, -468.800385, 92.895195
+"Bed #5", "SE Settlement Interiors", "TestMeganSE", 281.908051, -9.693545, 132.435211
+"Bench #1", "SE Settlement Interiors", "TestMeganSE", -187.964340, -35.035908, -157.780716
+"Chair #1", "SE Settlement Interiors", "TestMeganSE", 1012.237671, 728.009949, -137.511841
+"Chair #2", "SE Settlement Interiors", "TestMeganSE", 991.777893, 619.243835, -137.511841
+"Stool #1", "SE Settlement Interiors", "TestMeganSE", 2757.244629, -362.354980, 76.882141
 "Worship Pew #1", "Sacellum Arden-Sul", "SENSSacellumArdenSul", 284.665558, 252.688614, 32.467564
 "Worship Pew #2", "Sacellum Arden-Sul", "SENSSacellumArdenSul", 291.987793, -180.585602, 32.467564
 "Worship Pew #3", "Sacellum Arden-Sul", "SENSSacellumArdenSul", 437.130493, 254.472610, 32.467564
@@ -5109,15 +5513,6 @@ Chair Name, Cell Name, Location ID, Chair X, Chair Y, Chair Z
 "Chair #1", "Savlian Matius's Tent ", "KvatchTentSavlianMatius", 2127.530273, 2183.884277, 7718.615234
 "Stool #1", "Savlian Matius's Tent ", "KvatchTentSavlianMatius", 1998.001831, 1969.239014, 7702.316895
 "Stool #2", "Savlian Matius's Tent ", "KvatchTentSavlianMatius", 2078.486328, 1966.909424, 7702.316895
-"Bed #1", "SE Settlement Interiors", "TestMeganSE", 1378.400146, -256.367493, -269.432831
-"Bed #2", "SE Settlement Interiors", "TestMeganSE", 238.410965, 213.810944, -140.310440
-"Bed #3", "SE Settlement Interiors", "TestMeganSE", 2419.563965, -426.301453, 92.895195
-"Bed #4", "SE Settlement Interiors", "TestMeganSE", 2595.739990, -468.800385, 92.895195
-"Bed #5", "SE Settlement Interiors", "TestMeganSE", 281.908051, -9.693545, 132.435211
-"Bench #1", "SE Settlement Interiors", "TestMeganSE", -187.964340, -35.035908, -157.780716
-"Chair #1", "SE Settlement Interiors", "TestMeganSE", 1012.237671, 728.009949, -137.511841
-"Chair #2", "SE Settlement Interiors", "TestMeganSE", 991.777893, 619.243835, -137.511841
-"Stool #1", "SE Settlement Interiors", "TestMeganSE", 2757.244629, -362.354980, 76.882141
 "Chair #1", "Secret Room", "LeyawiinCastleSecretRoom", 385.479492, -1659.719727, 44.758331
 "Chair #2", "Secret Room", "LeyawiinCastleSecretRoom", 452.750031, -1630.815430, 46.309929
 "Chair #3", "Secret Room", "LeyawiinCastleSecretRoom", 535.638000, -2200.541748, 46.309845
@@ -5656,8 +6051,6 @@ Chair Name, Cell Name, Location ID, Chair X, Chair Y, Chair Z
 "Bedroll #1", "Telepe", "Telepe", -177.734131, -1423.183350, -133.098877
 "Bedroll #2", "Telepe", "Telepe", -210.127686, 687.576172, -140.573547
 "Bedroll #3", "Telepe", "Telepe", -252.667725, -1169.065186, -133.098877
-"Bed #1", "temp interior mockup", "TESTtempinterior", -324.850433, 35.306866, 33.923798
-"Chair #1", "temp interior mockup", "TESTtempinterior", -100.254616, 46.479469, -189.466095
 "Stool #1", "Temple Armory", "CloudRulerTempleArmory", -168.730896, 89.567894, -110.397919
 "Bench #1", "Temple of the Ancestor Moths", "TempleOfTheAncestorMothMonastery", -111.409294, 78.086655, -366.359650
 "Bench #2", "Temple of the Ancestor Moths", "TempleOfTheAncestorMothMonastery", -120.942894, -51.992199, -366.359650
@@ -6837,3 +7230,5 @@ Chair Name, Cell Name, Location ID, Chair X, Chair Y, Chair Z
 "Bed #1", "Zoe Malene's House", "SEHaleZoeMalenesHouse", 98.706215, -1091.744751, -230.945313
 "Stool #1", "Zoe Malene's House", "SEHaleZoeMalenesHouse", 128.424332, -544.994934, -247.702026
 "Stool #2", "Zoe Malene's House", "SEHaleZoeMalenesHouse", 203.319305, -553.376587, -247.702011
+"Bed #1", "temp interior mockup", "TESTtempinterior", -324.850433, 35.306866, 33.923798
+"Chair #1", "temp interior mockup", "TESTtempinterior", -100.254616, 46.479469, -189.466095
