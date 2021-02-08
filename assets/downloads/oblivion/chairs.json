@@ -1,15 +1,4 @@
 {
-    "CellID": {
-        "Name": "CellName",
-        "Furniture": [
-            {
-                "Name": "N",
-                "X": 1,
-                "Y": 2,
-                "Z": 3
-            }
-        ]
-    },
     "ChorrolStables00": {
         "Name": "<no name>",
         "Furniture": [
