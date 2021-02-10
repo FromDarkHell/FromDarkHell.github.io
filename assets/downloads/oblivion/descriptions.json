@@ -1,0 +1,3938 @@
+{
+    "00000019": {
+        "EditorID": "VampireRace",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000003D": {
+        "EditorID": "SkillArmorer",
+        "Levels": {
+            "0": "Maintain weapons and armor at top efficiency. Worn weapons and armor are less effective.",
+            "1": "Long days and nights at the forge make you strong and tough. You are now an Apprentice Armorer. Your repair hammers now last twice as long. You cannot repair magical items yet.",
+            "2": "Long days and nights at the forge make you strong and tough. You are now a Journeyman Armorer. Using repair hammers, you can now fully repair magic weapons and armor.",
+            "3": "Long days and nights at the forge make you strong and tough. You are now an Expert Armorer. Using repair hammers, you can repair items up to 125% of their normal health. Weapons with health above 100% do extra damage. Armor with health above 100% provides extra protection.",
+            "4": "Long days and nights at the forge make you strong and tough. You are now a Master Armorer. A Master Armorer does not wear out repair hammers while repairing weapons and armor. One repair hammer lasts you a lifetime."
+        }
+    },
+    "0000003E": {
+        "EditorID": "SkillAthletics",
+        "Levels": {
+            "0": "Run and swim faster, and regenerate lost fatigue faster.",
+            "1": "'Why walk when you can run' has always been your motto. Now the miles of running and hours of swimming have paid off. You are an Apprentice of Athletics. Your rate of fatigue regeneration when running is increased by 25%.",
+            "2": "'Why walk when you can run' has always been your motto. Now the miles of running and hours of swimming have paid off. You are a Journeyman of Athletics. Your rate of fatigue regeneration when running is increased by 50%.",
+            "3": "'Why walk when you can run' has always been your motto. Now the miles of running and hours of swimming have paid off. You are an Expert of Athletics. Your rate of fatigue regeneration when running is increased by 75%.",
+            "4": "'Why walk when you can run' has always been your motto. Now the miles of running and hours of swimming have paid off. You are a Master of Athletics. Running never reduces your rate of fatigue regeneration."
+        }
+    },
+    "0000003F": {
+        "EditorID": "SkillBlade",
+        "Levels": {
+            "0": "Deliver the slashing and thrusting attacks of dagger and sword weapons more effectively.",
+            "1": "The cuts and nicks from long practice sessions with all manner of blades has its benefits. You are now an Apprentice with Blade weapons. You have a new Standing power attack, which does extra damage. Press and hold Attack to use this power attack.",
+            "2": "The cuts and nicks from long practice sessions with all manner of blades has its benefits. You are now a Journeyman with Blade weapons. Your Sidestep power attack now has a chance to disarm your opponent. Press and hold Attack while moving left or right to use this power attack.",
+            "3": "The cuts and nicks from long practice sessions with all manner of blades has its benefits. You are now an Expert with Blade weapons. Your Sweeping power attack now has a chance to knock down your opponent. Press and hold Attack while moving backward to use this power attack.",
+            "4": "The cuts and nicks from long practice sessions with all manner of blades has its benefits. You are now a Master with Blade weapons. Your Rushing power attack now has a chance to paralyze your opponent. Press and hold Attack while moving forward to use this power attack."
+        }
+    },
+    "00000040": {
+        "EditorID": "SkillBlock",
+        "Levels": {
+            "0": "Parry melee attacks with shields and weapons. Successful blocks reduce damage.",
+            "1": "The truly skillful fighter learns to block with shield and weapon. Diligent practice has made you an Apprentice at Blocking. Blocking with your shield or weapon no longer drains fatigue.",
+            "2": "The truly skillful fighter learns to block with shield and weapon. Diligent practice has made you a Journeyman at Blocking. Blocking no longer damages your weapon or shield. Blocking with your bare hands will cause opponents to recoil a bit, although you take full damage from the attack.",
+            "3": "The truly skillful fighter learns to block with shield and weapon. Diligent practice has made you an Expert at Blocking. Blocking with a shield can now be used like an attack to knock back and stagger your opponent.",
+            "4": "The truly skillful fighter learns to block with shield and weapon. Diligent practice has made you a Master of Blocking. Blocking with a shield now has a chance to disarm your opponent."
+        }
+    },
+    "00000041": {
+        "EditorID": "SkillBlunt",
+        "Levels": {
+            "0": "Deliver the crushing blows of mace and axe weapons more effectively.",
+            "1": "You have lumps and bruises from long practice sessions with all kinds of maces and axes. You are now an Apprentice with Blunt weapons. You now have the Standing power attack, which does extra damage. Press and hold the attack button to use this power attack.",
+            "2": "You have lumps and bruises from long practice sessions with all kinds of maces and axes. You are now a Journeyman with Blunt weapons. Your Sidestep power attack now has a chance to disarm your opponent. Press and hold Attack while moving left or right to use this power attack.",
+            "3": "You have lumps and bruises from long practice sessions with all kinds of maces and axes. You are now an Expert with Blunt weapons. Your Sweeping power attack now has a chance to knock down your opponent. Press and hold Attack while moving backward to use this power attack.",
+            "4": "You have lumps and bruises from long practice sessions with all kinds of maces and axes. You are now a Master with Blunt weapons. Your Rushing power attack now has a chance to paralyze your opponent. Press and hold Attack while moving forward to use this power attack."
+        }
+    },
+    "00000042": {
+        "EditorID": "SkillHandToHand",
+        "Levels": {
+            "0": "Attack without weapons to damage and fatigue opponents.",
+            "1": "Thick calluses cover your knuckles and joints from long hours of punching and kicking. At long last you are an Apprentice in Hand to Hand combat. You have a new Standing power attack, which does extra damage. Press and hold the attack button to use this power attack.",
+            "2": "Thick calluses cover your knuckles and joints from long hours of punching and kicking. At long last you are a Journeyman in Hand to Hand combat. Your Sidestep power attack now has a chance to disarm your opponent. Press and hold Attack while moving left or right to use this power attack.",
+            "3": "You are now an Expert in Hand to Hand combat. You gain the Sweeping power attack, with a chance to knock down your opponent. Press and hold Attack while moving backwards to use this power attack.",
+            "4": "At long last you are a Master of Hand to Hand combat. You now have the Rushing power attack, which has a chance to paralyze your opponent. Press and hold Attack while moving forward to use this power attack. Blocking has a chance to disarm your opponent."
+        }
+    },
+    "00000043": {
+        "EditorID": "SkillHeavyArmor",
+        "Levels": {
+            "0": "Make more effective use of Iron, Steel, Dwarven, Orcish, Ebony, and Daedric armors.",
+            "1": "Days and weeks of constant use make wearing heavy armor tolerable, but not comfortable. You have learned to adapt to its weight and use it in combat. As an Apprentice of Heavy Armor, your plate mail is no longer damaged as swiftly from combat.",
+            "2": "Days and weeks of constant use make wearing heavy armor tolerable, but not comfortable. You have learned to adapt to its weight and use it in combat. As a Journeyman of Heavy Armor, your plate mail is no longer damaged as swiftly from combat.",
+            "3": "Days and weeks of constant use make wearing heavy armor tolerable, but not comfortable. You have learned to adapt to its weight and use it in combat. As an Expert of Heavy Armor, your plate mail no longer encumbers you as much when you are running or swimming.",
+            "4": "Days and weeks of constant use make wearing heavy armor tolerable, but not comfortable. You have learned to adapt to its weight and use it in combat. As a Master of Heavy Armor, your plate mail no longer encumbers you at all when you are running or swimming."
+        }
+    },
+    "00000044": {
+        "EditorID": "SkillAlchemy",
+        "Levels": {
+            "0": "Create potions and gain benefits from alchemical ingredients more effectively.",
+            "1": "Your stained fingers attest to your diligence in mixing potions and learning their secrets. You are now an Apprentice of Alchemy. All potion ingredients have four potential effects. You can now automatically identify the first two effects.",
+            "2": "Your stained fingers attest to your diligence in mixing potions and learning their secrets. You are now a Journeyman of Alchemy. All potion ingredients have four potential effects. You can now automatically identify the first three effects.",
+            "3": "Your stained fingers attest to your diligence in mixing potions and learning their secrets. You are now an Expert of Alchemy. All potion ingredients have four potential effects. You can now automatically identify all the effects.",
+            "4": "Your stained fingers attest to your diligence in mixing potions and learning their secrets. You are now a Master of Alchemy. Normally it takes two or more ingredients to make a potion. As a master Alchemist, you can create a potion from a single ingredient."
+        }
+    },
+    "00000045": {
+        "EditorID": "SkillAlteration",
+        "Levels": {
+            "0": "Cast spells to breathe or walk on water, open locks, shield from physical and magical damage, and alter encumbrance.",
+            "1": "You have unlocked more arcane secrets of Altering the fabric of reality. You can now cast Apprentice level Alteration spells.",
+            "2": "You have unlocked more arcane secrets of Altering the fabric of reality. You can now cast Journeyman level Alteration spells.",
+            "3": "You have unlocked more arcane secrets of Altering the fabric of reality. You can now cast Expert level Alteration spells.",
+            "4": "You have unlocked more arcane secrets of Altering the fabric of reality. You can now cast Master level Alteration spells."
+        }
+    },
+    "00000046": {
+        "EditorID": "SkillConjuration",
+        "Levels": {
+            "0": "Cast spells to summon otherworldly creatures, summon magical weapons and armor, and turn the undead.",
+            "1": "Through steady practice you have discovered more creatures to summon from the planes of Oblivion. You are now an Apprentice in Conjuration magic and can cast Apprentice level Conjuration spells.",
+            "2": "Through steady practice you have discovered more creatures to summon from the planes of Oblivion. You are now a Journeyman in Conjuration magic and can cast Journeyman level Conjuration spells.",
+            "3": "Through steady practice you have discovered more creatures to summon from the planes of Oblivion. You are now an Expert in Conjuration magic and can cast Expert level Conjuration spells.",
+            "4": "Through steady practice you have discovered more creatures to summon from the planes of Oblivion. You are now a Master of Conjuration magic and can cast Master level Conjuration spells."
+        }
+    },
+    "00000047": {
+        "EditorID": "SkillDestruction",
+        "Levels": {
+            "0": "Cast spells to inflict magical fire, frost, and shock damage, or reduces resistances to magic attacks.",
+            "1": "Fire, frost and lightning have flowed from your fingertips. You are now an Apprentice in Destruction magic and can cast Apprentice level Destruction spells.",
+            "2": "Fire, frost and lightning have flowed from your fingertips. You are now a Journeyman in Destruction magic and can cast Journeyman level Destruction spells.",
+            "3": "Fire, frost and lightning have flowed from your fingertips. You are now an Expert in Destruction magic and can cast Expert level Destruction spells.",
+            "4": "Fire, frost and lightning have flowed from your fingertips. You are now a Master of Destruction magic and can cast Master level Destruction spells."
+        }
+    },
+    "00000048": {
+        "EditorID": "SkillIllusion",
+        "Levels": {
+            "0": "Cast spells to charm, conceal, create light, silence, paralyze, command or affect morale or aggressiveness.",
+            "1": "As a new Apprentice of Illusion, you know what is and isn't real, and how to fool the minds of your opponents. You can now cast Apprentice level Illusion spells.",
+            "2": "As a new Journeyman of Illusion, you know what is and isn't real, and how to fool the minds of your opponents. You can now cast Journeyman level Illusion spells.",
+            "3": "As a new Expert of Illusion, you know what is and isn't real, and how to fool the minds of your opponents. You can now cast Expert level Illusion spells.",
+            "4": "As a new Master of Illusion, you know what is and isn't real, and how to fool the minds of your opponents. You can now cast Master level Illusion spells."
+        }
+    },
+    "00000049": {
+        "EditorID": "SkillMysticism",
+        "Levels": {
+            "0": "Cast spells that absorb, reflect, and dispel magic, move objects, sense life, and bind souls.",
+            "1": "The mysteries of magic are slowly revealing themselves to you. You are now an Apprentice of Mysticism and can cast Apprentice level Mysticism spells.",
+            "2": "The mysteries of magic are slowly revealing themselves to you. You are now a Journeyman of Mysticism and can cast Journeyman level Mysticism spells.",
+            "3": "The mysteries of magic are slowly revealing themselves to you. You are now an Expert of Mysticism and can cast Expert level Mysticism spells.",
+            "4": "The mysteries of magic are slowly revealing themselves to you. You are now a Master of Mysticism and can cast Master level Mysticism spells."
+        }
+    },
+    "0000004A": {
+        "EditorID": "SkillRestoration",
+        "Levels": {
+            "0": "Cast spells to restore, fortify, or absorb physical and magical attributes, cure disease, and resist magical attacks.",
+            "1": "The secret energies of the human body have not surrendered their mysteries easily to you. You are now an Apprentice of Restoration and can cast Apprentice level Restoration spells.",
+            "2": "The secret energies of the human body have not surrendered their mysteries easily to you. You are now a Journeyman of Restoration and can cast Journeyman level Restoration spells.",
+            "3": "The secret energies of the human body have not surrendered their mysteries easily to you. You are now an Expert with Restoration and can cast Expert level Restoration spells.",
+            "4": "The secret energies of the human body have not surrendered their mysteries easily to you. You are now a Master of Restoration and can cast Master level Restoration spells."
+        }
+    },
+    "0000004B": {
+        "EditorID": "SkillAcrobatics",
+        "Levels": {
+            "0": "Jump long distances and avoid damage when falling great distances.",
+            "1": "After long, arduous hours of practicing jumping and controlling your falls, you have become an Apprentice of Acrobatics. You can now attack while jumping or falling. However, you cannot use power attacks while in mid-jump or mid-fall, only regular attacks.",
+            "2": "After long, arduous hours of practicing jumping and controlling your falls, you have become a Journeyman of Acrobatics. You now have the Dodge ability. Blocking while jumping makes you dodge in the direction of the jump. You will do a tumbling roll and possibly avoid an attack.",
+            "3": "After long, arduous hours of practicing jumping and controlling your falls, you have become an Expert of Acrobatics. Now it costs half as much fatigue to jump.",
+            "4": "You have become a Master of Acrobatics. You gain the Water Jump ability. Jump just as you touch the water, and you can jump again as if it were a solid surface. Miss your timing... and fall into the water. With practice, you can jump several times in a row all the way across a body of water."
+        }
+    },
+    "0000004C": {
+        "EditorID": "SkillLightArmor",
+        "Levels": {
+            "0": "Make more effective use of Fur, Leather, Chainmail, Mithril, Elven, and Glass armors.",
+            "1": "Your light armor is like a second skin after all those days and weeks wearing it. You have learned to move easily with it in combat. As an Apprentice of Light Armor, your gear is no longer damaged as swiftly from combat.",
+            "2": "Your light armor is like a second skin after all those days and weeks wearing it. You have learned to move easily with it in combat. As a Journeyman of Light Armor, your gear is no longer damaged as swiftly from combat.",
+            "3": "Your light armor is like a second skin after all those days and weeks wearing it. You have learned to move easily with it in combat. As an Expert of Light Armor, your gear no longer encumbers you.",
+            "4": "Your light armor is like a second skin after all those days and weeks wearing it. You have learned to move easily with it in combat. As a Master of Light Armor, you gain a 50% increase in protection if wearing all light armor."
+        }
+    },
+    "0000004D": {
+        "EditorID": "SkillMarksman",
+        "Levels": {
+            "0": "Deliver more deadly ranged attacks with bow and arrow weapons.",
+            "1": "The twang of the bow and the scraping of arrow fletchings are quite familiar to you. As a new Apprentice Marksman, holding the bowstring with a knocked arrow no longer fatigues you.",
+            "2": "The twang of the bow and the scraping of arrow fletchings are quite familiar to you. As a new Journeyman Marksman, your vision focuses in on the target if you hold block with an arrow nocked.",
+            "3": "The twang of the bow and the scraping of arrow fletchings are quite familiar to you. As a new Expert Marksman, your arrows now have a chance to knock down your opponent.",
+            "4": "The twang of the bow and the scraping of arrow fletchings are quite familiar to you. As a new Master Marksman, your arrows now have a chance to paralyze your opponent."
+        }
+    },
+    "0000004E": {
+        "EditorID": "SkillMercantile",
+        "Levels": {
+            "0": "Get better deals when buying or selling goods.",
+            "1": "Negotiation, bargaining, dickering, haggling, they're all a means to an end... getting the best price for your goods. You are now an Apprentice of Mercantile. The damaged condition of an item is no longer a factor when you sell it.",
+            "2": "Negotiation, bargaining, dickering, haggling, they're all a means to an end... getting the best price for your goods.  You are now a Journeyman of Mercantile. You can buy and sell any object to any vendor, even if they normally do not deal in that type of wares.",
+            "3": "Negotiation, bargaining, dickering, haggling, they're all a means to an end... getting the best price for your goods. You are now an Expert of Mercantile. You can now invest in a shop. Give the merchant money to permanently increase his shop's available gold by 500.",
+            "4": "Negotiation, bargaining, dickering, haggling, they're all a means to an end... getting the best price for your goods. You are now a Master of Mercantile. All shops in the world now have 500 more gold available for barter."
+        }
+    },
+    "0000004F": {
+        "EditorID": "SkillSecurity",
+        "Levels": {
+            "0": "Use lockpicks to open locked doors and containers.",
+            "1": "The subtle rattle of lockpicks and falling lock tumblers is music to your ears. Your increased skills have made you an Apprentice of Security. When you pick locks, only three tumblers will fall when you break a pick.",
+            "2": "The subtle rattle of lockpicks and falling lock tumblers is music to your ears. Your increased skills have made you a Journeyman of Security. When you pick locks, only two tumblers will fall when you break a pick.",
+            "3": "The subtle rattle of lockpicks and falling lock tumblers is music to your ears. Your increased skills have made you an Expert of Security. When you pick locks, only one tumbler will fall when you break a pick.",
+            "4": "The subtle rattle of lockpicks and falling lock tumblers is music to your ears. Your increased skills have made you a Master of Security. When you pick locks, no tumblers will fall when you break a pick."
+        }
+    },
+    "00000050": {
+        "EditorID": "SkillSneak",
+        "Levels": {
+            "0": "Pick pockets and move unseen and unheard by observers.",
+            "1": "Stepping softly, hiding in the shadows, you do everything in your power to remain undetected. You have become an Apprentice of Sneaking. When you are sneaking, you now do extra damage while attacking a character that does not detect you.",
+            "2": "Stepping softly, hiding in the shadows, you do everything in your power to remain undetected. You have become a Journeyman of Sneaking. The weight of your boots no longer affects your ability to remain undetected.",
+            "3": "Stepping softly, hiding in the shadows, you do everything in your power to remain undetected. You have become an Expert at Sneaking. You can now move silently. Running or walking no longer affects your ability to remain undetected.",
+            "4": "Stepping softly, hiding in the shadows, you do everything in your power to remain undetected. You have become a Master at Sneaking. While sneaking, any attack on an opponent that does not detect you ignores their armor."
+        }
+    },
+    "00000051": {
+        "EditorID": "SkillSpeechcraft",
+        "Levels": {
+            "0": "Use speech to persuade listeners to like and trust you.",
+            "1": "Persuasion, wheedling, cajoling, and coercing are all tools of speechcraft. They are tools you seek to excel in. You are now an Apprentice of Speechcraft. When persuading a character, you now get one chance to rotate the response wedges without having to select an action.",
+            "2": "Persuasion, wheedling, cajoling, and coercing are all tools of speechcraft. They are tools you seek to excel in. You are now a Journeyman of Speechcraft. When trying to persuade a character, his or her disposition now decreases much slower.",
+            "3": "Persuasion, wheedling, cajoling, and coercing are all tools of speechcraft. They are tools you seek to excel in. You are now an Expert of Speechcraft. When trying to persuade a character, you suffer less disposition penalty from the most disliked action.",
+            "4": "Persuasion, wheedling, cajoling, and coercing are all tools of speechcraft. They are tools you seek to excel in. You are now a Master of Speechcraft. When trying to persuade a character, bribery costs half of what it would normally."
+        }
+    },
+    "00000832": {
+        "EditorID": "Pilgrim",
+        "Levels": {
+            "0": "Hearty folk, well-versed in the tomes of old.   They profit in life by bartering in the market, or by persuading the weak-minded."
+        }
+    },
+    "00000836": {
+        "EditorID": "Knight",
+        "Levels": {
+            "0": "The most noble of all combatants.  Strong in body and in character."
+        }
+    },
+    "000008C9": {
+        "EditorID": "ABAT",
+        "Levels": {
+            "0": "This is the big description for Absorb Attribute."
+        }
+    },
+    "000008CA": {
+        "EditorID": "ABFA",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000008CC": {
+        "EditorID": "ABHE",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000008CD": {
+        "EditorID": "ABSK",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000008D5": {
+        "EditorID": "ABSP",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000008F2": {
+        "EditorID": "MYTH",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00000907": {
+        "EditorID": "Imperial",
+        "Levels": {
+            "0": "Natives of the civilized, cosmopolitan province of Cyrodiil, they have proved to be shrewd diplomats and traders. They are skilled with heavy armor and in the social skills and tend to favor the warrior classes."
+        }
+    },
+    "00000910": {
+        "EditorID": "Healer",
+        "Levels": {
+            "0": "Fighters of poison and illness.  The ancient art of restoration is their ally, and the deadly art of destruction is their weapon."
+        }
+    },
+    "0000091F": {
+        "EditorID": "BABO",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00000D43": {
+        "EditorID": "Redguard",
+        "Levels": {
+            "0": "The most naturally talented warriors in Tamriel.  In addition to their cultural affinities for many weapon and armor styles, they also have a hardy constitution and a natural resistance to disease and poison."
+        }
+    },
+    "00041176": {
+        "EditorID": "SEFanaticMelee",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00041177": {
+        "EditorID": "SEFanaticMissile",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00041178": {
+        "EditorID": "SEHereticMelee",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00041179": {
+        "EditorID": "SEHereticMissile",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0004117A": {
+        "EditorID": "SEHereticMage",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00041220": {
+        "EditorID": "SE08SoldierClass",
+        "Levels": {
+            "0": "Class for the allies in SE08"
+        }
+    },
+    "00041513": {
+        "EditorID": "SEGoldenSaintClass",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00041514": {
+        "EditorID": "SEDarkSeducerClass",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00041515": {
+        "EditorID": "SEDarkSeducerMageClass",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00041516": {
+        "EditorID": "SEGoldenSaintMageClass",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000184D": {
+        "EditorID": "BACU",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000184E": {
+        "EditorID": "BAGA",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000184F": {
+        "EditorID": "BAGR",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001850": {
+        "EditorID": "BAHE",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001851": {
+        "EditorID": "BASH",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001852": {
+        "EditorID": "BRDN",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001853": {
+        "EditorID": "BWAX",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001854": {
+        "EditorID": "BWBO",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001855": {
+        "EditorID": "BWDA",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001856": {
+        "EditorID": "BWMA",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001857": {
+        "EditorID": "BWSW",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000185C": {
+        "EditorID": "CHML",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000185E": {
+        "EditorID": "COCR",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000185F": {
+        "EditorID": "COHU",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001860": {
+        "EditorID": "CUDI",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001861": {
+        "EditorID": "CUPA",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001862": {
+        "EditorID": "CUPO",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001863": {
+        "EditorID": "DGAT",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001864": {
+        "EditorID": "DGFA",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001865": {
+        "EditorID": "DGHE",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001866": {
+        "EditorID": "DGSP",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001867": {
+        "EditorID": "DIAR",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001868": {
+        "EditorID": "DIWE",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000186B": {
+        "EditorID": "DRAT",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000186C": {
+        "EditorID": "DRFA",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000186D": {
+        "EditorID": "DRHE",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000186E": {
+        "EditorID": "DRSK",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000186F": {
+        "EditorID": "DRSP",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001870": {
+        "EditorID": "DSPL",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001871": {
+        "EditorID": "DTCT",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001872": {
+        "EditorID": "FIDG",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001873": {
+        "EditorID": "FISH",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001875": {
+        "EditorID": "FOAT",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001876": {
+        "EditorID": "FOFA",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001877": {
+        "EditorID": "FOHE",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001878": {
+        "EditorID": "FOMM",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001879": {
+        "EditorID": "FOSK",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000187A": {
+        "EditorID": "FOSP",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000187B": {
+        "EditorID": "FRDG",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000187C": {
+        "EditorID": "FRSH",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000187D": {
+        "EditorID": "FTHR",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001881": {
+        "EditorID": "INVI",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001882": {
+        "EditorID": "LGHT",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001883": {
+        "EditorID": "LISH",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001884": {
+        "EditorID": "LOCK",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001885": {
+        "EditorID": "NEYE",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001886": {
+        "EditorID": "OPEN",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001887": {
+        "EditorID": "PARA",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001889": {
+        "EditorID": "REAT",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000188A": {
+        "EditorID": "REDG",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000188B": {
+        "EditorID": "REFA",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000188C": {
+        "EditorID": "REHE",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000188D": {
+        "EditorID": "RESP",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000188E": {
+        "EditorID": "RFLC",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000188F": {
+        "EditorID": "RSDI",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001890": {
+        "EditorID": "RSFI",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001891": {
+        "EditorID": "RSFR",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001892": {
+        "EditorID": "RSMA",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001893": {
+        "EditorID": "RSNW",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001894": {
+        "EditorID": "RSPA",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001895": {
+        "EditorID": "RSPO",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001896": {
+        "EditorID": "RSSH",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00001899": {
+        "EditorID": "SABS",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000189A": {
+        "EditorID": "SEFF",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000189B": {
+        "EditorID": "SHDG",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000189C": {
+        "EditorID": "SHLD",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000189D": {
+        "EditorID": "SLNC",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000189E": {
+        "EditorID": "STMA",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000189F": {
+        "EditorID": "STRP",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000018A0": {
+        "EditorID": "SUDG",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000018A1": {
+        "EditorID": "TELE",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000018A2": {
+        "EditorID": "TURN",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000018A3": {
+        "EditorID": "VAMP",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000018A4": {
+        "EditorID": "WABR",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000018A5": {
+        "EditorID": "WAWA",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000018A6": {
+        "EditorID": "WKDI",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000018A7": {
+        "EditorID": "WKFI",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000018A8": {
+        "EditorID": "WKFR",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000018A9": {
+        "EditorID": "WKMA",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000018AA": {
+        "EditorID": "WKNW",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000018AB": {
+        "EditorID": "WKPO",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000018AC": {
+        "EditorID": "WKSH",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000018AD": {
+        "EditorID": "ZCLA",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000018AE": {
+        "EditorID": "ZDAE",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000018AF": {
+        "EditorID": "ZDRE",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000018B0": {
+        "EditorID": "ZFIA",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000018B1": {
+        "EditorID": "ZFRA",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000018B2": {
+        "EditorID": "ZGHO",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000018B4": {
+        "EditorID": "ZLIC",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000018BA": {
+        "EditorID": "ZSCA",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000018BC": {
+        "EditorID": "ZSKE",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000018BD": {
+        "EditorID": "ZSTA",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000018BF": {
+        "EditorID": "ZWRA",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000018C0": {
+        "EditorID": "ZZOM",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00081E0B": {
+        "EditorID": "SEKnightOrder",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000620FD": {
+        "EditorID": "InGameBravil01",
+        "Levels": {
+            "0": "Count Regulus Terentius, once a noted tournament champion, is widely recognized by his people as a drunken wastrel and ne'er-do-well."
+        }
+    },
+    "000620FE": {
+        "EditorID": "InGameCheydinhal01",
+        "Levels": {
+            "0": "You'll find the best quality horses at the Black Waterside Stables in Cheydinhal."
+        }
+    },
+    "000620FF": {
+        "EditorID": "InGameImperialCity01",
+        "Levels": {
+            "0": "The Elder Council has a long history, stretching back to the founding of the First Empire by Alessia."
+        }
+    },
+    "00062100": {
+        "EditorID": "InGameKvatch01",
+        "Levels": {
+            "0": "Antus Pinder led a hopeless defense against a superior force. Despite a grave defeat, his statue stands in Kvatch to honor his courage and spirit."
+        }
+    },
+    "00062101": {
+        "EditorID": "InGameLeyawiin01",
+        "Levels": {
+            "0": "Marius Caro is Count Leyawiin, and his recent bride, the lovely and cultivated Alessia Caro, is the daughter of the righteous and reliable Countess Arriana Valga of Chorrol."
+        }
+    },
+    "00062102": {
+        "EditorID": "InGameSkingrad01",
+        "Levels": {
+            "0": "Janus Hassildor, Count Skingrad, has ruled Skingrad for many years, and is known by reputation to be a powerful wizard."
+        }
+    },
+    "00062103": {
+        "EditorID": "InGameBruma01",
+        "Levels": {
+            "0": "Countess Narina Carvain is a dutiful chapelgoer, and a respected ruler, though she is a cunning and ruthless negotiator."
+        }
+    },
+    "00062104": {
+        "EditorID": "InGameDefault18",
+        "Levels": {
+            "0": "To regain your Health, find a bed to sleep in. Beds can be found in rooms for rent in Taverns. You can also find bedrolls in wilderness camps."
+        }
+    },
+    "00062105": {
+        "EditorID": "InGameDefault19",
+        "Levels": {
+            "0": "Purchase a horse to travel faster. You can find them at stables in any city."
+        }
+    },
+    "00062106": {
+        "EditorID": "InGameOblivionGate01",
+        "Levels": {
+            "0": "Save often. The planes of Oblivion are a dangerous realm."
+        }
+    },
+    "00062107": {
+        "EditorID": "InGameOblivionGate02",
+        "Levels": {
+            "0": "There are sixteen daedra princes, each with his own plane of Oblivion."
+        }
+    },
+    "00062108": {
+        "EditorID": "InGameOblivionGate03",
+        "Levels": {
+            "0": "You'll find rare ingredients in the planes of Oblivion that may prove useful when performing Alchemy."
+        }
+    },
+    "00062109": {
+        "EditorID": "InGameImperialCity02",
+        "Levels": {
+            "0": "White Gold Tower, built many ages ago by ancient Ayleids, can be seen from any part of the Imperial City."
+        }
+    },
+    "0006210A": {
+        "EditorID": "FightersGuild01",
+        "Levels": {
+            "0": "The highest aspiration of a Fighters Guild member is to advance to the rank of Champion, and eventually Master."
+        }
+    },
+    "0006210B": {
+        "EditorID": "FightersGuild02",
+        "Levels": {
+            "0": "The Fighters Guild maintains minimum standards of public behavior. You must have a clean criminal record to join."
+        }
+    },
+    "0006210C": {
+        "EditorID": "FightersGuild03",
+        "Levels": {
+            "0": "According to the Fighters Guild charter, no private contracts may offend against the laws and customs of the counties and the Imperium."
+        }
+    },
+    "0006210D": {
+        "EditorID": "MagesGuild01",
+        "Levels": {
+            "0": "The Mages Guild is an organization dedicated to the instruction and responsible use of magic throughout the Empire."
+        }
+    },
+    "0006210E": {
+        "EditorID": "MagesGuild02",
+        "Levels": {
+            "0": "The Mages Guild is committed to rooting out Necromancy and all who practice it."
+        }
+    },
+    "0006210F": {
+        "EditorID": "MagesGuild03",
+        "Levels": {
+            "0": "You can join the Mages Guild by visiting a guild hall in any major city. However, entrance to the Arcane University in the Imperial City is granted only to higher ranked members."
+        }
+    },
+    "000223C7": {
+        "EditorID": "Khajiit",
+        "Levels": {
+            "0": "Hailing from the province of Elsweyr, they are intelligent, quick, and agile.  They make excellent thieves due to their natural agility and unmatched acrobatics skill. All Khajiit can see in the dark."
+        }
+    },
+    "000223C8": {
+        "EditorID": "WoodElf",
+        "Levels": {
+            "0": "The clanfolk of the Western Valenwood forests, also known as [QUOTE]Bosmer.[QUOTE] Wood Elves are nimble and quick, making them good scouts and thieves, and there are no finer archers in all of Tamriel. Their ability to command simple creatures is well-known."
+        }
+    },
+    "000224FC": {
+        "EditorID": "Breton",
+        "Levels": {
+            "0": "In addition to their quick and perceptive grasp of spellcraft, even the humblest of Bretons can boast a resistance to magical energies. They are particularly skilled at summoning and healing magic."
+        }
+    },
+    "000224FD": {
+        "EditorID": "Nord",
+        "Levels": {
+            "0": "Citizens of Skyrim, they are a tall and fair-haired people.  Strong and hardy, Nords are famous for their resistance to cold. They are highly talented warriors."
+        }
+    },
+    "000627D1": {
+        "EditorID": "DBSanctuary02",
+        "Levels": {
+            "0": "Just who is the Night Mother? Some say she's an old woman. Others believe she's a spirit or phantom. And there are those still who doubt the Night Mother even exists at all..."
+        }
+    },
+    "000627D2": {
+        "EditorID": "DBSanctuary03",
+        "Levels": {
+            "0": "The Cheydinhal Sanctuary is but one of many secret Dark Brotherhood safe havens spread across the Imperial Province."
+        }
+    },
+    "000627D3": {
+        "EditorID": "ArenaLoad1",
+        "Levels": {
+            "0": "If you decide to enter the Arena as a combatant, you'd better come prepared. Every match is a fight to the death."
+        }
+    },
+    "000627D4": {
+        "EditorID": "ArenaLoad2",
+        "Levels": {
+            "0": "The Bloodworks beneath the Arena has been appropriately named. Blood often seeps down through the grate of the fighting pit and into this training area."
+        }
+    },
+    "000627D5": {
+        "EditorID": "ArenaLoad3",
+        "Levels": {
+            "0": "The first Arena Blademaster was Gaiden Shinji, a fierce and noble warrior of the Order of Diagna."
+        }
+    },
+    "0002277B": {
+        "EditorID": "InGameDefault05",
+        "Levels": {
+            "0": "Joining the Thieves Guild gives you access to fences who will buy your stolen goods."
+        }
+    },
+    "0002277C": {
+        "EditorID": "InGameDefault11",
+        "Levels": {
+            "0": "Eastern Cyrodiil is known as Nibenay. The peoples and styles of Bravil, Leyawiin, and the Imperial City are defined by Nibenese culture."
+        }
+    },
+    "00022784": {
+        "EditorID": "InGameDefault12",
+        "Levels": {
+            "0": "Though Nibenese in speech and custom, Bruma and Cheydinhal show Nord and Dark Elf influences in their architecture."
+        }
+    },
+    "0002278A": {
+        "EditorID": "InGameDefault04",
+        "Levels": {
+            "0": "Increasing your major skills will increase your level."
+        }
+    },
+    "0002278C": {
+        "EditorID": "InGameDefault06",
+        "Levels": {
+            "0": "To perform Alchemy, you must have at least a Mortar and Pestle. Adding a Calcinator, Alembic or Retort helps improve your potions."
+        }
+    },
+    "00022843": {
+        "EditorID": "PlayerCustomClass",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00062CF9": {
+        "EditorID": "InGameOblivionGate04",
+        "Levels": {
+            "0": "Mehrunes Dagon is the daedric prince of destruction, natural disasters, and the bloody scourge."
+        }
+    },
+    "00062CFB": {
+        "EditorID": "SancreTorLoad02",
+        "Levels": {
+            "0": "During the Sack of Sancre Tor, General Talos is said to have recovered the Amulet of Kings from the tomb of Reman III."
+        }
+    },
+    "00062CFE": {
+        "EditorID": "InGameImperialCity03",
+        "Levels": {
+            "0": "The Ayleids, or Heartland High Elves, ruled Cyrodiil in the long ages of Myth before the beginning of recorded history."
+        }
+    },
+    "00062CFF": {
+        "EditorID": "InGameImperialCity04",
+        "Levels": {
+            "0": "...So long as you and your descendants shall wear the Amulet of Kings, then shall this Dragonfire burn -- an eternal flame -- as a sign to all men and gods of our faithfulness..."
+        }
+    },
+    "00062D00": {
+        "EditorID": "InGameImperialCity05",
+        "Levels": {
+            "0": "...But should the Dragonfires fail, and should no heir of our joined blood wear the Amulet of Kings, then shall the Empire descend into darkness..."
+        }
+    },
+    "00082DD2": {
+        "EditorID": "DarkMage",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00022F4D": {
+        "EditorID": "TGGrayFoxClass",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000230E6": {
+        "EditorID": "CharactergenClass",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023785": {
+        "EditorID": "Priest",
+        "Levels": {
+            "0": "NPC class"
+        }
+    },
+    "00023787": {
+        "EditorID": "Warrior",
+        "Levels": {
+            "0": "Unafraid of light weaponry, they plow into the fray with little regard for injury.  Masters of all melee tools, they put little faith in the magical arts."
+        }
+    },
+    "00023788": {
+        "EditorID": "Barbarian",
+        "Levels": {
+            "0": "Fearsome brutes who inspire fear and dread in the hearts of their enemies.  Like a storm, swift and powerful.  Finding little use for heavy armor, they rely on smashing their foes into the ground."
+        }
+    },
+    "00023789": {
+        "EditorID": "Crusader",
+        "Levels": {
+            "0": "A combatant who wields the power of brute strength and medicinal knowledge.  Cheating death after every fight, they rely on their keen knowledge of restoration to fight yet again."
+        }
+    },
+    "0002378A": {
+        "EditorID": "Scout",
+        "Levels": {
+            "0": "Preferring the rolling countryside to the city life, they are gifted with the ability to evade,  guard, and protect themselves with great proficiency."
+        }
+    },
+    "0002378B": {
+        "EditorID": "Archer",
+        "Levels": {
+            "0": "A marksman, adept at combat at great distances.  Able to take down most foes before they have a chance to draw sword."
+        }
+    },
+    "0002378C": {
+        "EditorID": "Rogue",
+        "Levels": {
+            "0": "They use speed in combat rather than brute force.  Persuasive in conversation, their tongues are as sharp as blades."
+        }
+    },
+    "0002378F": {
+        "EditorID": "Thief",
+        "Levels": {
+            "0": "Profiting from the losses of others is their love.  Able to be swift in shadow, and crafty in bartering.  Locks are enemies, and lock-picks are their swords."
+        }
+    },
+    "00023792": {
+        "EditorID": "Agent",
+        "Levels": {
+            "0": "Charming when they can be seen, and nearly invisible when in shadow."
+        }
+    },
+    "00023793": {
+        "EditorID": "Assassin",
+        "Levels": {
+            "0": "Nimble and quiet, they move in darkness to strike at the unsuspecting.  Locks hold no doors shut for them."
+        }
+    },
+    "000237A8": {
+        "EditorID": "Acrobat",
+        "Levels": {
+            "0": "The kind of person that uses agility and endurance to their advantage.  Unafraid of jumping long distances."
+        }
+    },
+    "000237A9": {
+        "EditorID": "Monk",
+        "Levels": {
+            "0": "Quick and cunning with the empty hand, they are strong in spirit.  They prefer to solve conflict by arrow or by fist."
+        }
+    },
+    "000237AC": {
+        "EditorID": "Sorcerer",
+        "Levels": {
+            "0": "Besting the most well-equipped fighters, they rely on the spells of the mystic arts.  Unique to these mages is the bodily stamina to be armed with the thickest armor."
+        }
+    },
+    "00023997": {
+        "EditorID": "Battlemage",
+        "Levels": {
+            "0": "Able to resolve most conflicts with either spell or sword.  They are a deadly mix of scholar and soldier."
+        }
+    },
+    "00023998": {
+        "EditorID": "Witchhunter",
+        "Levels": {
+            "0": "Swift on foot, and clever with spells, they use distance as their ally.  Slower adversaries are fodder for their arrows."
+        }
+    },
+    "00023C07": {
+        "EditorID": "Spellsword",
+        "Levels": {
+            "0": "More nimble and athletic than the sorcerer, and better suited for spell-casting than the knight, their attacks are unpredictable.  Students of combat and magic."
+        }
+    },
+    "00023C08": {
+        "EditorID": "Nightblade",
+        "Levels": {
+            "0": "Spell and shadow are their friends.  By darkness they move with haste, casting magic to benefit their circumstances."
+        }
+    },
+    "00023C09": {
+        "EditorID": "MerchAlchemist",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023C0A": {
+        "EditorID": "MerchBookseller",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023C0B": {
+        "EditorID": "FGChampion",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023C0D": {
+        "EditorID": "Commoner",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023C0E": {
+        "EditorID": "DBEnforcer",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023CC8": {
+        "EditorID": "Farmer",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023CCD": {
+        "EditorID": "Herder",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023D9C": {
+        "EditorID": "Hunter",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023E5A": {
+        "EditorID": "FGDrillmaster",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023E5F": {
+        "EditorID": "MerchEnchanter",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023E61": {
+        "EditorID": "Merchant",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023E63": {
+        "EditorID": "Noble",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023E66": {
+        "EditorID": "Ostler",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023E67": {
+        "EditorID": "Pauper",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023E69": {
+        "EditorID": "MerchPawnbroker",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023E6A": {
+        "EditorID": "MerchPublican",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023E6B": {
+        "EditorID": "Savant",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023E6C": {
+        "EditorID": "Sharpshooter",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023E6D": {
+        "EditorID": "Warlock",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023E6E": {
+        "EditorID": "Witch",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023E71": {
+        "EditorID": "TrainerScout",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023E74": {
+        "EditorID": "TrainerTrader",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023E75": {
+        "EditorID": "TrainerSmith",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023E76": {
+        "EditorID": "TrainerMage",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023EA1": {
+        "EditorID": "TrainerWarrior",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023F03": {
+        "EditorID": "TrainerNightblade",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023F04": {
+        "EditorID": "TrainerThief",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023F05": {
+        "EditorID": "TrainerAgent",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00023FE9": {
+        "EditorID": "Argonian",
+        "Levels": {
+            "0": "This reptilian race, well-suited for the treacherous swamps of their homeland, has developed natural immunities to diseases and poisons. They can breathe water and are good at picking locks.[CRLF]"
+        }
+    },
+    "00024162": {
+        "EditorID": "MerchClothier",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00024163": {
+        "EditorID": "MerchTrader",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00064443": {
+        "EditorID": "Charactergen01",
+        "Levels": {
+            "0": "No one has escaped from the Imperial Prison in over 40 years, since the days of Jagar Tharn and The Imperial Simulacrum."
+        }
+    },
+    "00044C4A": {
+        "EditorID": "SEOrderPriestClass",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000651D1": {
+        "EditorID": "Dark04Guard",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000651D8": {
+        "EditorID": "Charactergen03",
+        "Levels": {
+            "0": "Uriel Septim is a direct descendent of Tiber Septim, who conquered all of Cyrodiil and proclaimed himself Emperor in 2E846."
+        }
+    },
+    "000651D9": {
+        "EditorID": "Charactergen02",
+        "Levels": {
+            "0": "...So long as you and your descendants shall wear the Amulet of Kings, then shall this Dragonfire burn -- an eternal flame -- as a sign to all men and gods of our faithfulness..."
+        }
+    },
+    "00045760": {
+        "EditorID": "SEDarkSeducerClassGuard",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00045761": {
+        "EditorID": "SEGoldenSaintClassGuard",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00066211": {
+        "EditorID": "KvatchSoldier",
+        "Levels": {
+            "0": "Kvatch guards"
+        }
+    },
+    "000869A7": {
+        "EditorID": "MYHL",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000C7592": {
+        "EditorID": "InGameSpellsRestoration01",
+        "Levels": {
+            "0": "Restoration magic has spells that absorb attributes or skills, temporarily transferring them to you."
+        }
+    },
+    "000C7593": {
+        "EditorID": "InGameSpellsRestoration02",
+        "Levels": {
+            "0": "Restoration magic has spells that absorb Fatigue, Health or Magicka, temporarily transferring them to you."
+        }
+    },
+    "000C7594": {
+        "EditorID": "InGameSpellsConjuration01",
+        "Levels": {
+            "0": "Conjuration magic has spells that will summon powerful magic armor or weapons."
+        }
+    },
+    "000C7595": {
+        "EditorID": "InGameSpellsAlteration01",
+        "Levels": {
+            "0": "Alteration magic has spells that decrease the weight of the items you carry, or increase the weight of the items your enemies carry."
+        }
+    },
+    "000C7596": {
+        "EditorID": "InGameSpellsIllusion01",
+        "Levels": {
+            "0": "Illusion magic has spells that can calm your enemies or give them a killing frenzy."
+        }
+    },
+    "000C7597": {
+        "EditorID": "InGameSpellsIllusion02",
+        "Levels": {
+            "0": "Illusion magic has a Chameleon spell that makes you partially invisible, but still able to attack and pick up objects."
+        }
+    },
+    "000C7598": {
+        "EditorID": "InGameSpellsIllusion03",
+        "Levels": {
+            "0": "Illusion magic has a Command spell that makes others fight to defend you."
+        }
+    },
+    "000C7599": {
+        "EditorID": "InGameSpellsIllusion04",
+        "Levels": {
+            "0": "Illusion magic has a Charm spell that makes others like you more."
+        }
+    },
+    "000C759A": {
+        "EditorID": "InGameSpellsRestoration03",
+        "Levels": {
+            "0": "Restoration magic has spells that cure disease and poison. You can even cure paralysis on your allies."
+        }
+    },
+    "000C759B": {
+        "EditorID": "InGameSpellsIllusion05",
+        "Levels": {
+            "0": "Illusion magic has spells that will demoralize your enemies, making them flee, or rally your allies and stop them from fleeing."
+        }
+    },
+    "000C759C": {
+        "EditorID": "InGameSpellsDestruction01",
+        "Levels": {
+            "0": "Destruction magic has spells that directly damage Fatigue, Health, or Magicka."
+        }
+    },
+    "000C759D": {
+        "EditorID": "InGameSpellsDestruction02",
+        "Levels": {
+            "0": "Destruction magic has spells that disintegrate weapons and armor, making them break sooner."
+        }
+    },
+    "000C759E": {
+        "EditorID": "InGameSpellsDestruction03",
+        "Levels": {
+            "0": "Destruction magic has spells that temporarily drain the attributes or skills of your enemies."
+        }
+    },
+    "000C759F": {
+        "EditorID": "InGameSpellsDestruction04",
+        "Levels": {
+            "0": "Destruction magic has spells that temporarily drain Fatigue, Health or Magicka."
+        }
+    },
+    "000C75A0": {
+        "EditorID": "InGameSpellsMysticism01",
+        "Levels": {
+            "0": "Mysticism magic has spells that will remove magic effects from you or others."
+        }
+    },
+    "000C75A1": {
+        "EditorID": "InGameSpellsMysticism02",
+        "Levels": {
+            "0": "Mysticism magic has spells that detect living and undead creatures through walls and other objects."
+        }
+    },
+    "000C75A2": {
+        "EditorID": "InGameSpellsDestruction05",
+        "Levels": {
+            "0": "Destruction magic has spells that harness fire, frost or lightning to kill your enemies."
+        }
+    },
+    "000C75A3": {
+        "EditorID": "InGameSpellsAlteration02",
+        "Levels": {
+            "0": "Alteration magic has spells that shield you from fire, frost or lightning."
+        }
+    },
+    "000C75A4": {
+        "EditorID": "InGameSpellsRestoration04",
+        "Levels": {
+            "0": "Restoration magic has spells that temporarily increase your attributes or skills."
+        }
+    },
+    "000C75A5": {
+        "EditorID": "InGameSpellsRestoration05",
+        "Levels": {
+            "0": "Restoration magic has spells that temporarily increase your Fatigue, Health or Magicka."
+        }
+    },
+    "000C75A6": {
+        "EditorID": "InGameSpellsIllusion06",
+        "Levels": {
+            "0": "Illusion magic has an Invisibility spell that makes you completely invisible. However, it ends when you attack an enemy or use an object."
+        }
+    },
+    "000C75A7": {
+        "EditorID": "InGameSpellsIllusion07",
+        "Levels": {
+            "0": "Illusion magic has spells that can illuminate dark dungeons, or let you see in the dark."
+        }
+    },
+    "000C75A8": {
+        "EditorID": "InGameSpellsAlteration03",
+        "Levels": {
+            "0": "Alteration magic has spells that unlock doors and treasure chests."
+        }
+    },
+    "000C75A9": {
+        "EditorID": "InGameSpellsIllusion08",
+        "Levels": {
+            "0": "Illusion magic has a Paralyze spell that immobilizes your enemy for a short time."
+        }
+    },
+    "000C75AA": {
+        "EditorID": "InGameSpellsRestoration06",
+        "Levels": {
+            "0": "Restoration magic has spells that restore damaged attributes, Fatigue, Health or Magicka."
+        }
+    },
+    "000C75AB": {
+        "EditorID": "InGameSpellsMysticism03",
+        "Levels": {
+            "0": "Mysticism magic has spells that reflect normal attack damage or spells back onto the attacker."
+        }
+    },
+    "000C75AC": {
+        "EditorID": "InGameSpellsMysticism04",
+        "Levels": {
+            "0": "Mysticism magic has spells that absorb the power of your enemy's spells, adding their Magicka to yours."
+        }
+    },
+    "000C75AD": {
+        "EditorID": "InGameSpellsRestoration07",
+        "Levels": {
+            "0": "Restoration magic has spells that increase your resistance to disease, fire, frost, lightning, magic, normal weapons, paralysis or poison."
+        }
+    },
+    "000C75AE": {
+        "EditorID": "InGameSpellsAlteration04",
+        "Levels": {
+            "0": "Alteration magic has a Shield spell that temporarily reduces the damage your enemies do to you in combat."
+        }
+    },
+    "000C75AF": {
+        "EditorID": "InGameSpellsIllusion09",
+        "Levels": {
+            "0": "Illusion magic has a Silence spell that prevents your enemy from casting spells."
+        }
+    },
+    "000C75B0": {
+        "EditorID": "InGameSpellsMysticism05",
+        "Levels": {
+            "0": "Mysticism magic has a Soul Trap spell that will trap the spirit energy of a dying enemy in a soul gem. That soul gem can then be used to create or recharge a magic item."
+        }
+    },
+    "000C75B1": {
+        "EditorID": "InGameSpellsConjuration02",
+        "Levels": {
+            "0": "Conjuration magic has spells that will summon powerful daedric creatures to fight for you."
+        }
+    },
+    "000C75B2": {
+        "EditorID": "InGameSpellsConjuration03",
+        "Levels": {
+            "0": "Conjuration magic has spells that will summon powerful undead creatures to fight for you."
+        }
+    },
+    "000C75B3": {
+        "EditorID": "InGameSpellsMysticism06",
+        "Levels": {
+            "0": "Mysticism magic has a Telekinesis spell that lets you move objects and throw them over great distances."
+        }
+    },
+    "000C75B4": {
+        "EditorID": "InGameSpellsConjuration04",
+        "Levels": {
+            "0": "Conjuration magic has a Turn Undead spell that causes undead enemies to flee."
+        }
+    },
+    "000C75B5": {
+        "EditorID": "InGameSpellsAlteration05",
+        "Levels": {
+            "0": "Alteration magic has spells that let you breathe underwater or walk on the water's surface."
+        }
+    },
+    "000C75B6": {
+        "EditorID": "InGameSpellsDestruction06",
+        "Levels": {
+            "0": "Destruction magic has spells that weaken your enemy's resistance to disease, fire, frost, lightning, magic, normal weapons or poison."
+        }
+    },
+    "00187B3A": {
+        "EditorID": "DBSanctuary01",
+        "Levels": {
+            "0": "It is said that the Count of Cheydinhal knows of the existence of the Dark Brotherhood Sanctuary, but bribes and threats of death have done wonders to keep his mouth shut."
+        }
+    },
+    "000C792A": {
+        "EditorID": "ICPalaceGuard",
+        "Levels": {
+            "0": "The most noble of all combatants.  Strong in body and in character."
+        }
+    },
+    "00007E37": {
+        "EditorID": "GuardBattlemage",
+        "Levels": {
+            "0": "Standard town guard class."
+        }
+    },
+    "000C853F": {
+        "EditorID": "InGameDefault20",
+        "Levels": {
+            "0": "Sampling raw ingredients can improve your Alchemy skill."
+        }
+    },
+    "000C8973": {
+        "EditorID": "InGameMagic05",
+        "Levels": {
+            "0": "Varla Stones found in Ayleid Ruins will recharge your magic items."
+        }
+    },
+    "000C8BC8": {
+        "EditorID": "InGameStealth09",
+        "Levels": {
+            "0": "Attempting to pick up objects makes you easier to detect. The heavier the object, the more likely a nearby person will suddenly spot you."
+        }
+    },
+    "00088FFC": {
+        "EditorID": "MS02BenirusManor",
+        "Levels": {
+            "0": "Lorgren Benirus, who mysteriously disappeared over a hundred years ago, was the original owner of Benirus Manor."
+        }
+    },
+    "000294CD": {
+        "EditorID": "Blademaster",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000C9E76": {
+        "EditorID": "VampireDungeonLoad01",
+        "Levels": {
+            "0": "Porphyric Hemophilia is known as the [QUOTE]vampire's disease.[QUOTE] Seek a cure immediately, or you may become a vampire yourself."
+        }
+    },
+    "000CA070": {
+        "EditorID": "Chapels01",
+        "Levels": {
+            "0": "Pray in chapels at the Altars of the Nine to rid the body of its afflictions."
+        }
+    },
+    "000CA071": {
+        "EditorID": "Chapels02",
+        "Levels": {
+            "0": "The righteous seek blessings from the Nine at altars in the chapels."
+        }
+    },
+    "000CA072": {
+        "EditorID": "Chapels03",
+        "Levels": {
+            "0": "The Nine love not the wicked, and scorn their prayers at chapel altars."
+        }
+    },
+    "000CA087": {
+        "EditorID": "InGameBravil03",
+        "Levels": {
+            "0": "Bravil's night air is damp and noisome because of the river channels that serve as Bravil's sewers, and because of the nearby swamps where insects and diseases breed in abundance."
+        }
+    },
+    "000CA088": {
+        "EditorID": "InGameBruma02",
+        "Levels": {
+            "0": "Bruma's chilly winds and alpine climate favors dwellings built partly below ground level to conserve heat."
+        }
+    },
+    "000CA089": {
+        "EditorID": "InGameBruma03",
+        "Levels": {
+            "0": "Bruma builds in wood harvested from the native forests of the High Jeralls, and her houses and halls often bear decorative carved timbers in the Nordic style."
+        }
+    },
+    "000CA0F7": {
+        "EditorID": "InGameMagic06",
+        "Levels": {
+            "0": "You can view magic, abilities, and diseases that are affecting you from the Active Effects page in your journal."
+        }
+    },
+    "0002A2AF": {
+        "EditorID": "ArenaCombatantHeavy",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0002A2B0": {
+        "EditorID": "ArenaCombatantLight",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0002A2B5": {
+        "EditorID": "ArenaCombatantMagic",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0018AD23": {
+        "EditorID": "InGameDefault13",
+        "Levels": {
+            "0": "Enchanting and Spellmaking can only be performed by Mages Guild members at the Arcane University."
+        }
+    },
+    "0018AD24": {
+        "EditorID": "InGameDefault14",
+        "Levels": {
+            "0": "Fill your soul gems by soul trapping creatures. You can also soul trap a creature you've summoned."
+        }
+    },
+    "0018AD25": {
+        "EditorID": "InGameDefault15",
+        "Levels": {
+            "0": "Ingredients taken from plants will grow back in later months."
+        }
+    },
+    "0018AD26": {
+        "EditorID": "InGameDefault16",
+        "Levels": {
+            "0": "Buy a house so you always have a place to sleep. There are houses for sale in each city."
+        }
+    },
+    "0018AD27": {
+        "EditorID": "InGameAnvil01",
+        "Levels": {
+            "0": "Countess Millona Umbranox of Anvil is well-loved by her people. She lost her husband many years ago."
+        }
+    },
+    "0018AD28": {
+        "EditorID": "InGameAnvil02",
+        "Levels": {
+            "0": "A number of shabby abandoned houses mar the essential beauty of the town of Anvil."
+        }
+    },
+    "0018AD29": {
+        "EditorID": "InGameAnvil03",
+        "Levels": {
+            "0": "The reputable head of the Anvil Mages Guild, Carahil, is an outspoken enemy of necromancy, summoning, and the dark arts."
+        }
+    },
+    "0018AE82": {
+        "EditorID": "InGameDefault17",
+        "Levels": {
+            "0": "The Conjuration skill will allow you to summon powerful weapons, armor, and creatures to aid you in battle."
+        }
+    },
+    "0006AABA": {
+        "EditorID": "InGameCombat01",
+        "Levels": {
+            "0": "The condition of your weapons affects how much damage they can do."
+        }
+    },
+    "0006AABB": {
+        "EditorID": "InGameCombat02",
+        "Levels": {
+            "0": "The condition of your armor affects how much protection it offers."
+        }
+    },
+    "0006AABC": {
+        "EditorID": "InGameCombat03",
+        "Levels": {
+            "0": "If you do enough damage to an opponent, you will stagger them."
+        }
+    },
+    "0006AABD": {
+        "EditorID": "InGameCombat04",
+        "Levels": {
+            "0": "Use repair hammers to repair your armor and weapons."
+        }
+    },
+    "0006AABE": {
+        "EditorID": "InGameCombat05",
+        "Levels": {
+            "0": "Heavier weapons will fatigue you more when you swing them."
+        }
+    },
+    "0006AABF": {
+        "EditorID": "InGameCombat06",
+        "Levels": {
+            "0": "You do less damage with your weapons when your Fatigue is low."
+        }
+    },
+    "0006AAC0": {
+        "EditorID": "InGameCombat07",
+        "Levels": {
+            "0": "Blocking works with either a shield or a weapon, but a shield is more effective."
+        }
+    },
+    "0006AAC1": {
+        "EditorID": "InGameCombat08",
+        "Levels": {
+            "0": "Arrows can be recovered from fallen creatures and characters."
+        }
+    },
+    "0006AAC2": {
+        "EditorID": "InGameCombat09",
+        "Levels": {
+            "0": "Blocking attacks will cause your opponent to recoil briefly."
+        }
+    },
+    "0006AAC3": {
+        "EditorID": "InGameCombat10",
+        "Levels": {
+            "0": "Heavier weapons and armor will slow you down when you wear them."
+        }
+    },
+    "0006AAC4": {
+        "EditorID": "InGameCombat11",
+        "Levels": {
+            "0": "You can run faster with your weapon sheathed."
+        }
+    },
+    "0006AAC5": {
+        "EditorID": "InGameCombat12",
+        "Levels": {
+            "0": "Fatigue affects every action you do. Actions like jumping and fighting will decrease your Fatigue."
+        }
+    },
+    "0006AAC6": {
+        "EditorID": "InGameCombat13",
+        "Levels": {
+            "0": "Power attacks do large amounts of damage and are done by holding down the Attack button."
+        }
+    },
+    "0006AAC7": {
+        "EditorID": "InGameCombat14",
+        "Levels": {
+            "0": "Fatigue affects every action you do. Actions like jumping and fighting will decrease your Fatigue."
+        }
+    },
+    "0006AAC8": {
+        "EditorID": "InGameCombat15",
+        "Levels": {
+            "0": "Resting restores your Health, Magicka, and Fatigue."
+        }
+    },
+    "0006AAC9": {
+        "EditorID": "InGameStealth05",
+        "Levels": {
+            "0": "Watch what you pick up. People don't like it when you steal their goods."
+        }
+    },
+    "0006AACA": {
+        "EditorID": "InGameCombat17",
+        "Levels": {
+            "0": "Health and Magicka come back when you sleep. You can only sleep in a bed when enemies are not around."
+        }
+    },
+    "0006AACB": {
+        "EditorID": "InGameCombat18",
+        "Levels": {
+            "0": "You can use books, ingredients, torches, potions, and repair hammers by equipping them."
+        }
+    },
+    "0006AACC": {
+        "EditorID": "InGameCombat19",
+        "Levels": {
+            "0": "Increasing your major skills will increase your level."
+        }
+    },
+    "0006AACD": {
+        "EditorID": "InGameCombat16",
+        "Levels": {
+            "0": "You must find a bed and rest to raise your level."
+        }
+    },
+    "0006AACE": {
+        "EditorID": "InGameMagic01",
+        "Levels": {
+            "0": "Ingredients taken from plants will grow back after a few days."
+        }
+    },
+    "0006AACF": {
+        "EditorID": "InGameMagic02",
+        "Levels": {
+            "0": "You can soultrap creatures that you summon yourself."
+        }
+    },
+    "0006AAD0": {
+        "EditorID": "InGameMagic03",
+        "Levels": {
+            "0": "Wearing armor you are not skilled in will reduce your magic effectiveness."
+        }
+    },
+    "0006AAD1": {
+        "EditorID": "InGameMagic04",
+        "Levels": {
+            "0": "Welkynd Stones found in Ayleid Ruins will regenerate your Magicka."
+        }
+    },
+    "0006AAD2": {
+        "EditorID": "InGameStealth01",
+        "Levels": {
+            "0": "If you sneak up and attack someone who does not detect you, you will do Critical Damage."
+        }
+    },
+    "0006AAD3": {
+        "EditorID": "InGameStealth02",
+        "Levels": {
+            "0": "There's a small chance that being locked in jail will increase your Security or Sneak skill."
+        }
+    },
+    "0006AAD4": {
+        "EditorID": "InGameStealth03",
+        "Levels": {
+            "0": "The weight of your boots affects how well you can sneak."
+        }
+    },
+    "0006AAD5": {
+        "EditorID": "InGameStealth04",
+        "Levels": {
+            "0": "The amount of light shining on you affects how easy you are to detect. Casting spells can make you easier to see."
+        }
+    },
+    "0006AAD6": {
+        "EditorID": "InGameRace01",
+        "Levels": {
+            "0": "Each race has its own set of special abilities and powers."
+        }
+    },
+    "0006AAD7": {
+        "EditorID": "InGameRace02",
+        "Levels": {
+            "0": "Redguards have the power of Adrenaline Rush, which allows them to run faster and take damage at increased levels."
+        }
+    },
+    "0006AAD8": {
+        "EditorID": "InGameRace03",
+        "Levels": {
+            "0": "Bretons have more Magicka, and higher resistance to it, than other races."
+        }
+    },
+    "0006AAD9": {
+        "EditorID": "InGameRace04",
+        "Levels": {
+            "0": "Nords are highly resistant to frost attacks, and they have a mighty Shield power which protects them like armor."
+        }
+    },
+    "0006AADA": {
+        "EditorID": "InGameRace05",
+        "Levels": {
+            "0": "High Elves have the most Magicka, but are also damaged more by all types of magic."
+        }
+    },
+    "0006AADB": {
+        "EditorID": "InGameRace06",
+        "Levels": {
+            "0": "Dark Elves are resistant to fire and also have the power of Ancestor Guardian, which summons a spirit to fight for them."
+        }
+    },
+    "0006AADC": {
+        "EditorID": "InGameRace07",
+        "Levels": {
+            "0": "Wood Elves can command other creatures to fight for them with their Beast Tongue power."
+        }
+    },
+    "0006AADD": {
+        "EditorID": "InGameRace08",
+        "Levels": {
+            "0": "Imperials have the Voice of the Emperor power and can charm others into liking them."
+        }
+    },
+    "0006AADE": {
+        "EditorID": "InGameRace09",
+        "Levels": {
+            "0": "Argonians can breathe underwater, are immune to poison, and resistant to disease."
+        }
+    },
+    "0006AADF": {
+        "EditorID": "InGameRace10",
+        "Levels": {
+            "0": "Khajiit have the Eye of Fear power, which makes others run in terror from them."
+        }
+    },
+    "0006AAE0": {
+        "EditorID": "InGameRace11",
+        "Levels": {
+            "0": "Orcs have a special Berserk power that temporarily increases their strength, fatigue and health, while draining their agility."
+        }
+    },
+    "0006AAE1": {
+        "EditorID": "InGameSkills01",
+        "Levels": {
+            "0": "Strength will allow you to carry more items and do more damage."
+        }
+    },
+    "0006AAE2": {
+        "EditorID": "InGameSkills02",
+        "Levels": {
+            "0": "Intelligence determines your total amount of Magicka."
+        }
+    },
+    "0006AAE3": {
+        "EditorID": "InGameSkills03",
+        "Levels": {
+            "0": "A high Willpower allows you to defend against magical attacks."
+        }
+    },
+    "0006AAE4": {
+        "EditorID": "InGameSkills04",
+        "Levels": {
+            "0": "Willpower makes your Magicka regenerate faster."
+        }
+    },
+    "0006AAE5": {
+        "EditorID": "InGameSkills05",
+        "Levels": {
+            "0": "Your Agility affects how often you are staggered or knocked back."
+        }
+    },
+    "0006AAE6": {
+        "EditorID": "InGameSkills07",
+        "Levels": {
+            "0": "A high Agility can keep you from getting knocked down."
+        }
+    },
+    "0006AAE7": {
+        "EditorID": "InGameSkills08",
+        "Levels": {
+            "0": "People will like you more if you have a high Personality."
+        }
+    },
+    "0006AAE8": {
+        "EditorID": "InGameSkills09",
+        "Levels": {
+            "0": "Endurance affects your overall Fatigue and how much Health you have."
+        }
+    },
+    "0006AAE9": {
+        "EditorID": "InGameSkills10",
+        "Levels": {
+            "0": "When you raise level, your Health goes up by one-tenth of your Endurance."
+        }
+    },
+    "0006AAEA": {
+        "EditorID": "InGameSkills11",
+        "Levels": {
+            "0": "Swimming is better than running to make your Athletics increase."
+        }
+    },
+    "0006AAEB": {
+        "EditorID": "InGameSkills12",
+        "Levels": {
+            "0": "The Conjuration skill will allow you to summon powerful weapons, armor, and creatures to aid you in battle."
+        }
+    },
+    "0006AAEC": {
+        "EditorID": "InGameSkills13",
+        "Levels": {
+            "0": "Bribing someone is often the best way to get information, especially if your skill in Speechcraft is low."
+        }
+    },
+    "0006AAED": {
+        "EditorID": "InGamePerks01",
+        "Levels": {
+            "0": "The Magic Schools allow you to learn better spells as you become Apprentice, Journeyman, Expert, and Master in them."
+        }
+    },
+    "0006AAEE": {
+        "EditorID": "InGamePerks02",
+        "Levels": {
+            "0": "Your Alchemy skill level determines the effects you can gain from ingredients."
+        }
+    },
+    "0006AAEF": {
+        "EditorID": "InGamePerksBlock01",
+        "Levels": {
+            "0": "An Apprentice of Block will not be fatigued by blocking."
+        }
+    },
+    "0006AAF0": {
+        "EditorID": "InGamePerksBlock02",
+        "Levels": {
+            "0": "A Journeyman of Block does not have his shield damaged by blocking."
+        }
+    },
+    "0006AAF1": {
+        "EditorID": "InGamePerksBlock03",
+        "Levels": {
+            "0": "An Expert of Block has a chance of knocking back a recoiling opponent."
+        }
+    },
+    "0006AAF2": {
+        "EditorID": "InGamePerksBlock04",
+        "Levels": {
+            "0": "A Master of Block has a chance of disarming a recoiling opponent."
+        }
+    },
+    "0006AAF4": {
+        "EditorID": "InGamePerksArmorer02",
+        "Levels": {
+            "0": "An Apprentice of Armorer can use repair hammers twice as long."
+        }
+    },
+    "0006AAF5": {
+        "EditorID": "InGamePerksArmorer03",
+        "Levels": {
+            "0": "A Journeyman of Armorer can repair magical weapons and armor."
+        }
+    },
+    "0006AAF6": {
+        "EditorID": "InGamePerksArmorer04",
+        "Levels": {
+            "0": "A Master of Armorer can repair items without using up his hammers."
+        }
+    },
+    "0006AAF7": {
+        "EditorID": "InGamePerksArmorer05",
+        "Levels": {
+            "0": "An Expert in Armorer can repair items beyond 100%, improving their usefulness."
+        }
+    },
+    "0006AAF9": {
+        "EditorID": "InGamePerksHeavy02",
+        "Levels": {
+            "0": "An Apprentice of Heavy Armor will have it degrade at a normal rate."
+        }
+    },
+    "0006AAFA": {
+        "EditorID": "InGamePerksHeavy03",
+        "Levels": {
+            "0": "A Journeyman of Heavy Armor will have it degrade 50% slower."
+        }
+    },
+    "0006AAFB": {
+        "EditorID": "InGamePerksHeavy04",
+        "Levels": {
+            "0": "An Expert of Heavy Armor will only be encumbered 50% by it."
+        }
+    },
+    "0006AAFC": {
+        "EditorID": "InGamePerksHeavy05",
+        "Levels": {
+            "0": "A Master of Heavy Armor will not be encumbered while wearing it."
+        }
+    },
+    "0006AAFD": {
+        "EditorID": "InGamePerksAthletics01",
+        "Levels": {
+            "0": "Those skilled in Athletics recover fatigue faster while running."
+        }
+    },
+    "0006AAFE": {
+        "EditorID": "InGamePerksAthletics02",
+        "Levels": {
+            "0": "When in combat, don't always run. It will slow your Fatigue regeneration."
+        }
+    },
+    "0006AAFF": {
+        "EditorID": "InGamePerksAthletics03",
+        "Levels": {
+            "0": "Your Fatigue regenerates quickly while walking, and slowly while running."
+        }
+    },
+    "0006AB00": {
+        "EditorID": "InGamePerksCombat01",
+        "Levels": {
+            "0": "Increasing your skill level in Blade, Blunt, or Hand to Hand will allow you to perform new power attacks."
+        }
+    },
+    "0006AB01": {
+        "EditorID": "InGamePerksCombat02",
+        "Levels": {
+            "0": "A Master of Blade can perform a forward power attack with a chance of paralyzing."
+        }
+    },
+    "0006AB02": {
+        "EditorID": "InGamePerksCombat03",
+        "Levels": {
+            "0": "A Master of Blunt can perform a forward power attack with a chance of paralyzing."
+        }
+    },
+    "0006AB03": {
+        "EditorID": "InGamePerksCombat04",
+        "Levels": {
+            "0": "A Master of Hand to Hand can perform a forward power attack with a chance of paralyzing."
+        }
+    },
+    "0006AB04": {
+        "EditorID": "InGamePerksCombat05",
+        "Levels": {
+            "0": "An Expert of Blunt can perform a backwards power attack with a chance of knocking opponents down."
+        }
+    },
+    "0006AB05": {
+        "EditorID": "InGamePerksCombat06",
+        "Levels": {
+            "0": "An Expert of Blade can perform a backwards power attack with a chance of knocking opponents down."
+        }
+    },
+    "0006AB06": {
+        "EditorID": "InGamePerksCombat07",
+        "Levels": {
+            "0": "An Expert of Hand to Hand can perform a backwards power attack with a chance of knocking opponents down."
+        }
+    },
+    "0006AB07": {
+        "EditorID": "InGamePerksCombat08",
+        "Levels": {
+            "0": "A Journeyman of Blunt can perform a sideways power attack with a chance of disarming the opponent."
+        }
+    },
+    "0006AB08": {
+        "EditorID": "InGamePerksCombat09",
+        "Levels": {
+            "0": "A Journeyman of Blade can perform a sideways power attack with a chance of disarming the opponent."
+        }
+    },
+    "0006AB09": {
+        "EditorID": "InGamePerksCombat10",
+        "Levels": {
+            "0": "A Journeyman of Hand to Hand can perform a sideways power attack with a chance of disarming the opponent."
+        }
+    },
+    "0006AB0A": {
+        "EditorID": "InGamePerksCombat11",
+        "Levels": {
+            "0": "Blocking reduces the damage you take based on your Block skill."
+        }
+    },
+    "0006AB0B": {
+        "EditorID": "InGamePerksSneak01",
+        "Levels": {
+            "0": "A Novice of Sneak does not get the critical damage bonus when attacking while sneaking."
+        }
+    },
+    "0006AB0C": {
+        "EditorID": "InGamePerksSneak02",
+        "Levels": {
+            "0": "An Apprentice of Sneak gets a critical damage bonus when attacking while sneaking."
+        }
+    },
+    "0006AB0D": {
+        "EditorID": "InGamePerksSneak03",
+        "Levels": {
+            "0": "A Journeyman of Sneak can sneak in any boots without penalty."
+        }
+    },
+    "0006AB0E": {
+        "EditorID": "InGamePerksSneak04",
+        "Levels": {
+            "0": "An Expert of Sneak can run or walk silently. Moving does not affect being detected."
+        }
+    },
+    "0006AB0F": {
+        "EditorID": "InGamePerksAcrobatics01",
+        "Levels": {
+            "0": "A Novice of Acrobatics cannot attack while jumping or falling."
+        }
+    },
+    "0006AB10": {
+        "EditorID": "InGamePerksAcrobatics02",
+        "Levels": {
+            "0": "An Apprentice of Acrobatics can attack while jumping or falling."
+        }
+    },
+    "0006AB11": {
+        "EditorID": "InGamePerksAcrobatics03",
+        "Levels": {
+            "0": "A Journeyman of Acrobatics can dodge by jumping while holding Block."
+        }
+    },
+    "0006AB12": {
+        "EditorID": "InGamePerksAcrobatics04",
+        "Levels": {
+            "0": "A Master of Acrobatics can jump off the surface of water."
+        }
+    },
+    "0006AB13": {
+        "EditorID": "InGamePerksMarksman01",
+        "Levels": {
+            "0": "A Novice of Marksman gets fatigued while shooting."
+        }
+    },
+    "0006AB14": {
+        "EditorID": "InGamePerksMarksman02",
+        "Levels": {
+            "0": "An Apprentice of Marksman does not get fatigued while shooting."
+        }
+    },
+    "0006AB15": {
+        "EditorID": "InGamePerksMarksman03",
+        "Levels": {
+            "0": "A Journeyman of Marksman can zoom in on the target by holding Block while shooting."
+        }
+    },
+    "0006AB16": {
+        "EditorID": "InGamePerksMarksman04",
+        "Levels": {
+            "0": "An Expert of Marksman has a chance of knocking his target down."
+        }
+    },
+    "0006AB17": {
+        "EditorID": "InGamePerksMarksman05",
+        "Levels": {
+            "0": "A Master of Marksman has a chance of paralyzing his target."
+        }
+    },
+    "0006AB18": {
+        "EditorID": "InGamePerksMercantile01",
+        "Levels": {
+            "0": "For an Apprentice of Mercantile, an item's condition does not affect its price."
+        }
+    },
+    "0006AB19": {
+        "EditorID": "InGamePerksMercantile02",
+        "Levels": {
+            "0": "A Journeyman of Mercantile can buy and sell any item with someone who barters."
+        }
+    },
+    "0006AB1A": {
+        "EditorID": "InGamePerksMercantile03",
+        "Levels": {
+            "0": "An Expert of Mercantile can invest his gold in a store."
+        }
+    },
+    "0006AB1B": {
+        "EditorID": "InGamePerksMercantile04",
+        "Levels": {
+            "0": "Stores always have more gold available to barter with a Master of Mercantile."
+        }
+    },
+    "0006AB1C": {
+        "EditorID": "InGamePerksLight01",
+        "Levels": {
+            "0": "A Novice of Light Armor has it degrade faster."
+        }
+    },
+    "0006AB1D": {
+        "EditorID": "InGamePerksLight02",
+        "Levels": {
+            "0": "An Apprentice of Light Armor has it degrade normally."
+        }
+    },
+    "0006AB1E": {
+        "EditorID": "InGamePerksLight03",
+        "Levels": {
+            "0": "A Journeyman of Light Armor will have it degrade 50% slower."
+        }
+    },
+    "0006AB1F": {
+        "EditorID": "InGamePerksLight04",
+        "Levels": {
+            "0": "A Master of Light Armor will get a 50% armor bonus if wearing all light armor."
+        }
+    },
+    "0006AB20": {
+        "EditorID": "InGamePerksLight05",
+        "Levels": {
+            "0": "An Expert of Light Armor will not be encumbered while wearing it."
+        }
+    },
+    "0006AB21": {
+        "EditorID": "InGameBirthsign01",
+        "Levels": {
+            "0": "Those born under the sign of The Mage have increased Magicka."
+        }
+    },
+    "0006AB22": {
+        "EditorID": "InGameBirthsign02",
+        "Levels": {
+            "0": "Those born under the sign of The Apprentice have increased Magicka, but also have a weakness to it."
+        }
+    },
+    "0006AB23": {
+        "EditorID": "InGameBirthsign03",
+        "Levels": {
+            "0": "Those born under the sign of The Ritual can heal themselves and turn the undead."
+        }
+    },
+    "0006AB24": {
+        "EditorID": "InGameBirthsign04",
+        "Levels": {
+            "0": "Those born under the sign of The Warrior have increased Strength and Endurance."
+        }
+    },
+    "0006AB25": {
+        "EditorID": "InGameBirthsign05",
+        "Levels": {
+            "0": "Those born under the sign of The Steed can move faster."
+        }
+    },
+    "0006AB26": {
+        "EditorID": "InGameBirthsign06",
+        "Levels": {
+            "0": "Those born under the sign of The Lady have increased Willpower and Endurance."
+        }
+    },
+    "0006AB27": {
+        "EditorID": "InGameBirthsign07",
+        "Levels": {
+            "0": "Those born under the sign of The Lord can regenerate Health, but are vulnerable to fire.[CRLF]"
+        }
+    },
+    "0006AB28": {
+        "EditorID": "InGameBirthsign08",
+        "Levels": {
+            "0": "Those born under the sign of The Thief have increased Agility, Speed, and Luck."
+        }
+    },
+    "0006AB29": {
+        "EditorID": "InGameBirthsign09",
+        "Levels": {
+            "0": "Those born under the sign of The Lover can paralyze others with a kiss."
+        }
+    },
+    "0006AB2A": {
+        "EditorID": "InGameBirthsign10",
+        "Levels": {
+            "0": "Those born under the sign of The Shadow can make themselves invisible."
+        }
+    },
+    "0006AB2B": {
+        "EditorID": "InGameBirthsign11",
+        "Levels": {
+            "0": "Those born under the sign of The Tower can unlock doors magically, and the Tower Warden power reflects damage from attackers."
+        }
+    },
+    "0006AB2C": {
+        "EditorID": "InGameBirthsign12",
+        "Levels": {
+            "0": "Those born under the sign of The Atronach cannot regenerate Magicka, but have a chance of absorbing any magic cast at them."
+        }
+    },
+    "0006AB2D": {
+        "EditorID": "InGameBirthsign13",
+        "Levels": {
+            "0": "Those born under the sign of The Serpent can poison others at a loss of their own Fatigue."
+        }
+    },
+    "0006AB2E": {
+        "EditorID": "InGameCreatures01",
+        "Levels": {
+            "0": "Some creatures, like ghosts, are immune to normal weapons. Use a silver, daedric or magic weapon instead."
+        }
+    },
+    "0006AB2F": {
+        "EditorID": "InGameDialogue01",
+        "Levels": {
+            "0": "Asking about rumors may lead you to great treasure."
+        }
+    },
+    "0006AB30": {
+        "EditorID": "InGameDialogue02",
+        "Levels": {
+            "0": "People you barter with like you a little bit more each time you make a large transaction with them."
+        }
+    },
+    "0006AB31": {
+        "EditorID": "InGameDialogue03",
+        "Levels": {
+            "0": "People like you less when you make them an offer that they refuse."
+        }
+    },
+    "0006AB32": {
+        "EditorID": "InGameDialogue04",
+        "Levels": {
+            "0": "Joining a faction has great benefits. Everyone in your faction will like you more."
+        }
+    },
+    "0006AB34": {
+        "EditorID": "InGameDialogue06",
+        "Levels": {
+            "0": "You can make new friends, and enemies, by joining a faction."
+        }
+    },
+    "0006AB35": {
+        "EditorID": "InGameDialogue07",
+        "Levels": {
+            "0": "People don't like it when you talk to them with your weapon drawn."
+        }
+    },
+    "0006AB36": {
+        "EditorID": "InGameDialogue08",
+        "Levels": {
+            "0": "If a topic stays gold in conversation, the character has more to tell you, but only if they like you."
+        }
+    },
+    "000CACF6": {
+        "EditorID": "InGameAnvil04",
+        "Levels": {
+            "0": "Anvil's Chapel of Dibella, the goddess of love, grants healing, curing, and restoration of damaged attributes for those good pilgrims who pray at the Altar of the Nine."
+        }
+    },
+    "000CACF7": {
+        "EditorID": "InGameAnvil05",
+        "Levels": {
+            "0": "Chapel priests and healers sell spells from the College of Restoration. From other colleges, they also offer a few select spells that benefit mankind."
+        }
+    },
+    "000CACF8": {
+        "EditorID": "InGameBravil04",
+        "Levels": {
+            "0": "Those with damaged Strength, Agility, Personality, or other attributes pray at the Altar of the Nine at Bravil's Chapel of Mara for restoration."
+        }
+    },
+    "000CACF9": {
+        "EditorID": "InGameBravil05",
+        "Levels": {
+            "0": "Chapel priests and healers sell spells from the College of Restoration. From other colleges, they also offer a few select spells that benefit mankind."
+        }
+    },
+    "000CACFA": {
+        "EditorID": "InGameBruma04",
+        "Levels": {
+            "0": "Noble heroes! Have your attributes been cursed by the Dark Arts? Seek comfort at the Altar of the Nine at the Bruma Chapel of Talos! Pray, and you shall be restored!"
+        }
+    },
+    "000CACFB": {
+        "EditorID": "InGameBruma05",
+        "Levels": {
+            "0": "Chapel priests and healers sell spells from the College of Restoration. From other colleges, they also offer a few select spells that benefit mankind."
+        }
+    },
+    "000CACFC": {
+        "EditorID": "InGameCheydinhal03",
+        "Levels": {
+            "0": "Pilgrims and travelers pray at the Altar of the Nine in Cheydinhal's Chapel of Arkay. Their wounds are healed, their diseases cured, and curses upon their bodies are banished."
+        }
+    },
+    "000CACFD": {
+        "EditorID": "InGameCheydinhal04",
+        "Levels": {
+            "0": "Chapel priests and healers sell spells from the College of Restoration. From other colleges, they also offer a few select spells that benefit mankind."
+        }
+    },
+    "000CACFE": {
+        "EditorID": "InGameChorrol04",
+        "Levels": {
+            "0": "At the Altar of the Nine in Chorrol's Chapel of Stendarr, pray and be healed, cured, and restored in all your attributes."
+        }
+    },
+    "000CACFF": {
+        "EditorID": "InGameChorrol05",
+        "Levels": {
+            "0": "Chapel priests and healers sell spells from the College of Restoration. From other colleges, they also offer a few select spells that benefit mankind."
+        }
+    },
+    "000CAD00": {
+        "EditorID": "InGameLeyawiin02",
+        "Levels": {
+            "0": "The righteous and godly pray for healing of wounds, for curing of diseases, and for restoration of damaged attributes at the Altar of the Nine at the Leyawiin Chapel of Zenithar."
+        }
+    },
+    "000CAD01": {
+        "EditorID": "InGameLeyawiin03",
+        "Levels": {
+            "0": "Chapel priests and healers sell spells from the College of Restoration. From other colleges, they also offer a few select spells that benefit mankind."
+        }
+    },
+    "000CAD02": {
+        "EditorID": "InGameSkingrad02",
+        "Levels": {
+            "0": "You need your wounds healed? Your diseases cured? Your attributes restored? Go to the Skingrad Chapel of Julianos and pray at the Altar of the Nine."
+        }
+    },
+    "000CAD03": {
+        "EditorID": "InGameSkingrad03",
+        "Levels": {
+            "0": "Chapel priests and healers sell spells from the College of Restoration. From other colleges, they also offer a few select spells that benefit mankind."
+        }
+    },
+    "000CAD04": {
+        "EditorID": "Chapels04",
+        "Levels": {
+            "0": "Criminals with bounties! Your prayers at the chapel for healing, curing, and restoration may be denied for your sins! Clear the bounties from your head, and seek forgiveness!"
+        }
+    },
+    "000CAD05": {
+        "EditorID": "Chapels05",
+        "Levels": {
+            "0": "Infamous villains! The Nine may balance the fame of good deeds against the shame of your wickedness when you pray for healing, curing, and restoration at their chapel altars."
+        }
+    },
+    "000CAD06": {
+        "EditorID": "InGameAnvil06",
+        "Levels": {
+            "0": "Some say certain members of the Thieves Guild will buy stolen goods. But some officials insist the Thieves Guild doesn't even exist."
+        }
+    },
+    "000CAD07": {
+        "EditorID": "InGameAnvil07",
+        "Levels": {
+            "0": "Honest merchants are not interested in stolen goods. Such items do not even appear in the list of goods you wish to sell."
+        }
+    },
+    "000CAD08": {
+        "EditorID": "InGameBravil06",
+        "Levels": {
+            "0": "Honest merchants are not interested in stolen goods. Such items do not even appear in the list of goods you wish to sell."
+        }
+    },
+    "000CAD09": {
+        "EditorID": "InGameBravil07",
+        "Levels": {
+            "0": "Some say certain members of the Thieves Guild will buy stolen goods. But some officials insist the Thieves Guild doesn't even exist."
+        }
+    },
+    "000CAD0A": {
+        "EditorID": "InGameBruma06",
+        "Levels": {
+            "0": "Honest merchants are not interested in stolen goods. Such items do not even appear in the list of goods you wish to sell."
+        }
+    },
+    "000CAD0B": {
+        "EditorID": "InGameBruma07",
+        "Levels": {
+            "0": "Some say certain members of the Thieves Guild will buy stolen goods. But some officials insist the Thieves Guild doesn't even exist."
+        }
+    },
+    "000CAD0C": {
+        "EditorID": "InGameCheydinhal05",
+        "Levels": {
+            "0": "Honest merchants are not interested in stolen goods. Such items do not even appear in the list of goods you wish to sell."
+        }
+    },
+    "000CAD0D": {
+        "EditorID": "InGameCheydinhal06",
+        "Levels": {
+            "0": "Some say certain members of the Thieves Guild will buy stolen goods. But some officials insist the Thieves Guild doesn't even exist."
+        }
+    },
+    "000CAD0E": {
+        "EditorID": "InGameChorrol06",
+        "Levels": {
+            "0": "Honest merchants are not interested in stolen goods. Such items do not even appear in the list of goods you wish to sell."
+        }
+    },
+    "000CAD0F": {
+        "EditorID": "InGameChorrol07",
+        "Levels": {
+            "0": "Some say certain members of the Thieves Guild will buy stolen goods. But some officials insist the Thieves Guild doesn't even exist."
+        }
+    },
+    "000CAD10": {
+        "EditorID": "InGameImperialCity07",
+        "Levels": {
+            "0": "Honest merchants are not interested in stolen goods. Such items do not even appear in the list of goods you wish to sell."
+        }
+    },
+    "000CAD11": {
+        "EditorID": "InGameImperialCity08",
+        "Levels": {
+            "0": "Some say certain members of the Thieves Guild will buy stolen goods. But some officials insist the Thieves Guild doesn't even exist."
+        }
+    },
+    "000CAD12": {
+        "EditorID": "InGameLeyawiin04",
+        "Levels": {
+            "0": "Honest merchants are not interested in stolen goods. Such items do not even appear in the list of goods you wish to sell."
+        }
+    },
+    "000CAD13": {
+        "EditorID": "InGameLeyawiin05",
+        "Levels": {
+            "0": "Some say certain members of the Thieves Guild will buy stolen goods. But some officials insist the Thieves Guild doesn't even exist."
+        }
+    },
+    "000CAD14": {
+        "EditorID": "InGameSkingrad04",
+        "Levels": {
+            "0": "Honest merchants are not interested in stolen goods. Such items do not even appear in the list of goods you wish to sell."
+        }
+    },
+    "000CAD15": {
+        "EditorID": "InGameSkingrad05",
+        "Levels": {
+            "0": "Some say that certain members of the Thieves Guild will buy stolen goods. But some officials insist the Thieves Guild doesn't even exist."
+        }
+    },
+    "0018B124": {
+        "EditorID": "GuardArcher",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0002ACD0": {
+        "EditorID": "ArenaCombatantRandom",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0002AE7A": {
+        "EditorID": "Pirate",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000CB620": {
+        "EditorID": "InGameCombat20",
+        "Levels": {
+            "0": "If you get into a fight with a friend, you can yield to him to stop the combat by holding Block and activating that character. If he likes you enough, he will stop the fight."
+        }
+    },
+    "0004B90A": {
+        "EditorID": "Conjurer",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000C3F5": {
+        "EditorID": "MagesGuild04",
+        "Levels": {
+            "0": "Mages Guild halls sell Destruction spells in Skingrad, Conjuration in Chorrol, Alteration in Cheydinhal, Illusion in Bravil, Restoration in Anvil, and Mysticism in Leyawiin."
+        }
+    },
+    "0000C3F6": {
+        "EditorID": "InGameSpellVendor01",
+        "Levels": {
+            "0": "Mages in the Skingrad guild hall specialize in Destruction, while Chorrol mages specialize in Conjuration."
+        }
+    },
+    "0000C3F7": {
+        "EditorID": "InGameSpellVendor02",
+        "Levels": {
+            "0": "In Cheydinhal, guild mages favor the College of Alteration. The mages of Bravil prefer the College of Illusion."
+        }
+    },
+    "0000C3F8": {
+        "EditorID": "InGameSpellVendor03",
+        "Levels": {
+            "0": "You'll find Restoration spells at the Anvil Mages Guild, and Mysticism spells in Leyawiin."
+        }
+    },
+    "0008C82F": {
+        "EditorID": "MS05Dreamworld01",
+        "Levels": {
+            "0": "Beware, the death of the dreamer means the death of those who share his dream."
+        }
+    },
+    "0008C831": {
+        "EditorID": "MS05Dreamworld02",
+        "Levels": {
+            "0": "In the Dreamworld, your magic and belongings no longer exist, but you still have your talents and skills from the real world."
+        }
+    },
+    "0000CC45": {
+        "EditorID": "ElvenStatue",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0000CF06": {
+        "EditorID": "SorcererTrainer",
+        "Levels": {
+            "0": "Besting the most well-equipped fighters, they rely on the spells of the mystic arts.  Unique to these mages is the bodily stamina to be armed with the thickest armor."
+        }
+    },
+    "0006D21B": {
+        "EditorID": "BW07",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0006D676": {
+        "EditorID": "DarkArcher",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0002F0F5": {
+        "EditorID": "MythicDawnAgent",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0002F0F6": {
+        "EditorID": "MythicDawnAssassin",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0002F0FF": {
+        "EditorID": "MythicDawnAdept",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0006FDDB": {
+        "EditorID": "InGameBravil02",
+        "Levels": {
+            "0": "For as long as people have lived in Bravil, the statue of the Lucky Old Lady has been considered a symbol of good fortune. Stop by, and the Lady may grant her blessing...."
+        }
+    },
+    "0006FDDC": {
+        "EditorID": "InGameCheydinhal02",
+        "Levels": {
+            "0": "The Abandoned House on the eastern edge of Cheydinhal is never spoken of publicly, and the Count refuses to even acknowledge its existence."
+        }
+    },
+    "0006FDDD": {
+        "EditorID": "InGameImperialCity06",
+        "Levels": {
+            "0": "The Imperial City Arena attracts gladiators and gamblers from all over Cyrodiil. Risk your gold by betting on a match or your very life as a combatant."
+        }
+    },
+    "0008FF65": {
+        "EditorID": "Widescreen1ElvenArmor",
+        "Levels": {
+            "0": "Realistic lighting and shader effects combine to create detailed and immersive environments."
+        }
+    },
+    "000105D6": {
+        "EditorID": "Mage",
+        "Levels": {
+            "0": "Prefering to use their extensive knowledge of all things magical, they wield a might more powerful than the sharpest blade."
+        }
+    },
+    "0001208E": {
+        "EditorID": "DarkSeducer",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0001208F": {
+        "EditorID": "GoldenSaint",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00052586": {
+        "EditorID": "SEInGameDefault01",
+        "Levels": {
+            "0": "The Mania region of the Shivering Isles lies to the north. The Dementia region crouches in the south."
+        }
+    },
+    "00052587": {
+        "EditorID": "SEInGameDefault02",
+        "Levels": {
+            "0": "Mania is the home of mad artists and creative thinkers. But, do not assume that it is any less dangerous than Dementia."
+        }
+    },
+    "00052588": {
+        "EditorID": "SEInGameDefault03",
+        "Levels": {
+            "0": "Giant roots twist across the landscape of Dementia. Its residents and native creatures are similarly twisted, in body and spirit."
+        }
+    },
+    "00052589": {
+        "EditorID": "SENewSheoth01",
+        "Levels": {
+            "0": "There are no jails in the Shivering Isles. Criminals are temporarily exiled to a dungeon, instead. If they get out alive, their crimes are forgiven."
+        }
+    },
+    "0005258A": {
+        "EditorID": "SENSCrucibleLoad01",
+        "Levels": {
+            "0": "Syl is the Lady of Dementia, and Duchess of that land. She is known to be highly paranoid, believing everyone around her to be a potential enemy."
+        }
+    },
+    "0005258B": {
+        "EditorID": "SENSBlissLoad01",
+        "Levels": {
+            "0": "Thadon is the Lord of Mania, and Duke of that land. He is known to be obsessed with mind-altering food and drink."
+        }
+    },
+    "0005258C": {
+        "EditorID": "SENSPalaceLoad01",
+        "Levels": {
+            "0": "Sheogorath is the Daedric Prince of Madness, whose followers include both dangerous psychotics and brilliant artists. His divided personality is reflected in the land itself."
+        }
+    },
+    "0005258D": {
+        "EditorID": "SEGatesMadness01",
+        "Levels": {
+            "0": "The Gates of Madness serve to keep out casual adventurers. Only those fit for Sheogorath's realm, or those invited, can gain access."
+        }
+    },
+    "0005258E": {
+        "EditorID": "SESettlement01",
+        "Levels": {
+            "0": "Passwall is a small settlement whose residents hope to pass through the Gates of Madness into the greater realm of the Shivering Isles."
+        }
+    },
+    "0005258F": {
+        "EditorID": "SETheFringe01",
+        "Levels": {
+            "0": "The Fringe is an enclosed area designed to test those who wish to enter the Shivering Isles."
+        }
+    },
+    "00052590": {
+        "EditorID": "SESettlement02",
+        "Levels": {
+            "0": "Deepwallow is a small Dementia community built on a swamp. The citizens are not fond of strangers."
+        }
+    },
+    "00052591": {
+        "EditorID": "SESettlement03",
+        "Levels": {
+            "0": "Fellmoor is a small Dementia community of farmers.Their crops have been known to alter a person's sense of reality."
+        }
+    },
+    "00052592": {
+        "EditorID": "SESettlement04",
+        "Levels": {
+            "0": "Hale is a small Mania community of artists. They believe their art is inspired by the spores from the great mushroom trees that surround their village."
+        }
+    },
+    "00052593": {
+        "EditorID": "SESettlement05",
+        "Levels": {
+            "0": "Highcross is a small settlement in the lands of Mania. Its citizens are highly compulsive, acting out bizarre rituals with little meaning."
+        }
+    },
+    "00052594": {
+        "EditorID": "SESettlement06",
+        "Levels": {
+            "0": "Split is a community divided between Mania and Dementia. Its citizens are mirror images of one another, constantly struggling for control of the town."
+        }
+    },
+    "00052595": {
+        "EditorID": "SENSBlissLoad02",
+        "Levels": {
+            "0": "The northern half of New Sheoth is named Bliss. Its colorful streets and people are the embodiment of Mania."
+        }
+    },
+    "00052596": {
+        "EditorID": "SENSCrucibleLoad02",
+        "Levels": {
+            "0": "The southern half of New Sheoth is named Crucible. It embodies Dementia, with its ominous buildings and fearful citizens."
+        }
+    },
+    "00052597": {
+        "EditorID": "SEInGameDefault04",
+        "Levels": {
+            "0": "Baliwogs are thought to be the larval form of Grummites, although this relationship has never been proven."
+        }
+    },
+    "00052598": {
+        "EditorID": "SEInGameDefault05",
+        "Levels": {
+            "0": "Scalon are hulking swamp creatures with tremendous leaping ability."
+        }
+    },
+    "00052599": {
+        "EditorID": "SEInGameDefault06",
+        "Levels": {
+            "0": "Elytra are vicious insects that use deadly poisons to kill their prey."
+        }
+    },
+    "0005259A": {
+        "EditorID": "SENSCrucibleLoad03",
+        "Levels": {
+            "0": "Sheogorath's fiercely loyal Dark Seducers patrol the streets of Crucible. They are aligned with Dementia and are not overly fond of Golden Saints."
+        }
+    },
+    "0005259B": {
+        "EditorID": "SENSBlissLoad03",
+        "Levels": {
+            "0": "The proud and haughty Golden Saints act as enforcers in Sheogorath's Realm. They are aligned with Mania and are not overly fond of Dark Seducers."
+        }
+    },
+    "0005259C": {
+        "EditorID": "SEInGameDefault07",
+        "Levels": {
+            "0": "Gnarl are sentient tree-like creatures whose ability to blend into the landscape has surprised many would-be adventurers."
+        }
+    },
+    "0005259D": {
+        "EditorID": "SEInGameDefault08",
+        "Levels": {
+            "0": "Grummites are frog-like, tool-making creatures with a primitive culture. They can often be found protecting the egg sacs that house their young."
+        }
+    },
+    "0005259E": {
+        "EditorID": "SEInGameDefault09",
+        "Levels": {
+            "0": "Hungers are Daedric creatures that feed on the misery and despair of everything around them."
+        }
+    },
+    "0005259F": {
+        "EditorID": "SEInGameDefault10",
+        "Levels": {
+            "0": "Zealots are fanatical believers in a cult of Sheogorath, and will not tolerate anyone that does not share their beliefs. They congregate in the lands of Dementia."
+        }
+    },
+    "000525A0": {
+        "EditorID": "SEInGameDefault11",
+        "Levels": {
+            "0": "Heretics are fanatics that believe Sheogorath is just a man who needs to be overthrown. They congregate in the lands of Mania."
+        }
+    },
+    "000525A1": {
+        "EditorID": "SE32Load01",
+        "Levels": {
+            "0": "The former settlement of Vitharn is rumored to be haunted by the ghosts of its slaughtered citizens."
+        }
+    },
+    "000525A2": {
+        "EditorID": "SE06Load01",
+        "Levels": {
+            "0": "The ancient city of Cylarne is believed to be the original capital of the Shivering Isles."
+        }
+    },
+    "000525A3": {
+        "EditorID": "SE12Load01",
+        "Levels": {
+            "0": "The Tree of Madness draws its nourishment from the Pools of Mania and Dementia deep beneath the Palace."
+        }
+    },
+    "000525A4": {
+        "EditorID": "SE04Load01",
+        "Levels": {
+            "0": "Felldew is a dangerous toxin secreted by some Elytra. Despite the risks, some value it for its use as a powerful stimulant."
+        }
+    },
+    "000525A5": {
+        "EditorID": "SE04Load02",
+        "Levels": {
+            "0": "Ingestion of Felldew results in the release of pheromones that some Elytra recognize, making them indifferent to the user's presence."
+        }
+    },
+    "000525A6": {
+        "EditorID": "SE10Load01",
+        "Levels": {
+            "0": "Brellach is the stronghold of the Golden Saints. Few beyond the Saints are ever permitted inside."
+        }
+    },
+    "000525A7": {
+        "EditorID": "SE10Load02",
+        "Levels": {
+            "0": "Golden Saints cast into the waters of Oblivion return to the Shivering Isles through Brellach. The process is considered sacred and secret."
+        }
+    },
+    "000525A8": {
+        "EditorID": "SE10Load03",
+        "Levels": {
+            "0": "Pinnacle Rock is the stronghold of the Dark Seducers. Few beyond the Seducers are ever permitted inside."
+        }
+    },
+    "000525A9": {
+        "EditorID": "SE10Load04",
+        "Levels": {
+            "0": "Dark Seducers cast into the waters of Oblivion return to the Shivering Isles through Pinnacle Rock. The process is considered sacred and secret."
+        }
+    },
+    "000525AF": {
+        "EditorID": "Z012",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000525B0": {
+        "EditorID": "Z013",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000525B1": {
+        "EditorID": "Z014",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000525B3": {
+        "EditorID": "Z006",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000525B4": {
+        "EditorID": "Z009",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000525B5": {
+        "EditorID": "Z007",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000525B6": {
+        "EditorID": "Z008",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000525B7": {
+        "EditorID": "Z010",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000525B8": {
+        "EditorID": "Z011",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00092D99": {
+        "EditorID": "DremoraMageClass",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0005308E": {
+        "EditorID": "Sheogorath",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00093488": {
+        "EditorID": "BladeClass",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00033659": {
+        "EditorID": "InGameDefault08",
+        "Levels": {
+            "0": "People don't like it when you talk to them with your weapon drawn."
+        }
+    },
+    "0003365A": {
+        "EditorID": "InGameDefault07",
+        "Levels": {
+            "0": "Stolen goods in your possession are taken from you when you go to jail. Look for evidence chests in the prisons to get them back."
+        }
+    },
+    "00094008": {
+        "EditorID": "BW08",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0003451A": {
+        "EditorID": "BanditMelee",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0003451B": {
+        "EditorID": "BanditMissile",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0003451C": {
+        "EditorID": "BanditWizard",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0003451D": {
+        "EditorID": "MarauderMelee",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0003451E": {
+        "EditorID": "MarauderMissile",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0003451F": {
+        "EditorID": "MarauderMage",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00034520": {
+        "EditorID": "BanditBoss",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00034521": {
+        "EditorID": "MarauderBoss",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000947CC": {
+        "EditorID": "ArenaCombatantLightArcher",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00014691": {
+        "EditorID": "DremoraArcher",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00034E6E": {
+        "EditorID": "Guard",
+        "Levels": {
+            "0": "Standard town guard class."
+        }
+    },
+    "000552B2": {
+        "EditorID": "SE02Load01",
+        "Levels": {
+            "0": "The Gatekeeper guards the Gates of Madness against those not Blessed by Sheogorath."
+        }
+    },
+    "000552B3": {
+        "EditorID": "SE09Load01",
+        "Levels": {
+            "0": "It is rumored that screams of agony are carried away on the wind as it passes through Xaselm."
+        }
+    },
+    "000552B4": {
+        "EditorID": "SE09Load02",
+        "Levels": {
+            "0": "The Sanctum of Vivisection is where sorceress Relmyna Verenim lives and conducts her experiments."
+        }
+    },
+    "000552B5": {
+        "EditorID": "SENSBlissLoad04",
+        "Levels": {
+            "0": "The smith in Bliss can create weapons and armor from Amber."
+        }
+    },
+    "000552B6": {
+        "EditorID": "SENSCrucibleLoad04",
+        "Levels": {
+            "0": "The smith in Crucible can mold weapons and armor from Madness Ore."
+        }
+    },
+    "000552B7": {
+        "EditorID": "SEInGameDefault12",
+        "Levels": {
+            "0": "Madness Ore is often found in ruins of ancient civilizations. It is rumored that a smith in New Sheoth is able to fashion weapons and armor from Madness Ore."
+        }
+    },
+    "000552B8": {
+        "EditorID": "SEInGameDefault13",
+        "Levels": {
+            "0": "Amber is often found in root tunnels. It is rumored that a smith in New Sheoth is able to fashion weapons and armor from Amber."
+        }
+    },
+    "000552B9": {
+        "EditorID": "SE09Load03",
+        "Levels": {
+            "0": "The Gardens of Flesh and Bone were created by sorceress Relmyna Verenim as her attempt to grow the mystical components of the [QUOTE]sixth element,[QUOTE] Flesh."
+        }
+    },
+    "000552BA": {
+        "EditorID": "SE03Load01",
+        "Levels": {
+            "0": "Xedilian, once a main line of defense for the Shivering Isles, was abandoned after the Gatekeeper was created."
+        }
+    },
+    "000552BB": {
+        "EditorID": "SE03Load02",
+        "Levels": {
+            "0": "The Resonator of Judgment, made of a material of unknown crystalline origin, is very similar to the strange obelisks that dot the Shivering Isles."
+        }
+    },
+    "000552BD": {
+        "EditorID": "SENewSheoth02",
+        "Levels": {
+            "0": "The teachings of the Manics or the Demented are sermonized at the Sacellum, depending on which faction is currently in favor."
+        }
+    },
+    "000552BE": {
+        "EditorID": "SENSPalaceLoad02",
+        "Levels": {
+            "0": "The House of Mania exemplifies lavishness and over-indulgence."
+        }
+    },
+    "000552BF": {
+        "EditorID": "SENSPalaceLoad03",
+        "Levels": {
+            "0": "The House of Dementia is renowned for its small cadre of ruthless Dark Seducer Elite Guards."
+        }
+    },
+    "000552C0": {
+        "EditorID": "SE07Load01",
+        "Levels": {
+            "0": "Greenmote is a highly addictive and potent drug that can be fatal if not taken in extreme moderation."
+        }
+    },
+    "000552C1": {
+        "EditorID": "SE07Load02",
+        "Levels": {
+            "0": "Xirethard's proximity to the House of Dementia makes it ideal for an underground emergency escape route."
+        }
+    },
+    "000552C2": {
+        "EditorID": "SE07Load03",
+        "Levels": {
+            "0": "Once the home of a great nobleman, the halls of Xirethard are now rife with horrible undead creatures."
+        }
+    },
+    "000552C3": {
+        "EditorID": "SE08Load01",
+        "Levels": {
+            "0": "Areas conquered by the forces of Order are drained of energy, leaving them dead and lifeless."
+        }
+    },
+    "000552C4": {
+        "EditorID": "SE08Load02",
+        "Levels": {
+            "0": "Once a bustling city, Xeddefen has become home to a tribe of Grummites who worship the strange obelisk in the depths of the ruins."
+        }
+    },
+    "000552C5": {
+        "EditorID": "SE11Load01",
+        "Levels": {
+            "0": "There is a chamber in Knifepoint Hollow that has been sealed for millennia. Few but Sheogorath knows who or what is imprisoned there."
+        }
+    },
+    "000552C6": {
+        "EditorID": "SE11Load02",
+        "Levels": {
+            "0": "Knifepoint Hollow is rumored to have once been a great store of knowledge. The details of its history have since fallen into legend."
+        }
+    },
+    "000552C7": {
+        "EditorID": "SE11Load03",
+        "Levels": {
+            "0": "The Howling Halls contain the reconstruction of a famous building from Cyrodiil."
+        }
+    },
+    "000552C8": {
+        "EditorID": "SE11Load04",
+        "Levels": {
+            "0": "The secret grove in Milchar can only be accessed by those the grove deems worthy."
+        }
+    },
+    "000552DB": {
+        "EditorID": "SEZealotClass",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000353E0": {
+        "EditorID": "Necromancer",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0009712F": {
+        "EditorID": "SE32Smith",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000980DC": {
+        "EditorID": "Herald",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00038010": {
+        "EditorID": "Dremora",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000781AE": {
+        "EditorID": "BW01",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000781AF": {
+        "EditorID": "BW02",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000781B0": {
+        "EditorID": "BW03",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000781B1": {
+        "EditorID": "BW04",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000781B2": {
+        "EditorID": "BW05",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000781B3": {
+        "EditorID": "BW06",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000982E6": {
+        "EditorID": "MonkAncestorMoth",
+        "Levels": {
+            "0": "Quick and cunning with the empty hand, they are strong in spirit.  They prefer to solve conflict by arrow or by fist."
+        }
+    },
+    "00038BAC": {
+        "EditorID": "ZDRL",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00038BAD": {
+        "EditorID": "ZHDZ",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00038BAE": {
+        "EditorID": "ZSKA",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00038BAF": {
+        "EditorID": "ZSKC",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00038BB0": {
+        "EditorID": "ZSKH",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00038BB1": {
+        "EditorID": "ZSPD",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00038BB2": {
+        "EditorID": "ZWRL",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "00038BB3": {
+        "EditorID": "ZXIV",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "000191C0": {
+        "EditorID": "Orc",
+        "Levels": {
+            "0": "The people of the Wrothgarian and Dragontail Mountains, Orcish armorers are prized for their craftsmanship. Orc troops in heavy armor are among the finest in the Empire, and are fearsome when using their berserker rage."
+        }
+    },
+    "000191C1": {
+        "EditorID": "DarkElf",
+        "Levels": {
+            "0": "Also known as [QUOTE]Dunmer[QUOTE] in their homeland of Morrowind, the Dark Elves are noted for their skilled and balanced integration of the sword, the bow and destruction magic. They are resistant to fire and can summon an ancestral ghost for aid.[CRLF]"
+        }
+    },
+    "00019204": {
+        "EditorID": "HighElf",
+        "Levels": {
+            "0": "Also known as [QUOTE]Altmer[QUOTE] in their homeland of Summerset Isle,  the High Elves are the most strongly gifted in the arcane arts of all the races. However, they are also somewhat vulnerable to fire, frost and shock."
+        }
+    },
+    "000795DF": {
+        "EditorID": "MQ16TempleOfTheOne",
+        "Levels": {
+            "0": "If you can bring Martin safely into the Temple of the One, there is still a chance to turn defeat into victory."
+        }
+    },
+    "000795E0": {
+        "EditorID": "MQ16BattleSpacesLoad",
+        "Levels": {
+            "0": "The Imperial City is under attack. Martin must reach the Temple of the One or all is lost!"
+        }
+    },
+    "0003A82D": {
+        "EditorID": "InGameDefault09",
+        "Levels": {
+            "0": "The Blades are a group of knights who work in secret for the good of the empire."
+        }
+    },
+    "0003A86A": {
+        "EditorID": "REAN",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0003A86B": {
+        "EditorID": "Z001",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0003A86C": {
+        "EditorID": "Z002",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0003A86D": {
+        "EditorID": "Z003",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0003A86E": {
+        "EditorID": "Z004",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0003A86F": {
+        "EditorID": "Z005",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0003ABF5": {
+        "EditorID": "DARK",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0007B474": {
+        "EditorID": "InGamePerksSneak05",
+        "Levels": {
+            "0": "A Master of Sneak ignores an opponent's armor when attacking while sneaking."
+        }
+    },
+    "0007B475": {
+        "EditorID": "InGameStealth06",
+        "Levels": {
+            "0": "If you are sent to jail, you are able to hide one of your lockpicks."
+        }
+    },
+    "0007B476": {
+        "EditorID": "InGameStealth07",
+        "Levels": {
+            "0": "If the Sneaking crosshair is bright, another character or creature knows you're there."
+        }
+    },
+    "0007B477": {
+        "EditorID": "InGameStealth08",
+        "Levels": {
+            "0": "Running is noisier than walking and makes you easier to detect, even if you are sneaking."
+        }
+    },
+    "0007BE59": {
+        "EditorID": "MS12PalePass",
+        "Levels": {
+            "0": "Pale Pass was the rumored location of the Akaviri headquarters during their invasion of Cyrodiil. The actual location of the fort has been lost over hundreds of years."
+        }
+    },
+    "0007BE5A": {
+        "EditorID": "MS12PalePassRuins",
+        "Levels": {
+            "0": "Commander Mishaxhi, one of the Akaviri's greatest tacticians, commanded the fort at Pale Pass."
+        }
+    },
+    "0007BE5B": {
+        "EditorID": "MS12PalePassRuins02",
+        "Levels": {
+            "0": "The fort at Pale Pass was actually an Imperial structure captured and then inhabited by the invading Akaviri forces."
+        }
+    },
+    "0005C021": {
+        "EditorID": "DEMO",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0001C823": {
+        "EditorID": "MerchSmith",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0001C824": {
+        "EditorID": "Bard",
+        "Levels": {
+            "0": "Intelligent and personable, they prefer to accomplish tasks with their words first, and sword second."
+        }
+    },
+    "0003D06A": {
+        "EditorID": "MerchFence",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0005D2D1": {
+        "EditorID": "ArenaCombatantShieldCaster",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0003D7FC": {
+        "EditorID": "MS26Guard",
+        "Levels": {
+            "0": "Standard town guard class."
+        }
+    },
+    "0007E0AD": {
+        "EditorID": "Z015",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0005E1D5": {
+        "EditorID": "CALM",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0005E1D6": {
+        "EditorID": "CHRM",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0005E1D7": {
+        "EditorID": "FRNZ",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0005E1D8": {
+        "EditorID": "RALY",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0001E656": {
+        "EditorID": "InGameChorrol01",
+        "Levels": {
+            "0": "For his heroism at Pale Pass, Kantus Jeril was appointed the first Count of Chorrol."
+        }
+    },
+    "0001E65A": {
+        "EditorID": "InGameDefault10",
+        "Levels": {
+            "0": "Chorrol, Anvil, Kvatch, and Skingrad counties represent the heartland of western Cyrodiil, a region known as Colovia."
+        }
+    },
+    "0001E76F": {
+        "EditorID": "InGameDefault01",
+        "Levels": {
+            "0": "Fatigue affects how good you are at combat and magic. Actions like jumping and fighting will decrease your Fatigue."
+        }
+    },
+    "0001E770": {
+        "EditorID": "InGameDefault02",
+        "Levels": {
+            "0": "Watch what you pick up. Your bounty will go up if someone catches you stealing."
+        }
+    },
+    "0001E771": {
+        "EditorID": "InGameDefault03",
+        "Levels": {
+            "0": "How people feel about you affects how much information they will give you."
+        }
+    },
+    "0003E913": {
+        "EditorID": "POSN",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0003E9A5": {
+        "EditorID": "DremoraClass",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0007FDB8": {
+        "EditorID": "Z016",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0007FDB9": {
+        "EditorID": "Z017",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0007FDBA": {
+        "EditorID": "Z018",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0007FDBB": {
+        "EditorID": "Z019",
+        "Levels": {
+            "0": ""
+        }
+    },
+    "0001FC4B": {
+        "EditorID": "InGameChorrol02",
+        "Levels": {
+            "0": "Countess Arriana Valga is the Lady of Chorrol. However, her deceased husband, Count Charus Valga, was the hereditary Count of Chorrol."
+        }
+    },
+    "0001FC4C": {
+        "EditorID": "InGameChorrol03",
+        "Levels": {
+            "0": "The symbol of Chorrol is the Great Oak, an ancient tree where the townsfolk gather to share news of the day."
+        }
+    },
+    "0001FD91": {
+        "EditorID": "BirthSignApprentice",
+        "Levels": {
+            "0": "The Apprentice ability confers a 100-point bonus to your Magicka attribute, but gives you a 100% Weakness to Magic."
+        }
+    },
+    "0001FD92": {
+        "EditorID": "BirthSignLady",
+        "Levels": {
+            "0": "The Lady's Blessing confers bonuses of 10 points to your Willpower and Endurance attributes."
+        }
+    },
+    "0001FD93": {
+        "EditorID": "BirthSignMage",
+        "Levels": {
+            "0": "The Mage ability confers a permanent bonus of 50 points to your Magicka."
+        }
+    },
+    "0001FD94": {
+        "EditorID": "BirthSignThief",
+        "Levels": {
+            "0": "The Thief ability grants a 10-point bonus to your Agility, Speed, and Luck attributes."
+        }
+    },
+    "0001FD95": {
+        "EditorID": "BirthSignAtronach",
+        "Levels": {
+            "0": "With the Atronach ability you don't regain Magicka over time. Instead you have a 50% Spell Absorption to recharge your Magicka. Your base Magicka is also increased by 150 points.[CRLF]"
+        }
+    },
+    "0001FD96": {
+        "EditorID": "BirthSignLord",
+        "Levels": {
+            "0": "Being born under the Lord gives you the Blood of the North lesser power to regenerate up to 90 points of Health. However, you also gain the Trollkin curse, a permanent 25% Weakness to Fire.[CRLF]"
+        }
+    },
+    "0001FD97": {
+        "EditorID": "BirthSignLover",
+        "Levels": {
+            "0": "Use the Lover's Kiss power once a day to paralyze an opponent for 10 seconds at the cost of 120 points of Fatigue."
+        }
+    },
+    "0001FD98": {
+        "EditorID": "BirthSignRitual",
+        "Levels": {
+            "0": "Those born under the Ritual use the Mara's Gift power once a day as a powerful Restore Health spell. The Blessed Word can turn the undead."
+        }
+    },
+    "0001FD99": {
+        "EditorID": "BirthSignSerpent",
+        "Levels": {
+            "0": "Gain the Serpent spell to cause a slow but potent poison on touch, while simultaneously curing yourself and dispelling magic on yourself. Casting this spell costs 100 points of Fatigue."
+        }
+    },
+    "0001FD9A": {
+        "EditorID": "BirthSignShadow",
+        "Levels": {
+            "0": "Use the Moonshadow power once a day to become Invisible for 60 seconds."
+        }
+    },
+    "0001FD9B": {
+        "EditorID": "BirthSignSteed",
+        "Levels": {
+            "0": "The Steed ability grants a bonus of 20 to your Speed attribute."
+        }
+    },
+    "0001FD9C": {
+        "EditorID": "BirthSignTower",
+        "Levels": {
+            "0": "With the Tower Key power, once a day open a door or container of Average lock level or less. The Tower Warden reflects five points of damage for 120 seconds once a day."
+        }
+    },
+    "0001FD9D": {
+        "EditorID": "BirthSignWarrior",
+        "Levels": {
+            "0": "The Warrior ability grants a bonus of 10 points to your Strength and Endurance attributes."
+        }
+    }
+}

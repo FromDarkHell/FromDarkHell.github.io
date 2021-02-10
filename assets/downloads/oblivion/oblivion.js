@@ -21,6 +21,10 @@ function startup() {
 	});
 }
 
+function clearSearch() {
+	$("#resultsList")[0].innerHTML = ''
+}
+
 function furnitureSearch() {
 	minX = document.getElementById("minX").value;
 	maxX = document.getElementById("maxX").value;

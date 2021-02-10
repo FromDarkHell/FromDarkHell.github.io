@@ -1,0 +1,1041 @@
+{
+    "0002228F": {
+        "EditorID": "FightersGuild",
+        "Ranks": {
+            "0": {
+                "Male": "Associate",
+                "Female": "Associate"
+            },
+            "1": {
+                "Male": "Apprentice",
+                "Female": "Apprentice"
+            },
+            "2": {
+                "Male": "Journeyman",
+                "Female": "Journeyman"
+            },
+            "3": {
+                "Male": "Swordsman",
+                "Female": "Swordsman"
+            },
+            "4": {
+                "Male": "Protector",
+                "Female": "Protector"
+            },
+            "5": {
+                "Male": "Defender",
+                "Female": "Defender"
+            },
+            "6": {
+                "Male": "Warder",
+                "Female": "Warder"
+            },
+            "7": {
+                "Male": "Guardian",
+                "Female": "Guardian"
+            },
+            "8": {
+                "Male": "Champion",
+                "Female": "Champion"
+            },
+            "9": {
+                "Male": "Master",
+                "Female": "Master"
+            }
+        }
+    },
+    "00022296": {
+        "EditorID": "MagesGuild",
+        "Ranks": {
+            "0": {
+                "Male": "Associate",
+                "Female": "Associate"
+            },
+            "1": {
+                "Male": "Apprentice",
+                "Female": "Apprentice"
+            },
+            "2": {
+                "Male": "Journeyman",
+                "Female": "Journeyman"
+            },
+            "3": {
+                "Male": "Evoker",
+                "Female": "Evoker"
+            },
+            "4": {
+                "Male": "Conjurer",
+                "Female": "Conjurer"
+            },
+            "5": {
+                "Male": "Magician",
+                "Female": "Magician"
+            },
+            "6": {
+                "Male": "Warlock",
+                "Female": "Warlock"
+            },
+            "7": {
+                "Male": "Wizard",
+                "Female": "Wizard"
+            },
+            "8": {
+                "Male": "Master-Wizard",
+                "Female": "Master-Wizard"
+            },
+            "9": {
+                "Male": "Arch-Mage",
+                "Female": "Arch-Mage"
+            }
+        }
+    },
+    "000223BC": {
+        "EditorID": "NineDivines",
+        "Ranks": {
+            "0": {
+                "Male": "Layman",
+                "Female": "Layman"
+            },
+            "1": {
+                "Male": "Novice",
+                "Female": "Novice"
+            },
+            "2": {
+                "Male": "Initiate",
+                "Female": "Initiate"
+            },
+            "3": {
+                "Male": "Acolyte",
+                "Female": "Acolyte"
+            },
+            "4": {
+                "Male": "Adept",
+                "Female": "Adept"
+            },
+            "5": {
+                "Male": "Disciple",
+                "Female": "Disciple"
+            },
+            "6": {
+                "Male": "Oracle",
+                "Female": "Oracle"
+            },
+            "7": {
+                "Male": "Invoker",
+                "Female": "Invoker"
+            },
+            "8": {
+                "Male": "Theurgist",
+                "Female": "Theurgist"
+            },
+            "9": {
+                "Male": "Primate",
+                "Female": "Primate"
+            }
+        }
+    },
+    "000224D7": {
+        "EditorID": "KvatchGuards",
+        "Ranks": {
+            "0": {
+                "Male": "Guard",
+                "Female": "Guard"
+            }
+        }
+    },
+    "00024164": {
+        "EditorID": "ThievesGuild",
+        "Ranks": {
+            "0": {
+                "Male": "Pickpocket",
+                "Female": "Pickpocket"
+            },
+            "1": {
+                "Male": "Footpad",
+                "Female": "Footpad"
+            },
+            "2": {
+                "Male": "Bandit",
+                "Female": "Bandit"
+            },
+            "3": {
+                "Male": "Prowler",
+                "Female": "Prowler"
+            },
+            "4": {
+                "Male": "Cat burglar",
+                "Female": "Cat burglar"
+            },
+            "5": {
+                "Male": "Shadowfoot",
+                "Female": "Shadowfoot"
+            },
+            "6": {
+                "Male": "Master Thief",
+                "Female": "Master Thief"
+            },
+            "7": {
+                "Male": "Gray Fox",
+                "Female": "Gray Fox"
+            }
+        }
+    },
+    "0001DBCD": {
+        "EditorID": "PlayerFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Friend",
+                "Female": "Friend"
+            }
+        }
+    },
+    "00022431": {
+        "EditorID": "Nobility",
+        "Ranks": {
+            "0": {
+                "Male": "Knight",
+                "Female": "Knight"
+            },
+            "1": {
+                "Male": "Baron",
+                "Female": "Baroness"
+            },
+            "2": {
+                "Male": "Lord",
+                "Female": "Lady"
+            },
+            "3": {
+                "Male": "Count",
+                "Female": "Countess"
+            },
+            "4": {
+                "Male": "Duke",
+                "Female": "Duchess"
+            }
+        }
+    },
+    "000274AB": {
+        "EditorID": "Blades",
+        "Ranks": {
+            "0": {
+                "Male": "Knight Brother",
+                "Female": "Knight Sister"
+            },
+            "1": {
+                "Male": "Captain",
+                "Female": "Captain"
+            },
+            "2": {
+                "Male": "Grandmaster",
+                "Female": "Grandmaster"
+            }
+        }
+    },
+    "000299B9": {
+        "EditorID": "ArenaCombatants",
+        "Ranks": {
+            "0": {
+                "Male": "Pit Dog",
+                "Female": "Pit Dog"
+            },
+            "1": {
+                "Male": "Brawler",
+                "Female": "Brawler"
+            },
+            "2": {
+                "Male": "Bloodletter",
+                "Female": "Bloodletter"
+            },
+            "3": {
+                "Male": "Myrmidon",
+                "Female": "Myrmidon"
+            },
+            "4": {
+                "Male": "Warrior",
+                "Female": "Warrior"
+            },
+            "5": {
+                "Male": "Gladiator",
+                "Female": "Gladiator"
+            },
+            "6": {
+                "Male": "Hero",
+                "Female": "Hero"
+            },
+            "7": {
+                "Male": "Champion",
+                "Female": "Champion"
+            },
+            "8": {
+                "Male": "Grand Champion",
+                "Female": "Grand Champion"
+            }
+        }
+    },
+    "00029F82": {
+        "EditorID": "MythicDawn",
+        "Ranks": {
+            "0": {
+                "Male": "Initiate",
+                "Female": "Initiate"
+            },
+            "1": {
+                "Male": "Acolyte",
+                "Female": "Acolyte"
+            }
+        }
+    },
+    "0002F872": {
+        "EditorID": "DarkBrotherhood",
+        "Ranks": {
+            "0": {
+                "Male": "Murderer",
+                "Female": "Murderer"
+            },
+            "1": {
+                "Male": "Slayer",
+                "Female": "Slayer"
+            },
+            "2": {
+                "Male": "Eliminator",
+                "Female": "Eliminator"
+            },
+            "3": {
+                "Male": "Assassin",
+                "Female": "Assassin"
+            },
+            "4": {
+                "Male": "Executioner",
+                "Female": "Executioner"
+            },
+            "5": {
+                "Male": "Silencer",
+                "Female": "Silencer"
+            },
+            "6": {
+                "Male": "Speaker",
+                "Female": "Speaker"
+            },
+            "7": {
+                "Male": "Listener",
+                "Female": "Listener"
+            }
+        }
+    },
+    "0002FF29": {
+        "EditorID": "BlackwoodCompanyFACTION",
+        "Ranks": {
+            "0": {
+                "Male": "Probationary Member",
+                "Female": "Probationary Member"
+            },
+            "1": {
+                "Male": "Company Member",
+                "Female": "Company Member"
+            }
+        }
+    },
+    "0003486F": {
+        "EditorID": "ImperialWatch",
+        "Ranks": {
+            "0": {
+                "Male": "Watchman",
+                "Female": "Watchman"
+            },
+            "1": {
+                "Male": "Captain",
+                "Female": "Captain"
+            },
+            "2": {
+                "Male": "Centurion",
+                "Female": "Centurion"
+            },
+            "3": {
+                "Male": "Commander",
+                "Female": "Commander"
+            }
+        }
+    },
+    "00035E98": {
+        "EditorID": "AnvilBeggars",
+        "Ranks": {
+            "0": {
+                "Male": "Beggar",
+                "Female": "Beggar"
+            }
+        }
+    },
+    "00035E99": {
+        "EditorID": "Beggars",
+        "Ranks": {
+            "0": {
+                "Male": "Beggar",
+                "Female": "Beggar"
+            }
+        }
+    },
+    "00035E9A": {
+        "EditorID": "BravilBeggars",
+        "Ranks": {
+            "0": {
+                "Male": "Beggar",
+                "Female": "Beggar"
+            }
+        }
+    },
+    "00035E9B": {
+        "EditorID": "ChorrolBeggars",
+        "Ranks": {
+            "0": {
+                "Male": "Beggar",
+                "Female": "Beggar"
+            }
+        }
+    },
+    "00035E9C": {
+        "EditorID": "CheydinhalBeggars",
+        "Ranks": {
+            "0": {
+                "Male": "Beggar",
+                "Female": "Beggar"
+            }
+        }
+    },
+    "00035E9D": {
+        "EditorID": "BrumaBeggars",
+        "Ranks": {
+            "0": {
+                "Male": "Beggar",
+                "Female": "Beggar"
+            }
+        }
+    },
+    "00035E9E": {
+        "EditorID": "ICBeggars",
+        "Ranks": {
+            "0": {
+                "Male": "Beggar",
+                "Female": "Beggar"
+            }
+        }
+    },
+    "00035E9F": {
+        "EditorID": "LeyawiinBeggars",
+        "Ranks": {
+            "0": {
+                "Male": "Beggar",
+                "Female": "Beggar"
+            }
+        }
+    },
+    "00035EA0": {
+        "EditorID": "SkingradBeggars",
+        "Ranks": {
+            "0": {
+                "Male": "Beggar",
+                "Female": "Beggar"
+            }
+        }
+    },
+    "000177E3": {
+        "EditorID": "BanditFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Grunt",
+                "Female": "Grunt"
+            },
+            "1": {
+                "Male": "Boss",
+                "Female": "Boss"
+            }
+        }
+    },
+    "00016236": {
+        "EditorID": "MarinusCatiotusFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Him",
+                "Female": "Her"
+            }
+        }
+    },
+    "0001FDC8": {
+        "EditorID": "RajiradhsPride",
+        "Ranks": {
+            "0": {
+                "Male": "Son",
+                "Female": "Daughter"
+            },
+            "1": {
+                "Male": "Father",
+                "Female": "Mother"
+            }
+        }
+    },
+    "0001FDC9": {
+        "EditorID": "AtiusFamily",
+        "Ranks": {
+            "0": {
+                "Male": "Relative"
+            }
+        }
+    },
+    "00022B6F": {
+        "EditorID": "MarillinFamily",
+        "Ranks": {
+            "0": {
+                "Male": "Father",
+                "Female": "Mother"
+            }
+        }
+    },
+    "00022C9A": {
+        "EditorID": "ArenaPlayer",
+        "Ranks": {
+            "0": {
+                "Male": "In Faction",
+                "Female": "In Faction"
+            }
+        }
+    },
+    "00026DE8": {
+        "EditorID": "DarkPlayer",
+        "Ranks": {
+            "0": {
+                "Male": "Marked for Death"
+            }
+        }
+    },
+    "0001CE2C": {
+        "EditorID": "MS29AgarmirFaction",
+        "Ranks": {
+            "0": {
+                "Male": "No Kill I"
+            }
+        }
+    },
+    "000335B0": {
+        "EditorID": "KnightsThornFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Honorary Knight",
+                "Female": "Honorary Knight"
+            },
+            "1": {
+                "Male": "Knight-Errant",
+                "Female": "Knight-Errant"
+            }
+        }
+    },
+    "00033F53": {
+        "EditorID": "VampireFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Vampire",
+                "Female": "Vampire"
+            }
+        }
+    },
+    "00038BB4": {
+        "EditorID": "RaynilFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Raynil"
+            }
+        }
+    },
+    "0003AB39": {
+        "EditorID": "ICWaterfrontResident",
+        "Ranks": {
+            "0": {
+                "Male": "Poor"
+            }
+        }
+    },
+    "00035FD1": {
+        "EditorID": "MarauderFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Grunt",
+                "Female": "Grunt"
+            },
+            "1": {
+                "Male": "Boss",
+                "Female": "Boss"
+            }
+        }
+    },
+    "0003E9A6": {
+        "EditorID": "DremoraFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Churl",
+                "Female": "Churl"
+            },
+            "1": {
+                "Male": "Caitiff",
+                "Female": "Caitiff"
+            },
+            "2": {
+                "Male": "Kynval",
+                "Female": "Kynval"
+            },
+            "3": {
+                "Male": "Kynreeve",
+                "Female": "Kynreeve"
+            },
+            "4": {
+                "Male": "Kynmarcher",
+                "Female": "Kynmarcher"
+            },
+            "5": {
+                "Male": "Markynaz",
+                "Female": "Markynaz"
+            }
+        }
+    },
+    "000534F1": {
+        "EditorID": "ImperialTradingCo",
+        "Ranks": {
+            "0": {
+                "Male": "Worker",
+                "Female": "Worker"
+            },
+            "1": {
+                "Male": "Boss",
+                "Female": "Boss"
+            }
+        }
+    },
+    "00053792": {
+        "EditorID": "MS09TyrelliusEvilFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Evil Jerk"
+            }
+        }
+    },
+    "000908C0": {
+        "EditorID": "KnightsWhiteStallion",
+        "Ranks": {
+            "0": {
+                "Male": "Knight-Errant",
+                "Female": "Knight-Errant"
+            }
+        }
+    },
+    "00093CC7": {
+        "EditorID": "MothPriests",
+        "Ranks": {
+            "0": {
+                "Male": "Priest",
+                "Female": "Priest"
+            }
+        }
+    },
+    "000980DD": {
+        "EditorID": "OrderoftheVirtuousBlood",
+        "Ranks": {
+            "0": {
+                "Male": "Brother",
+                "Female": "Sister"
+            }
+        }
+    },
+    "0006653B": {
+        "EditorID": "DontonFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Loving Son"
+            },
+            "1": {
+                "Female": "Big Mama"
+            }
+        }
+    },
+    "00068456": {
+        "EditorID": "ChestnutHandy",
+        "Ranks": {
+            "0": {
+                "Male": "Stable Hand",
+                "Female": "Stanble Hand"
+            },
+            "1": {
+                "Male": "Owner",
+                "Female": "Owner"
+            }
+        }
+    },
+    "000732B8": {
+        "EditorID": "EverscampFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Scamp Friend",
+                "Female": "Scamp Friend"
+            }
+        }
+    },
+    "0007C3AB": {
+        "EditorID": "MS12Deadite",
+        "Ranks": {
+            "0": {
+                "Male": "Deadite"
+            }
+        }
+    },
+    "0008FD00": {
+        "EditorID": "MS13OblivionFriendsFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Pal"
+            }
+        }
+    },
+    "000947B9": {
+        "EditorID": "SeridurHouseFaction",
+        "Ranks": {
+            "0": {
+                "Male": "House Mate"
+            }
+        }
+    },
+    "000ADD4B": {
+        "EditorID": "MQEndFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Champion of Cyrodiil",
+                "Female": "Champion of Cyrodiil"
+            }
+        }
+    },
+    "000C48A1": {
+        "EditorID": "MG16FortOntusMageFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Mage",
+                "Female": "Mage"
+            }
+        }
+    },
+    "000C5C47": {
+        "EditorID": "LythandasFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Family Member"
+            }
+        }
+    },
+    "000CD329": {
+        "EditorID": "MS08KurdanFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Class-A Jerk"
+            }
+        }
+    },
+    "000051AD": {
+        "EditorID": "SeridurEvilFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Evilicus"
+            }
+        }
+    },
+    "0000A2FE": {
+        "EditorID": "GoganandMaelonaFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Family Member"
+            }
+        }
+    },
+    "0000CF5A": {
+        "EditorID": "HenantierFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Henantier"
+            }
+        }
+    },
+    "00012090": {
+        "EditorID": "SEDarkSeducerFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Kiskengo",
+                "Female": "Kiskengo"
+            },
+            "1": {
+                "Male": "Kiskella",
+                "Female": "Kiskella"
+            },
+            "2": {
+                "Male": "Kiskedrig",
+                "Female": "Kiskedrig"
+            },
+            "3": {
+                "Male": "Grakendo",
+                "Female": "Grakendo"
+            },
+            "4": {
+                "Male": "Grakella",
+                "Female": "Grakella"
+            },
+            "5": {
+                "Male": "Grakedrig",
+                "Female": "Grakedrig"
+            },
+            "6": {
+                "Male": "Autkendo",
+                "Female": "Autkendo"
+            }
+        }
+    },
+    "00012091": {
+        "EditorID": "SEGoldenSaintFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Auren",
+                "Female": "Auren"
+            },
+            "1": {
+                "Male": "Auredel",
+                "Female": "Auredel"
+            },
+            "2": {
+                "Male": "Aurmok",
+                "Female": "Aurmok"
+            },
+            "3": {
+                "Male": "Aurmokel",
+                "Female": "Aurmokel"
+            },
+            "4": {
+                "Male": "Aurig",
+                "Female": "Aurig"
+            },
+            "5": {
+                "Male": "Malaurig",
+                "Female": "Malaurig"
+            },
+            "6": {
+                "Male": "Pelaurig",
+                "Female": "Pelaurig"
+            }
+        }
+    },
+    "000120D8": {
+        "EditorID": "SE32VitharnFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Citizen"
+            },
+            "1": {
+                "Male": "Count"
+            }
+        }
+    },
+    "000120F0": {
+        "EditorID": "SE06GoldenSaintFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Auren",
+                "Female": "Auren"
+            },
+            "1": {
+                "Male": "Auredel",
+                "Female": "Auredel"
+            },
+            "2": {
+                "Male": "Aurmok",
+                "Female": "Aurmok"
+            },
+            "3": {
+                "Male": "Aurmokel",
+                "Female": "Aurmokel"
+            },
+            "4": {
+                "Male": "Aurig",
+                "Female": "Aurig"
+            },
+            "5": {
+                "Male": "Malaurig",
+                "Female": "Malaurig"
+            },
+            "6": {
+                "Male": "Pelaurig",
+                "Female": "Pelaurig"
+            }
+        }
+    },
+    "000120F1": {
+        "EditorID": "SE06DarkSeducerFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Kiskengo",
+                "Female": "Kiskengo"
+            },
+            "1": {
+                "Male": "Kiskella",
+                "Female": "Kiskella"
+            },
+            "2": {
+                "Male": "Kiskedrig",
+                "Female": "Kiskedrig"
+            },
+            "3": {
+                "Male": "Grakendo",
+                "Female": "Grakendo"
+            },
+            "4": {
+                "Male": "Grakella",
+                "Female": "Grakella"
+            },
+            "5": {
+                "Male": "Grakedrig",
+                "Female": "Grakedrig"
+            },
+            "6": {
+                "Male": "Autkendo",
+                "Female": "Autkendo"
+            }
+        }
+    },
+    "0001723D": {
+        "EditorID": "SE07ASylFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Blah",
+                "Female": "Blahette"
+            }
+        }
+    },
+    "0004117B": {
+        "EditorID": "SEZealot",
+        "Ranks": {
+            "0": {
+                "Male": "Zealot"
+            },
+            "1": {
+                "Male": "Zealot Boss"
+            }
+        }
+    },
+    "0004117C": {
+        "EditorID": "SEHeretic",
+        "Ranks": {
+            "0": {
+                "Male": "Heretic"
+            },
+            "1": {
+                "Male": "Heretic Boss"
+            }
+        }
+    },
+    "000432B7": {
+        "EditorID": "SE03XedilianFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Xedilian Caretaker"
+            }
+        }
+    },
+    "00056036": {
+        "EditorID": "SE07ManiaHouseFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Member",
+                "Female": "Memberette"
+            }
+        }
+    },
+    "00067713": {
+        "EditorID": "SE03Adventurers",
+        "Ranks": {
+            "0": {
+                "Male": "Blah",
+                "Female": "Blah"
+            }
+        }
+    },
+    "0006A7FC": {
+        "EditorID": "SECourtofMadnessFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Tourist",
+                "Female": "Tourist"
+            },
+            "1": {
+                "Male": "Aspirant",
+                "Female": "Aspirant"
+            },
+            "2": {
+                "Male": "Citizen",
+                "Female": "Citizen"
+            },
+            "3": {
+                "Male": "Madman",
+                "Female": "Madwoman"
+            },
+            "4": {
+                "Male": "Honored Madman",
+                "Female": "Honored Madwoman"
+            },
+            "5": {
+                "Male": "Duke of Dementia",
+                "Female": "Duchess of Dementia"
+            },
+            "6": {
+                "Male": "Duke of Mania",
+                "Female": "Duchess of Mania"
+            },
+            "7": {
+                "Male": "Regent",
+                "Female": "Regent"
+            },
+            "8": {
+                "Male": "Defender of the Realm",
+                "Female": "Defender of the Realm"
+            },
+            "9": {
+                "Male": "Madgod",
+                "Female": "Madgod"
+            }
+        }
+    },
+    "0007B3A5": {
+        "EditorID": "SE07GreenmoteSiloFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Siloite",
+                "Female": "Siloite"
+            }
+        }
+    },
+    "0007E0CB": {
+        "EditorID": "SE07DementiaHouseFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Member",
+                "Female": "Memberette"
+            }
+        }
+    },
+    "00080795": {
+        "EditorID": "SEGuards",
+        "Ranks": {
+            "0": {
+                "Male": "Guard",
+                "Female": "Guard"
+            }
+        }
+    },
+    "00080D18": {
+        "EditorID": "SERooftopClubFaction",
+        "Ranks": {
+            "0": {
+                "Male": "Fighter",
+                "Female": "Fighter"
+            }
+        }
+    }
+}

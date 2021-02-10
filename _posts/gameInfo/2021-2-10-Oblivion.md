@@ -9,6 +9,8 @@ title: Oblivion Info Dumps
 * TOC
 {:toc}
 
+
+
 ## Chair Finder Breakdown
 If you want an explanation of why this was "necessary", scroll down to [the end result](/Oblivion/#chair-searcher)
 
@@ -96,7 +98,7 @@ On the first run:
 ```py
 ;# Y minimum: -40, Y maximum: 44
 ;# X minimum: -53, X maximum: 54
-set xMin to 10 ;# Minimum X cell
+set xMin to -53 ;# Minimum X cell
 set xMax to 54  ;# Maximum X cell
 set yMin to -40 ;# Minimum Y cell
 set yMax to 44  ;# Maximum Y cell
@@ -162,7 +164,8 @@ Minimum X: <input type="number" id="minX" name="minX"> Maximum X: <input type="n
 Minimum Y: <input type="number" id="minY" name="minY"> Maximum Y: <input type="number" id="maxY" name="maxY"><br>
 Minimum Z: <input type="number" id="minZ" name="minZ"> Maximum Z: <input type="number" id="maxZ" name="maxZ"><br>
 <br>
-<button style="width: 100px;text-align: center;left: 25%;position: relative;" onclick="furnitureSearch()" id="submit" name="submit">Submit</button>
+<button style="width: 100px;text-align: center;left: 15%;position: relative;" onclick="furnitureSearch()" id="submit" name="submit">Submit</button>
+<button style="width: 100px;text-align: center;left: 20%;position: relative;" onclick="clearSearch()" id="submit" name="submit">Clear</button>
 </div>
 
 Results:
@@ -171,4 +174,100 @@ Results:
 	</ul>
 </div>
 
+<br>
+
+<hr>
 {% endraw %}
+
+
+## Other JSON Data
+Using the editor, you'll be able to export a ton of data that's (somewhat vaguely) useful.
+There's [descriptions.json](/assets/downloads/oblivion/descriptions.json) which has data about descriptions of objects.
+Most of the names are fairly self-explanatory compared to the button which does the extracting in the editor, i.e. `descriptions.json` comes from `File -> Export -> Descriptions`
+Some of these JSON files have been modified a bit for a bit more useful information / reducing requests if you actually care to use this.
+
+[factions.json](/assets/downloads/oblivion/factions.json) stores information about the factions, more specifically all of the faction's Rank names for example:
+```json
+"000CD329": {
+    "EditorID": "MS08KurdanFaction",
+    "Ranks": {
+        "0": {
+            "Male": "Class-A Jerk"
+        }
+    }
+}
+```
+
+There's [names.json](/assets/downloads/oblivion/names.json) which has objects storing other game object's EditorID (described as `Name`) and the displayed string (described as `Value`):
+```json
+"ARMO": {
+	"00000C09": {
+		"Name": "BladesHelmet",
+		"Value": "Blades Helmet"
+	},
+	"00080EDE": {
+		"Name": "SETESTGoldenSaintOfficerHelmet",
+		"Value": "Golden Saint Helmet"
+    }
+}
+```
+This is sorted by the type of the object like types:
+
+```py 
+NPC_ # NPCs
+MAPM # Map Titles / Fast Travels
+MISC # Miscellaneous
+CONT # Content
+CLOT # Clothes
+DOOR # Doors
+EYES # Eyes
+DIAL # Dialog
+CELL # Cells
+SPEL # Spells
+SLGM # Soul Gems
+INGR # Ingredients
+FLOR # Flora
+ACTI # Activations
+KEYM # Keys
+BOOK # Books
+WEAP # Weapons
+FACT # Facts
+CLAS # Classes
+ALCH # Alchemy
+QUST # Quests
+MGEF # Magic
+RACE # Races
+Script Effect # Script Effects
+CREA # Creatures
+ARMO # Armor
+APPA # Apparatus
+WRLD # World
+FURN # Furniture
+AMMO # Ammo
+SGST # Sigil Stones 
+REGN # Regions
+HAIR # Hair
+LIGH # Lights
+BSGN # Birthsigns
+```
+
+
+
+[quests.json](/assets/downloads/oblivion/quests.json) has more information about quests, some of this data pulls from `descriptions.json`, but you won't need to request that JSON file either as well as `names.json`.
+
+It contains data about the stages of quests (and the quest names + IDs):
+```json
+"00023DD6": {
+    "Name": "Welcome to the Family",
+    "ID": "Dark01KnifeFIN",
+    "Stages": {
+        "10": [
+            "I must accept a contract from Vicente Valtieri."
+        ],
+        "100": [
+            "I have accepted a contract from Vicente Valtieri."
+        ]
+    }
+}
+```
+The `Stage[StageNumber]` is an array because certain stages can have multiple Log entries, the index in the array is the log entry index.
