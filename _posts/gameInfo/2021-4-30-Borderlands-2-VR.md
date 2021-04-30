@@ -16,7 +16,7 @@ But it's even less technically complicated than BL2 in terms of edits necessary.
 In order to apply the hex edits:
 - You want to open your `Binaries/Win64/Borderlands2VR.exe` in a hex editor (I'm a big fan of [hexed.it](https://hexed.it/))
 - Search for `say` (Match Case) as UTF-16 text.
-    * Replace the letters "say" with spaces, for example it should be `0x20 0x00 0x61 0x00 0x79 0x00`.
+    * Replace the letters "say" with spaces, for example it should be `0x20 0x00 0x20 0x00 0x20 0x00`.
 
 This is all you need to do!
 For some reason in BL2/TPS, there's an extra hex edit needed to enable the `set` command, but in BL2VR you don't need to do that!
