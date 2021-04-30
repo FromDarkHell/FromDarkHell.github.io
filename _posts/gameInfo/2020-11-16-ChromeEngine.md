@@ -102,6 +102,15 @@ Repeat until EOF:
 		- markerPosition: Vector (figure this one out on your own for now)
 ```
 
+#### Modification
+This game's JVM runs under Java version "1.4.2_10":
+```
+java version "1.4.2_10"
+Java(TM) 2 Runtime Environment, Standard Edition (build 1.4.2_10-b03)
+Java HotSpot(TM) Client VM (build 1.4.2_10-b03, mixed mode)
+```
+As output from `[GAME ROOT]/jre/bin/java.exe -version`
+
 ## Later Chrome Engine
 
 ### Call of Juarez: Gunslinger
