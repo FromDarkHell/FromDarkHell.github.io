@@ -8,7 +8,6 @@ redirect_from: "/bl2"
 * TOC
 {:toc}
 
-
 ## Modding
 So, as BL2VR is still in UE3, the same modding techniques that apply for BL2/TPS also apply to BL2VR.
 There's a few differences as BL2VR was compiled in 64bit and (I think) is on a newer engine version.
@@ -26,4 +25,63 @@ You'll want to enable your console (it's really horrible to type in in VR btw):
 * Open `WillowInput.ini` in Notepand or whatever you use
 * Search for `ConsoleKey=` and make it `ConsoleKey=Tilde`/`ConsoleKey=F6` (all keys pretty much work)
 
-From here, you can install files into `Binaries` and make sure to enable your console.
+From here, you can install txt mod files into `Binaries` and make sure to enable your console.
+
+### UnrealScript
+If you've ever written SDK mods for BL2/TPS or tinkered into UE3 games, you'll know that UE3 uses UnrealScript as a scripting language.
+For some reason in BL2VR (I presume it's something weird with porting), almost all UnrealScript classes/functions that were available in BL2 have since been switched to using UE3's `dllbind(...)` <sup>[?](https://docs.unrealengine.com/udk/Three/DLLBind.html)</sup>
+
+With the addition of VR / BAMF Mode, GBX had to add a few different extra classes:
+(Ones with `Engine` weren't added by GBX explictly but by their engine upgrade)
+```
+Class WillowGame.WillowSkelControl_CacheAnimationTransforms
+Class WillowGame.WillowSeqAct_SetOffHandEchoMeshVisibility
+Class WillowGame.WillowSeqAct_SpawnMenuPawn
+Class WillowGame.WillowScrollingListDataProviderVROptions
+Class WillowGame.WillowScrollingListDataProviderCrossSaves
+Class WillowGame.WillowPlayerMenuPawn
+Class WillowGame.WillowAIDefinitionBase
+Class WillowGame.VirtualKeyboardGFxMovie
+Class WillowGame.UILayoutDefinition
+Class WillowGame.UISectionManager
+Class WillowGame.TeleportStandIn
+Class WillowGame.TeleportDefinition
+Class WillowGame.SpawnableSceneCapture2DActor
+Class WillowGame.SlomoDefinition
+Class WillowGame.ScopeDefinition
+Class WillowGame.ReticleDefinition
+Class WillowGame.Protea_3DReticle
+Class WillowGame.ProteaSeqCond_IsDirectMovement
+Class WillowGame.ProteaSeqCond_SwitchVRPlatform
+Class WillowGame.ProteaVehicleDefinition
+Class WillowGame.PlayerBehavior_ToggleMeleeWeaponDetachTimer
+Class WillowGame.DirectMovementDefinition
+Class WillowGame.DashDefinition
+Class WillowGame.CustomizationStandIn
+Class WillowGame.Behavior_ToggleWandMelee
+Class WillowGame.Behavior_ToggleWandMeleeVRAnim
+Class WillowGame.Behavior_SetVRMeleeDefinition
+Class WillowGame.Behavior_SetDynamiteBlendState
+Class WillowGame.Behavior_RestoreSlomo
+Class WillowGame.Behavior_IsUsingMotionController
+Class WillowGame.Behavior_ForceLowViewDistance
+Class WillowGame.Behavior_GetVRHandInfo
+Class WillowGame.Behavior_GetVRReticleInfo
+Class WillowGame.Behavior_AddSlomoBonus
+
+Class Engine.StereoLayerComponent
+Class Engine.SeqAct_SetSplashScreen
+Class Engine.SeqAct_ShowSplashScreen
+Class Engine.SeqAct_EnableAutoLoadingSplashScreen
+Class Engine.SeqAct_HideSplashScreen
+Class Engine.SeqAct_ModifyActorsToReflect
+Class Engine.SeqAct_DisableAutoLoadingSplashScreen
+Class Engine.SceneCaptureReflectVolume
+Class Engine.OnlineEventTracker
+Class Engine.OnlineGameDVRInterface
+Class Engine.OnlineMarketplaceInterface
+Class Engine.OnlineSaveInterface
+Class Engine.AimControllerComponent
+Class Engine.MotionControllerComponent
+Class Engine.MultitouchGestureProcessor
+```
