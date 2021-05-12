@@ -9,7 +9,31 @@ title: Oblivion Info Dumps
 * TOC
 {:toc}
 
+## No CD Patch
+The original 1.0 version checks to see if a CD ROM is installeed as well as if you have an Oblivion CD inserted.
 
+### CD Rom Patch
+```masm
+call dword ptr ds:[<&CopyFileA>]
+call oblivion.404AC0
+test al, al
+jne oblivion.40DF73 
+```
+The `jne` instruction at the end is replaced with a regular jmp instruction, to avoid the CD ROM check.
+The unpatched signature with for the CD ROM check is: `FF 15 ?? ?? ?? ?? E8 ?? ?? ?? ?? 84 C0 0F 85`
+
+### CD Patch
+```masm
+call dword ptr ds:[<&MessageBoxA>]
+jmp oblivion.40F1E4
+mov al, byte ptr ds:[AD5170]
+test al, al
+jne oblivion.40E035
+```
+Much like the CD ROM patch, the `jne` instruction gets replaced with a `jmp` to avoid the CD verification.
+The unpatched CD Check signature is `FF 15 ?? ?? ?? ?? E9 ?? ?? ?? ?? A0 ?? ?? ?? ?? 84 C0 0F 85`.
+
+For my Oblivion Downpatcher, you can see the source code on [Github](https://github.com/FromDarkHell/OblivionDownpatcher/blob/main/OblivionDownpatcher/NoCD/NoCDPatcher.cs)
 
 ## Chair Finder Breakdown
 If you want an explanation of why this was "necessary", scroll down to [the end result](/Oblivion/#chair-searcher)
