@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Borderlands 2 VR Game Info
-redirect_from: "/bl2"
+redirect_from:
+  - /bl2
 ---
 
 **Contents**
