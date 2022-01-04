@@ -10,7 +10,7 @@ I like to write about that chronic insanity of mine so that way other people can
 
 
 ## Game Dumps
-{% assign posts = site.posts | where:"gameInfo", "true" %}
+{% assign posts = site.posts | where: "gameInfo", "true" | sort: 'date' | reverse %}
 
 {% for post in posts %}
 *   [{{ post.title }}]({{ site.baseurl }}{{ post.url }})

@@ -8,6 +8,7 @@ redirect_from:
 ## Not Me
 If you're reading this and you don't actually care to know about me, you're probably looking for the other sections of this site.
 I've got tons of games that I've reverse engineered in some capacity over -----> [Here](/gameinfo)
+There's also a customizable interval timer that I've made for a game (*cough* Runescape *cough*) -----> [Here](/interval)
 
 ## Me
 
