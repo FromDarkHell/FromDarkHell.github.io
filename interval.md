@@ -12,7 +12,6 @@ redirect_from:
 </style>
 
 <div style="text-align: center">
-
     <div>
         <label id="frequencyLabel" for="frequency">Frequency: </label>
         <br>
@@ -28,16 +27,28 @@ redirect_from:
     <div>
         <label id="durationLabel" for="duration">Duration: </label>
         <br>
-        <input id="durationSlider" name="duration" style="width: 25%;" type="range" min="0" max="5" step="0.1"
+        <input id="durationSlider" name="duration" style="width: 25%;" type="range" min="0.1" max="5" step="0.1"
             oninput="updateValue(this)" onchange="updateValue(this)">
     </div>
+    <div>
+        <label id="typeLabel" for="type">Type: </label>
+        <select id="typeSelect" name="type" style="width: 20%;" oninput="updateValue(this)"
+            onchange="updateValue(this)">
+            <option value="sine">Sine</option>
+            <option value="square">Square</option>
+            <option value="sawtooth">Sawtooth</option>
+            <option value="triangle">Triangle</option>
+        </select>
+    </div>
+
+    <br>
     <button style="width: 25%;" onclick="testSound()">Test Sound</button>
     <br><br>
 
     <div>
         <label id="intervalLabel" for="interval">Interval: </label>
         <br>
-        <input id="intervalSlider" name="interval" style="width: 25%;" type="range" min="0" max="360" step="1"
+        <input id="intervalSlider" name="interval" style="width: 25%;" type="range" min="1" max="360" step="1"
             oninput="updateValue(this)" onchange="updateValue(this)">
     </div>
 
@@ -52,21 +63,32 @@ redirect_from:
     let oscillator = null;
     let gainNode = null;
     let initialized = false;
+    let playing = false;
 
-    function updateValue(slider) {
-        labelName = slider.name + "Label";
+    function updateValue(inputItem) {
+        init();
+
+        labelName = inputItem.name + "Label";
         label = document.getElementById(labelName)
         endCap = ""
-        replValue = slider.value
-        if (slider.name === "duration" || slider.name === "interval") endCap = "s"
-        else if (slider.name === "volume") {
+        replValue = inputItem.value
+
+        if (inputItem.name === "duration" || inputItem.name === "interval") endCap = "s"
+        else if (inputItem.name === "frequency") {
+            oscillator.frequency.setValueAtTime(inputItem.value, context.currentTime)
+            endCap = "Hz"
+        }
+        else if (inputItem.name === "volume") {
             endCap = "%"
             replValue = parseFloat((replValue * 2 * 100).toFixed(1))
+            gainNode.gain.setValueAtTime(inputItem.value, context.currentTime)
+        }
+        else if (inputItem.name === "type") {
+            oscillator.type = inputItem.value;
+            return; // Ignore the funky weird label code for this one since the select object describes it already.
         }
 
         label.innerHTML = label.innerHTML.split(":")[0] + ": " + replValue + endCap;
-
-        init();
     }
 
     inputs = document.getElementsByTagName("input")
@@ -86,34 +108,48 @@ redirect_from:
             gain: document.getElementById("volumeSlider").value
         });
         oscillator = new OscillatorNode(context, {
-            type: "sine",
+            type: document.getElementById("typeSelect").value,
             frequency: document.getElementById("frequencySlider").value
         })
+
+        oscillator.start();
+        oscillator.connect(context.destination);
+        oscillator.disconnect();
+        initialized = true;
     }
 
-    const play = (frequency = 300, duration = 1e3, volume = 50) => {
+    const play = (frequency = 300, duration = 1e3, volume = 50, type = "sine") => {
+        playing = true;
         console.log(`Playing sound with frequency: ${frequency}, duration: ${duration}ms, volume: ${volume}`)
         init();
         oscillator.disconnect();
+        oscillator.type = type;
         oscillator.frequency.value = frequency;
-        oscillator.type = 'sine';
 
-        gainNode.gain = volume;
+        gainNode.gain.setTargetAtTime(volume, context.currentTime, 0.135); // Having to use this is a weird side effect of JS
         oscillator.connect(gainNode).connect(context.destination);
-
-        oscillator.start(0);
 
         // Schedule a fadeout
         setTimeout(() => {
             gainNode.gain.setTargetAtTime(0, context.currentTime, 0.135);
+            playing = false;
         }, duration + 100);
+
+        setTimeout(() => {
+            oscillator.disconnect();
+        }, duration + 750);
     };
 
     function playSound() {
+        // Stop playing the current sound if we're playing a sound right now
+        if (playing) oscillator.disconnect();
+
         ms = (document.getElementById("durationSlider").value) * 1000;
-        volume = document.getElementById("volumeSlider").value / 100;
+        volume = document.getElementById("volumeSlider").value;
         hz = document.getElementById("frequencySlider").value;
-        play(hz, ms, volume)
+        type = document.getElementById("typeSelect").value;
+
+        play(hz, ms, volume, type)
     }
 
     function testSound() {
