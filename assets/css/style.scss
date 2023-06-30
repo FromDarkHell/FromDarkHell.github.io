@@ -1,8 +1,14 @@
----
----
-
 @import 'jekyll-theme-hacker';
 
-#sorttable_sortfwdind, #sorttable_sortrevind {
+#sorttable_sortfwdind,
+#sorttable_sortrevind {
 	color: #b5e853;
+}
+
+td {
+	border-bottom: 1px dashed #b4e8535e;
+}
+
+.highlight table td {
+	border-bottom: 0px !important;
 }
