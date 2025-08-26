@@ -8,7 +8,6 @@ name: FromDarkHell's Screaming
 title: fdh
 
 show_downloads: true
-theme: jekyll-theme-hacker
 
 # Short bio or description (displayed in the header)
 description: How about those video games am I rite
@@ -23,10 +22,7 @@ plugins:
   - jekyll-target-blank
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-tailwind
-
-#
-# Flags below are optional
-#
+  - jekyll-seo-tag
 
 # Includes an icon in the footer for each username you enter
 footer-links:
