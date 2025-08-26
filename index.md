@@ -45,7 +45,7 @@ I've spent years digging into the inner workings of games. I've built various ut
 - [The Darkness](/Darkness)
 	* Fully decompiled / exported Lua scripting code, used for scripting all of the quests/animations/etc
 
-[See Others](/gameInfo){:target="_blank" class="brand-link"}
+[See Others](/gameinfo/){:target="_blank" class="brand-link"}
 
 ## Connect
 
