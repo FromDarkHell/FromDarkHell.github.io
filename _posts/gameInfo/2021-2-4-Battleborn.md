@@ -22,7 +22,7 @@ But either way, for Battleborn, it follows the same setup and format as Borderla
 Rather than implement it myself, I just used [Gibbed](https://github.com/gibbed)'s `SparkTMSUnpack` program over on [Github](https://github.com/gibbed/Gibbed.Borderlands2/blob/master/projects/Gibbed.Borderlands2.SparkTmsUnpack/Program.cs).
 For fun (and cause why not), I made a dead simple Python script to quickly re-unpack the TMS file from a python script to avoid having to continue to redownload it if you want to check in on it for some reason
 
-```py
+```python
 import requests
 import os
 import subprocess

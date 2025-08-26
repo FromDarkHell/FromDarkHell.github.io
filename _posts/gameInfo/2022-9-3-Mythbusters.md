@@ -209,7 +209,7 @@ This also includes their internal IDs (because why not) as well as their width/h
 For this myth, you can choose to place ballasts on either the left or right side of a chair. In addition to placing balloons on the top in order to gain lift.
 Most of the classes for this are just named `Balloon[___]`. One of the main classes is the `BalloonExperimentService`. 
 This `BalloonExperimentService` class has a `ChangeBalloonState` which will adjust whether or not the balloon-ified chair goes up/down.
-```cs
+```csharp
 	/* 
 		Function: BalloonExperimentService.ChangeBalloonState 
 		Comments added by me <3

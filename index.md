@@ -5,32 +5,53 @@ redirect_from:
   - /about/
 ---
 
-## Not Me
-If you're reading this and you don't actually care to know about me, you're probably looking for the other sections of this site.
-I've got tons of games that I've reverse engineered in some capacity over -----> [Here](/gameinfo)
-There's also a customizable interval timer that I've made for a game (*cough* Runescape *cough*) -----> [Here](/interval)
+## About Me
 
-## Me
+I’m Joe (Thomas), a freelance software developer specializing in desktop and app development. I work with a wide variety of programming languages and frameworks, with a focus on C#, Python, Java, and C++. Additionally, I have done a lot of work using various other languages like, Flutter/Dart, Javascript, HTML/CSS.
 
-If you do actually want to know about me (Joe/Thomas), I mainly do desktop/app development and general scripting, especially C# and Python
+Outside of client work, I spend a lot of time reverse-engineering video games, and building tools, mods, and utilities that enhance gameplay experiences.
 
-* Technical Skills
-	- C# <sup>[1](https://github.com/FromDarkHell/BL3ProfileEditor) [2](https://github.com/FromDarkHell/BorderlandsDiscordRP) [3](https://github.com/FromDarkHell/OblivionDownpatcher) [4](https://github.com/FromDarkHell/DownpatcherSharp) [5](https://github.com/FromDarkHell/PS3TRPViewer)</sup>
-	- Python <sup>[1](https://github.com/FromDarkHell/BL3NotesReader) [2](https://github.com/FromDarkHell/bl-sdk-mods) [3](https://github.com/FromDarkHell/PaydayRoulette) [4](https://github.com/FromDarkHell/BL3ShiftRedeemer) [5](https://github.com/bl-sdk/bl-sdk.github.io/blob/main/scripts/GenerateModDocs.py)</sup>
-	- Java <sup>[1](https://www.youtube.com/watch?v=VkRgUqru3oU)</sup>
-	- C++ <sup>[1](https://github.com/FromDarkHell/BL3DX11Injection)</sup>
-	- JavaScript <sup>[1](https://github.com/FromDarkHell/BL3NotesReader) [2](/Simulstream)</sup>
-	- HTML & CSS <sup>[1](https://github.com/FromDarkHell/OBSBrowserSourceLayout) [2](https://github.com/FromDarkHell/BL3NotesReader) [3](/Simulstream)</sup>
-	- Git <sup style="color: gray">See Above</sup>
-* Creative Skills
-	- Adobe Photoshop
-	- Adobe Premiere Pro
-	- Adobe Illustrator
-	- Blender
-	- FL Studio
+## What I Do
 
-**Social Media**:
-* [Twitch](https://www.twitch.tv/fromdarkhell)  
-* [Twitter](https://twitter.com/FromDarkHell)  
-* Discord: `FromDarkHell#8008`
-	- [My Discord Server](https://discord.gg/S8FMqhc)  	
+### Freelance Development
+
+I offer custom software solutions, scripting, and application development. No matter if you need automation tools, game utilities, desktop apps, or API integrations, I can be the solution!
+
+
+[Hire Me](https://www.upwork.com/freelancers/~01e3ea59629eed8250){:target="_blank" class="brand-link"}
+
+### Repairs + Refurbishes
+In addition to my freelance development, I also run a small store where you can:
+- Purchase refurbished tech and hardware
+- Send in your own devices for *repairs* **or** *restoration*
+- Browse exclusive tools/utilities that I've developed.
+
+[View Store](https://store.fdh.one){:target="_blank" class="brand-link"}
+
+
+### Reverse Engineering
+
+I've spent years digging into the inner workings of games. I've built various utilities, and created custom mods. For example:
+- Borderlands
+	* [Borderlands Community Mod Manager](https://www.youtube.com/watch?v=VkRgUqru3oU) - Co-Developer
+		- BLCMM is a Java-based tool used for managing `.txt` based text file mods which can be combined, merged. BLCMM additionally has 
+	* [Borderlands 3 Hotfix Merger](https://www.youtube.com/watch?v=KYgUzKomXrk) - Co-Developer
+- [The Elder Scrolls IV Oblivion](/Oblivion)
+	* A reverse engineered [No CD Patch](/Oblivion#no-cd-patch) used to fix compatability issues
+	* JSON Database of most\* objects
+- [Zoombinis](/Zoombinis)
+	* A reverse-engineered implementation of the proprietary SimpleJSON save-data format
+	* A basic hooking library used for running arbitrary code
+- [The Darkness](/Darkness)
+	* Fully decompiled / exported Lua scripting code, used for scripting all of the quests/animations/etc
+
+[See Others](/gameInfo){:target="_blank" class="brand-link"}
+
+## Connect
+
+Stay updated with my work, projects, and various behind-the-scenes content:
+- [Twitch](https://twitch.tv/FromDarkHell)
+- [Bluesky](https://bsky.app/profile/fdh.one)
+- [Twitter](https://twitter.com/FromDarkHell)
+- [Youtube](https://www.youtube.com/@fromdarkhell7039)
+- [Discord](https://discord.gg/S8FMqhc)

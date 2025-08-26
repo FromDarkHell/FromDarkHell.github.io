@@ -23,7 +23,7 @@ The calculations follow this pattern:
 Objectives are calculated a bit more indepth.
 For each scene (level), it stores a counter of the "important" objectives (objectives which are shown on the mission report). Then this counter of important objectives (`num2`) is compared to the amount of important objectives that you actually completed (`num3`).
 The math is then as follows:
-```cs
+```csharp
 float num4 = (float)(num3 / num2);
 score -= 40f * (1f - num4);
 ```
@@ -70,7 +70,7 @@ Collectibles are saved as a dictionary storing two different lists of data like 
 }
 ```
 Both collectible types are just enums and the respective values are like so:
-```cs
+```csharp
 /* HiddenCollectible.cs */
 public enum HiddenCollectible
 {

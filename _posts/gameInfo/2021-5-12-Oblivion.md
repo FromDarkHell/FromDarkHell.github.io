@@ -3,7 +3,7 @@ layout: post
 title: Oblivion Info Dumps
 ---
 
-<script type="text/javascript" src="/assets/downloads/oblivion/oblivion.js"></script>
+<script type="text/javascript" src="/assets/js/pages/oblivion.js"></script>
 
 **Contents**
 * TOC
@@ -13,7 +13,7 @@ title: Oblivion Info Dumps
 The original 1.0 version checks to see if a CD ROM is installeed as well as if you have an Oblivion CD inserted.
 
 ### CD Rom Patch
-```masm
+```x86asm
 call dword ptr ds:[<&CopyFileA>]
 call oblivion.404AC0
 test al, al
@@ -23,7 +23,7 @@ The `jne` instruction at the end is replaced with a regular jmp instruction, to 
 The unpatched signature with for the CD ROM check is: `FF 15 ?? ?? ?? ?? E8 ?? ?? ?? ?? 84 C0 0F 85`
 
 ### CD Patch
-```masm
+```x86asm
 call dword ptr ds:[<&MessageBoxA>]
 jmp oblivion.40F1E4
 mov al, byte ptr ds:[AD5170]
@@ -47,13 +47,15 @@ This'll save on processing power as well as make it less of a pain in the ass.
 Rather than doing the costly (and more annoying and longer) approach of slowly going cell by cell in the exterior, `Tamriel (0,0)` all the way to `Tamriel (40,40)`.
 Instead I did the world's worst looking solution (but easier to write and honestly horrible to do in any situation).
 Create an array filled with direct object references to each of the cells for example:
-```
+
+```plaintext
 Let cellsToPick := ar_List SageGlenHollow,Elenglynn,TestCheydinhalUpper,ChorrolMarkTest,KvatchChapelUndercroft,ICArcaneUniversitySpellmaker,GoblinJimsCave,ICTempleDistrictSeridursHouseUpstairs,ICImperialLegionWatchTowerNECaptainsQuarters,HackdirtMoslinsDryGoodsBasement,SENSCaldanaMonirusHouseUpstairs,XPGloomstonePassage02,FelgageldtCave,Nenalata,Testdungeon,Hackdirt,BrumaJGhastasHouse,ICWaterfrontKvinchalsShack,AnvilHorseWhisperer,ICMarketDistrictEdgarsDiscountSpellsBasement
 ```
 One of the problems with this approach is that lines will end up being >512 characters long, which for some god-awful reason, the compiler will not accept.
 For some other asinine reason, the `ar_Append` function doesn't work.
 So instead you need to create a separate list and then use the `ar_InsertRange` function like so:
-```
+
+```plaintext
 ; Create an array filled with more references
 Let c2 := ar_List SilverToothCave02,TestMegan04,SEVitharnBailey,ICImperialLegionHQTheBastionTower,OblivionMqKvatchSmallTower03,Wendir02,ArkvedsTower05,OblivionRDCavesMiddleA05,BramblePointCave03,ChorrolCastleWallTowerSW,BrumaMagesGuildBasement,SEPasswallJayredsTent,SENSThingsFoundUpstairs,XPXeddefen03spire,ICImperialLegionWatchTowerN,Wenyandawik,SENSGreenmoteSilo,XPMilchar02a,ICTempleDistrictJmhadsHouse,LeyawiinFiveClawsLodge
 			
@@ -65,7 +67,7 @@ I've yet to mention this but because the scripting language is horrible and shou
 ### Finding The Chairs
 Now that you've got a list of all of the cells to iterate over, you get to actually load into them and find furniture.
 `for` loops look something like:
-```py
+```plaintext
 let i := -1
 [...]
 
@@ -76,7 +78,7 @@ While (i += 1) < n
 ```
 Because the previous array filling code is awful, I make sure to check if the `currentCell` variable is == `0` because any given index defaults to `0`.
 Then you can call [PositionCell](https://cs.elderscrolls.com/index.php?title=PositionCell) with the given cell reference like:
-```py
+```plaintext
 PrintToConsole "Moving to cell: %n", currentCell
 player.PositionCell 0,0,0,0 currentCell
 ;# Wait until we're in a new cell ??
@@ -89,7 +91,7 @@ Then you can check through the surrounding area for furniture.
 For this I was able to use some 'guides' from people over on the [Nexus Forums](https://forums.nexusmods.com/index.php?/topic/7899068-export-the-coordinates-of-all-objects-in-a-cell/). It fairly well explained it + links to docs
 
 My furniture scanning code looks like:
-```py
+```plaintext
 ;# Now we check the surrounding area for furniture...
 ;# 32: Furniture, 2 = Search Size, 1 = Include Inactive
 set pChair to GetFirstRef 32 4 1
@@ -119,7 +121,7 @@ Each Oblivion cell is 4096x4096 Oblivion units large.
 For this I basically used the same approach of the quest stage from before, accept applying it to `GetStage FDHListChairs == 2`.
 I start the loop of by searching for chairs because its gotta be coded a bit differently for the exterior searching.
 On the first run:
-```py
+```plaintext
 ;# Y minimum: -40, Y maximum: 44
 ;# X minimum: -53, X maximum: 54
 set xMin to -53 ;# Minimum X cell
@@ -137,7 +139,7 @@ If you're wondering where I pulled these numbers from, I found a random map givi
 The map obviously isn't a square so I ended up checking a lot more distance than I actually needed to but it probably would've taken the same amount of time to code in a proper searching function :P
 The next step is teleporting the player:
 
-```py
+```plaintext
 ;# Each oblivion cell is 4096 oblivion units large
 set x to (xCell * 4096)
 set y to (yCell * 4096)
@@ -146,7 +148,7 @@ player.PositionWorld x y 0 0 Tamriel
 ```
 The `%.0f` format string prints a float out with 0 decimal places btw
 The next bit establishes the looping nature:
-```py
+```plaintext
 if(xCell < xMax)
 	set xCell to xCell + 1
 endif
@@ -237,7 +239,7 @@ There's [names.json](/assets/downloads/oblivion/names.json) which has objects st
 ```
 This is sorted by the type of the object like types:
 
-```py 
+```plaintext
 NPC_ # NPCs
 MAPM # Map Titles / Fast Travels
 MISC # Miscellaneous

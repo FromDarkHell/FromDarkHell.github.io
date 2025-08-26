@@ -16,12 +16,13 @@ description: How about those video games am I rite
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/9018764?s=400&u=fc458ef7c96ec977cd5cc8d4950744bfac63c8f5&v=4
 
-plugins:  
-    - jekyll-paginate
-    - jekyll-redirect-from
-    - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-    - jekyll-target-blank
-    - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+plugins:
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-target-blank
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-tailwind
 
 #
 # Flags below are optional
@@ -42,7 +43,6 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: channel/UCwBdQkIk9aAsUEk3Lxrf8fQ # channel/<your_long_string> or user/<user-name>
 
-
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus:
@@ -52,7 +52,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.fromdarkhell.github.io
+url: https://fdh.one
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -70,34 +70,34 @@ permalink: /:title/
 version: v1.2.0
 
 # Jekyll 3 now only supports Kramdown for Markdown
+markdown: kramdown
+highlighter: none
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
   hard_wrap: true
 
-  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-  syntax_highlighter: rouge
+  # Disable all of the syntax highlighting
+  highlighter: none
+  syntax_highlighter: none
   syntax_highlighter_opts:
-    # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
-    block:
-      line_numbers: true
-
-
-# Set the Sass partials directory, as we're using @imports
-sass:
-  style: :expanded # You might prefer to minify using :compressed
+    disable: true
 
 whitelist:
   - jekyll-redirect-from
 
 # Exclude these files from your production _site
 exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
   - Gemfile
   - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 defaults:
   - scope:
@@ -108,3 +108,7 @@ defaults:
       path: "_posts/lore-info"
     values:
       loreInfo: "true"
+
+tailwind:
+  input: assets/css/app.css
+  minify: true # defaults to false
