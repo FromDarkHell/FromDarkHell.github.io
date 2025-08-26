@@ -56,7 +56,7 @@ This isn't actually *proper* JSON data, but rather some weird ""custom"" type fo
 Rather than implement it myself, I decided to just export `SimpleJSON` from `Assembly-CSharp-firstpass.dll` to its own VS2019 solution & then import the project into a custom library for Zoombinis called `ZoombiniSharp` (available on [Github](https://www.github.com/FromDarkHell/Zoombinisharp))
 
 Zoombinis' attributes (and their values) are basically just ints
-```cs
+```csharp
 static Zoombini() {
 	string[,] array = new string[4, 5];
 	array[0, 0] = "shaggy";
@@ -182,8 +182,8 @@ These thresholds describe how many attempts you need to make before the respecti
 It does all of these bits (picking Pizza combinations etc) randomly, the seed of which is the number of ticks you’ve done so far in Unity.
 Also as a side note, this means that after (about) 24.9 days, it’ll roll over to 2147483647
 The toppings are picked like so:
-```
-Fill a list with the trolls
+```csharp
+// Fill a list with the trolls
 for(int j = 0; j < numberOfToppings;j++) {
 	Topping = 2^j
 	Pick a random troll
@@ -192,7 +192,7 @@ for(int j = 0; j < numberOfToppings;j++) {
 ```
 
 If you want the proper code:
-```cs
+```csharp
 private void AddPizzaToppings(int numberOfToppings)
 {
 	_maxPizzaToppings = numberOfToppings;
@@ -295,7 +295,7 @@ TODO :)
 
 ### Hotel Dimensia
 
-```
+```csharp
 int num = 0
 if(traitCounts[HAIR] < 5) num += 1
 if(traitCounts[EYES] < 5) num += 1
@@ -320,7 +320,7 @@ bool flag3 = false;
 ## Assorted Info
 
 Most/all of this was made by modding the game in `DataManager.cs` to print out the respective things loaded like:
-```cs
+```csharp
 // Log usernames / game strings
 List<string> textOutput = new List<string>();
 textOutput.Add("\n===== Game Strings =====");
@@ -379,7 +379,7 @@ The complete list is available in [text](/assets/downloads/zoombinis/achievement
 For this I decided to write code to write out the JSON rather than regex it like I did for all of the other ones just out of ease / usage
 
 {% raw %}
-```cs
+```csharp
 List<string> textOutput = new List<string>();
 textOutput.Add("\n===== Hints =====");		
 foreach(Hints.ModuleHints hint in hints.hintData) {

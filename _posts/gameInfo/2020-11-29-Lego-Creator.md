@@ -111,7 +111,7 @@ No Floppy Disk: <audio src="{{ site.baseurl }}/assets/downloads/lego-creator/hp1
 
 In the game itself, these videos are actually .mpg buut those are large and I like smol files so no
 Used some fairly simple Powershell and ffmpeg to convert all of them into `.mp4` so I can put them all up here
-```
+```powershell
 Get-ChildItem -Path .\ -Filter *.mpg -File -Name | ForEach-Object {
     $out = ".\output\" + [System.IO.Path]::GetFileNameWithoutExtension($_) + ".mp4"
     Write-Host "Converting" $_ "to" $out
