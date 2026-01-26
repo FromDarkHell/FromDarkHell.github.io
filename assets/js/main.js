@@ -16,3 +16,13 @@ headerify = function (evt) {
 };
 
 window.addEventListener("load", headerify);
+
+function scrollPortfolio(button, dir) {
+  const container = button.parentElement.querySelector(".portfolio-scroll");
+  const amount = container.clientWidth * 0.8;
+
+  container.scrollBy({
+    left: dir * amount,
+    behavior: "smooth",
+  });
+}

@@ -1,0 +1,37 @@
+<section class="mt-6">
+  {% if include.category.category %}
+  <h2 class="text-green-400 text-2xl font-mono mb-6 flex items-center gap-3">
+    {% if include.category.icon %}
+    <span>{{ include.category.icon }}</span>
+    {% endif %} {{ include.category.category }}
+  </h2>
+  {% endif %}
+
+  <div class="relative group">
+    <!-- LEFT -->
+    <button
+      type="button"
+      class="absolute left-4 top-1/2 -translate-y-1/2 z-10 bg-black/70 border border-green-500/30 text-green-400 px-3 py-2 font-mono opacity-0 group-hover:opacity-100 transition"
+      onclick="scrollPortfolio(this, -1)"
+    >
+      ‹
+    </button>
+
+    <!-- RIGHT -->
+    <button
+      type="button"
+      class="absolute right-4 top-1/2 -translate-y-1/2 z-10 bg-black/70 border border-green-500/30 text-green-400 px-3 py-2 font-mono opacity-0 group-hover:opacity-100 transition"
+      onclick="scrollPortfolio(this, 1)"
+    >
+      ›
+    </button>
+
+    <!-- SCROLLER -->
+    <div
+      class="portfolio-scroll flex gap-6 overflow-x-auto pb-4 snap-x snap-mandatory scrollbar-thin scrollbar-thumb-green-500/30"
+    >
+      {% for item in include.category.items %} {% include portfolio-item.html
+      item=item %} {% endfor %}
+    </div>
+  </div>
+</section>

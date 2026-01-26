@@ -7,16 +7,18 @@ redirect_from:
 
 ## About Me
 
-I’m Joe (Thomas), a freelance software developer specializing in desktop and app development. I work with a wide variety of programming languages and frameworks, with a focus on C#, Python, Java, and C++. Additionally, I have done a lot of work using various other languages like, Flutter/Dart, Javascript, HTML/CSS.
 
-Outside of client work, I spend a lot of time reverse-engineering video games, and building tools, mods, and utilities that enhance gameplay experiences.
+I’m Joe (Thomas) Iliff, a software developer who builds custom tooling, applications, and websites which solve tough problems. I've been developing software professionally for over a decade. I've done work for desktop software, mobile development, full-stack platforms, and even low-level design. I primarily focus on Python, Typescript, and C#.
+
+Outside of client work, I enjoy learning how software works under the hood. I spend a good amount of time reverse-engineering video games, building tools/mods/utilities, that enhance gameplay and solve problems that don't always have documented solutions.
 
 ## What I Do
 
-### Freelance Development
+### Software Development
 
 I offer custom software solutions, scripting, and application development. No matter if you need automation tools, game utilities, desktop apps, or API integrations, I can be the solution!
 
+{% include portfolio-category.html category=site.data.portfolio.fullstack %}
 
 [Hire Me](https://www.upwork.com/freelancers/~01e3ea59629eed8250){:target="_blank" class="brand-link"}
 
@@ -25,6 +27,8 @@ In addition to my freelance development, I also run a small store where you can:
 - Purchase refurbished tech and hardware
 - Send in your own devices for *repairs* **or** *restoration*
 - Browse exclusive tools/utilities that I've developed.
+
+{% include portfolio-category.html category=site.data.portfolio.hardware %}
 
 [View Store](https://store.fdh.one){:target="_blank" class="brand-link"}
 

@@ -1,0 +1,65 @@
+fullstack:
+  items:
+    - title: "CapitalSearchEngine.com"
+      description: "Large-scale financial data search engine with custom tooling."
+      image: "/assets/images/portfolio/fullstack/cse.png"
+      tech: ["Laravel", "PHP", "TailwindCSS", "Javascript"]
+      links:
+        site: "https://capitalsearchengine.com"
+
+    - title: "SoundStock"
+      description: "Largest royalty-free sound library powered by AI"
+      tech: ["Python", "APIs", "AI"]
+      image: "/assets/images/portfolio/fullstack/soundstock.png"
+      links:
+        site: "https://soundstock.com"
+
+    - title: "FDH Systems Webstore"
+      description: "A storefront for FDH Systems' hardware offerings"
+      tech: ["NextJS", "React", "TailwindCSS", "MedusaJS"]
+      image: "/assets/images/portfolio/fullstack/fdh-systems.png"
+      links:
+        site: "https://store.fdh.one"
+
+    - title: "NubbyDB"
+      description: "A website for storing/sharing item info, as well as a save editor for Nubby's Number Factory"
+      tech: ["VueJS", "Typescript", "TailwindCSS"]
+      image: "/assets/images/portfolio/fullstack/nubby-db.png"
+      links:
+        site: "https://fdh.one/NubbyDB"
+
+    - title: "Simulstream"
+      description: "A customizable website used for displaying multiple live-streams simultaneously across different platforms."
+      tech: ["HTML", "CSS", "Javascript"]
+      image: "/assets/images/portfolio/fullstack/simulstream.png"
+      links:
+        site: "https://fdh.one/Simulstream"
+
+    - title: "BL3 Notes Reader"
+      description: "A simple HTML/CSS/JS based application for searching through Borderlands 3 patch notes."
+      tech: ["HTML", "CSS", "Javascript"]
+      image: "/assets/images/portfolio/fullstack/bl3-notes-reader.png"
+      links:
+        site: "https://fdh.one/BL3NotesReader/"
+
+hardware:
+  items:
+    - title: "Xbox 360 Mods"
+      description: "RGH Installs, custom shells, repairs, NAND replacements."
+      image: "/assets/images/portfolio/hardware/xbox-360.jpg"
+
+    - title: "Nintendo DS Mods"
+      description: "Refurbishing, USB mods, custom internals."
+      image: "/assets/images/portfolio/hardware/dslite.jpg"
+
+    - title: "Nintendo Switch"
+      description: "Repairs, PicoFly installations, custom shells."
+      image: "/assets/images/portfolio/hardware/picofly.jpg"
+
+    - title: "Guitar Hero Controllers"
+      description: "Repairs, Refurbishes, custom wiring."
+      image: "/assets/images/portfolio/hardware/rock-band-strat.jpg"
+
+    - title: "Original Xbox"
+      description: "Custom mods, repairs, and upgrades."
+      image: "/assets/images/portfolio/hardware/og-xbox.jpg"

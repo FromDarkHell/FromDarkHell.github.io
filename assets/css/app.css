@@ -9,21 +9,15 @@
 
   body {
     @apply bg-gray-900 text-green-100 font-mono;
-    background-image: linear-gradient(
-        90deg,
-        rgba(0, 255, 127, 0.03) 1px,
-        transparent 1px
-      ),
+    background-image:
+      linear-gradient(90deg, rgba(0, 255, 127, 0.03) 1px, transparent 1px),
       linear-gradient(180deg, rgba(0, 255, 127, 0.03) 1px, transparent 1px);
     background-size: 20px 20px;
   }
 
   img {
-    background-image: linear-gradient(
-        90deg,
-        rgba(0, 255, 127, 0.25) 1px,
-        transparent 1px
-      ),
+    background-image:
+      linear-gradient(90deg, rgba(0, 255, 127, 0.25) 1px, transparent 1px),
       linear-gradient(180deg, rgba(0, 255, 127, 0.25) 1px, transparent 1px);
     background-size: 20px 20px;
 
@@ -357,22 +351,32 @@
   /* Neon glow effects */
   .neon-blue {
     color: #00bfff;
-    text-shadow: 0 0 2px #00bfff40, 0 0 4px #00bfff40, 0 0 8px #00bfff40;
+    text-shadow:
+      0 0 2px #00bfff40,
+      0 0 4px #00bfff40,
+      0 0 8px #00bfff40;
   }
 
   .neon-green {
     color: #00ff7f;
-    text-shadow: 0 0 2px #00ff7f40, 0 0 4px #00ff7f40, 0 0 8px #00ff7f40;
+    text-shadow:
+      0 0 2px #00ff7f40,
+      0 0 4px #00ff7f40,
+      0 0 8px #00ff7f40;
   }
 
   .neon-border-blue {
     border: 1px solid #00bfff;
-    box-shadow: 0 0 5px #00bfff, inset 0 0 5px rgba(0, 191, 255, 0.1);
+    box-shadow:
+      0 0 5px #00bfff,
+      inset 0 0 5px rgba(0, 191, 255, 0.1);
   }
 
   .neon-border-green {
     border: 1px solid #00ff7f;
-    box-shadow: 0 0 5px #00ff7f, inset 0 0 5px rgba(0, 255, 127, 0.1);
+    box-shadow:
+      0 0 5px #00ff7f,
+      inset 0 0 5px rgba(0, 255, 127, 0.1);
   }
 
   /* RGB split effect */
