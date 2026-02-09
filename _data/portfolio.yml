@@ -21,6 +21,13 @@ fullstack:
       links:
         site: "https://store.fdh.one"
 
+    - title: "MyrientGrabber"
+      description: "An Electron, React, TailwindCSS based"
+      tech: ["Electron", "React", "Typescript", "TailwindCSS"]
+      image: "/assets/images/portfolio/fullstack/myrient-grabber.png"
+      links:
+        site: "https://github.com/FromDarkHell/MyrientGrabber"
+
     - title: "NubbyDB"
       description: "A website for storing/sharing item info, as well as a save editor for Nubby's Number Factory"
       tech: ["VueJS", "Typescript", "TailwindCSS"]
