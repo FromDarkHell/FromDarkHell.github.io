@@ -22,7 +22,7 @@ fullstack:
         site: "https://store.fdh.one"
 
     - title: "MyrientGrabber"
-      description: "An Electron, React, TailwindCSS based"
+      description: "An Electron, React, TailwindCSS based desktop app for scraping/downloading game ROMs"
       tech: ["Electron", "React", "Typescript", "TailwindCSS"]
       image: "/assets/images/portfolio/fullstack/myrient-grabber.png"
       links:
