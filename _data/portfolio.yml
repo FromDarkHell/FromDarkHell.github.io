@@ -14,12 +14,26 @@ fullstack:
       links:
         site: "https://soundstock.com"
 
+    - title: "TalenTrack Solutions"
+      description: "Analytics platform that helps detect bias, and ensure government compliance in employment"
+      image: "/assets/images/portfolio/fullstack/talentrack-solutions.png"
+      tech: ["Laravel", "PHP", "AWS", "Javascript"]
+      links:
+        site: "https://talentracksolutions.com"
+
     - title: "FDH Systems Webstore"
       description: "A storefront for FDH Systems' hardware offerings"
       tech: ["NextJS", "React", "TailwindCSS", "MedusaJS"]
       image: "/assets/images/portfolio/fullstack/fdh-systems.png"
       links:
         site: "https://store.fdh.one"
+
+    - title: "Etsy Statement Viewer"
+      description: "An NextJS powered web app for viewing/parsing Etsy financial statements"
+      tech: ["NextJS", "Typescript"]
+      image: "/assets/images/portfolio/fullstack/etsy-statement-viewer.png"
+      links:
+        site: "https://github.com/FromDarkHell/EtsyStatementViewer"
 
     - title: "MyrientGrabber"
       description: "An Electron, React, TailwindCSS based desktop app for scraping/downloading game ROMs"
