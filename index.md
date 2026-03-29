@@ -8,19 +8,32 @@ redirect_from:
 ## About Me
 
 
-I’m Joe (Thomas) Iliff, a software developer who builds custom tooling, applications, and websites which solve tough problems. I've been developing software professionally for over a decade. I've done work for desktop software, mobile development, full-stack platforms, and even low-level design. I primarily focus on Python, Typescript, and C#.
+I'm Joe (Thomas) Iliff, a software developer with over a decade of professional experience. I've built tools, platforms, and applications that do what off-the-shelf software can't do. Whether you need a simple business automation, a full-stack web platform, or something entirely custom. I can build the entire project for you from first conversation up until final delivery and beyond.
 
 Outside of client work, I enjoy learning how software works under the hood. I spend a good amount of time reverse-engineering video games, building tools/mods/utilities, that enhance gameplay and solve problems that don't always have documented solutions.
 
 ## What I Do
 
-### Software Development
+<div class="flex justify-start gap-8 items-center">
+	<h3 id="software-development" class="!m-0">Software Development</h3>
+
+	{% include availability-badge.html %}
+</div>
 
 I offer custom software solutions, scripting, and application development. No matter if you need automation tools, game utilities, desktop apps, or API integrations, I can be the solution!
 
+
 {% include portfolio-category.html category=site.data.portfolio.fullstack %}
 
-[Hire Me](https://www.upwork.com/freelancers/~01e3ea59629eed8250){:target="_blank" class="brand-link"}
+<div class="mt-6 w-1/2">
+  <a href="mailto:fdh@fdh.one" target="_blank" class="brand-link">
+    Direct Contact
+  </a>
+  <div class="flex justify-start gap-5 mt-4 pl-1">
+    <a href="https://contra.com/joe_iliff_qeikm35n/" target="_blank" class="contact-secondary">via Contra</a>
+    <a href="https://www.upwork.com/freelancers/~01e3ea59629eed8250" target="_blank" class="contact-secondary">via Upwork</a>
+  </div>
+</div>
 
 ### Repairs + Refurbishes
 In addition to my freelance development, I also run a small store where you can:

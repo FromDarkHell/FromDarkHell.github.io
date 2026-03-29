@@ -1,11 +1,11 @@
 fullstack:
   items:
-    - title: "CapitalSearchEngine.com"
-      description: "Large-scale financial data search engine with custom tooling."
-      image: "/assets/images/portfolio/fullstack/cse.png"
-      tech: ["Laravel", "PHP", "TailwindCSS", "Javascript"]
+    - title: "TalenTrack Solutions"
+      description: "Analytics platform that helps detect bias, and ensure government compliance in employment"
+      image: "/assets/images/portfolio/fullstack/talentrack-solutions.png"
+      tech: ["Laravel", "PHP", "AWS", "Javascript"]
       links:
-        site: "https://capitalsearchengine.com"
+        site: "https://talentracksolutions.com"
 
     - title: "SoundStock"
       description: "Largest royalty-free sound library powered by AI"
@@ -14,12 +14,12 @@ fullstack:
       links:
         site: "https://soundstock.com"
 
-    - title: "TalenTrack Solutions"
-      description: "Analytics platform that helps detect bias, and ensure government compliance in employment"
-      image: "/assets/images/portfolio/fullstack/talentrack-solutions.png"
-      tech: ["Laravel", "PHP", "AWS", "Javascript"]
+    - title: "CapitalSearchEngine.com"
+      description: "Large-scale financial data search engine with custom tooling."
+      image: "/assets/images/portfolio/fullstack/cse.png"
+      tech: ["Laravel", "PHP", "TailwindCSS", "Javascript"]
       links:
-        site: "https://talentracksolutions.com"
+        site: "https://capitalsearchengine.com"
 
     - title: "FDH Systems Webstore"
       description: "A storefront for FDH Systems' hardware offerings"
