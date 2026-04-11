@@ -1,0 +1,27 @@
+person:
+  name: "Joe Iliff"
+  job_title: "Freelance Software Developer"
+  url: "https://fdh.one"
+  email: "fdh@fdh.one"
+  image: "https://fdh.one/favicon.png"
+  description: "Custom software developer and retro hardware modder based in Missouri. Available for freelance projects."
+  same_as:
+    - "https://bsky.app/profile/fdh.one"
+    - "https://twitter.com/FromDarkHell"
+    - "https://www.youtube.com/@fromdarkhell7039"
+    - "https://twitch.tv/FromDarkHell"
+    - "https://contra.com/joe_iliff_qeikm35n/"
+    - "https://www.upwork.com/freelancers/~01e3ea59629eed8250"
+    - "https://github.com/FromDarkHell"
+
+local_business:
+  name: "FDH Systems"
+  url: "https://store.fdh.one"
+  telephone: "+15735699021"
+  email: "fdh@fdh.one"
+  address:
+    city: "Versailles"
+    state: "Missouri"
+    country: "US"
+  area_served: "United States"
+  price_range: "$$"

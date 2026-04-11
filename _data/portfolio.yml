@@ -33,7 +33,7 @@ fullstack:
       tech: ["NextJS", "Typescript"]
       image: "/assets/images/portfolio/fullstack/etsy-statement-viewer.png"
       links:
-        site: "https://github.com/FromDarkHell/EtsyStatementViewer"
+        site: "https://fdh.one/EtsyStatementViewer"
 
     - title: "MyrientGrabber"
       description: "An Electron, React, TailwindCSS based desktop app for scraping/downloading game ROMs"
@@ -68,14 +68,20 @@ hardware:
     - title: "Xbox 360 Mods"
       description: "RGH Installs, custom shells, repairs, NAND replacements."
       image: "/assets/images/portfolio/hardware/xbox-360.jpg"
+      links:
+        site: "https://store.fdh.one/us/collections/xbox"
 
     - title: "Nintendo DS Mods"
       description: "Refurbishing, USB mods, custom internals."
       image: "/assets/images/portfolio/hardware/dslite.jpg"
+      links:
+        site: "https://store.fdh.one/us/collections/nintendo"
 
     - title: "Nintendo Switch"
       description: "Repairs, PicoFly installations, custom shells."
       image: "/assets/images/portfolio/hardware/picofly.jpg"
+      links:
+        site: "https://store.fdh.one/us/collections/nintendo"
 
     - title: "Guitar Hero Controllers"
       description: "Repairs, Refurbishes, custom wiring."
@@ -84,3 +90,5 @@ hardware:
     - title: "Original Xbox"
       description: "Custom mods, repairs, and upgrades."
       image: "/assets/images/portfolio/hardware/og-xbox.jpg"
+      links:
+        site: "https://store.fdh.one/us/collections/xbox"

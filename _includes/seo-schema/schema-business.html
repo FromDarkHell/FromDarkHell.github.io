@@ -1,0 +1,39 @@
+{% assign b = site.data.seo-schema.local_business %} {% assign hardware =
+site.data.portfolio.hardware.items %}
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "{{ b.name }}",
+    "url": "{{ b.url }}",
+    "telephone": "{{ b.telephone }}",
+    "email": "{{ b.email }}",
+    "founder": {
+      "@type": "Person",
+      "name": "{{ site.data.seo-schema.person.name }}",
+      "url": "{{ site.data.seo-schema.person.url }}"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "{{ b.address.city }}",
+      "addressRegion": "{{ b.address.state }}",
+      "addressCountry": "{{ b.address.country }}"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "{{ b.area_served }}"
+    },
+    "serviceType": [
+      {% for item in hardware %}
+        "{{ item.title }}"{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ],
+    "priceRange": "{{ b.price_range }}",
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Repair & Modding Services",
+      "url": "{{ b.url }}/us"
+    }
+  }
+</script>

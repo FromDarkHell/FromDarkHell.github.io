@@ -1,0 +1,37 @@
+{% assign s = site.data.seo-schema.person %}
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "{{ s.name }}",
+    "jobTitle": "{{ s.job_title }}",
+    "url": "{{ s.url }}",
+    "email": "{{ s.email }}",
+    "image": "{{ s.image }}",
+    "description": "{{ s.description }}",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "{{ site.data.seo-schema.local_business.address.city }}",
+      "addressRegion": "{{ site.data.seo-schema.local_business.address.state }}",
+      "addressCountry": "{{ site.data.seo-schema.local_business.address.country }}"
+    },
+    "knowsAbout": [
+        {% assign tech_list = "" | split: "" %}
+        {% for item in site.data.portfolio.fullstack.items %}
+            {% for tech in item.tech %}
+                {% unless tech_list contains tech %}
+                    {% assign tech_list = tech_list | push: tech %}
+                {% endunless %}
+            {% endfor %}
+        {% endfor %}
+        {% for skill in tech_list %}
+            "{{ skill }}"{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+    ],
+    "sameAs": [
+      {% for link in s.same_as %}
+        "{{ link }}"{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+  }
+</script>

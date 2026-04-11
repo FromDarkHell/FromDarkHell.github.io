@@ -1,6 +1,41 @@
-<p class="flex items-center gap-2 !m-0">
-  <span
-    class="bg-green-500 w-2 h-2 rounded-full animate-pulse inline-block"
-  ></span>
-  Currently available for new projects
-</p>
+{% assign availability = "available" %}
+
+<!-- Availability -->
+{% if availability == "available" %} {% assign bars = 4 %} {% assign label =
+"Available" %} {% assign sublabel = "Open for new projects" %}
+
+<!-- Limited -->
+{% elsif availability == "limited" %} {% assign bars = 2 %} {% assign label =
+"Limited" %} {% assign sublabel = "Taking select projects" %}
+
+<!-- Unavailable -->
+{% else %} {% assign bars = 0 %} {% assign label = "Unavailable" %} {% assign
+sublabel = "Not taking new work" %} {% endif %}
+
+<div
+  class="inline-flex items-center gap-3 px-3.5 py-2 rounded-md border border-neutral-500"
+>
+  <div class="flex items-end gap-[3px] h-[18px]">
+    <div
+      class="w-[5px] h-[6px] rounded-sm {% if bars >= 1 %}bg-emerald-500{% else %} bg-neutral-600{% endif %}"
+    ></div>
+    <div
+      class="w-[5px] h-[10px] rounded-sm {% if bars >= 2 %}bg-emerald-500{% else %} bg-neutral-600{% endif %}"
+    ></div>
+    <div
+      class="w-[5px] h-[14px] rounded-sm {% if bars >= 3 %}bg-emerald-500{% else %} bg-neutral-600{% endif %}"
+    ></div>
+    <div
+      class="w-[5px] h-[18px] rounded-sm {% if bars >= 4 %}bg-emerald-500{% else %} bg-neutral-600{% endif %}"
+    ></div>
+  </div>
+
+  <div class="flex flex-col">
+    <span class="text-sm font-medium leading-none text-neutral-100"
+      >{{ label }}</span
+    >
+    <span class="text-xs leading-none mt-1 text-neutral-400"
+      >{{ sublabel }}</span
+    >
+  </div>
+</div>

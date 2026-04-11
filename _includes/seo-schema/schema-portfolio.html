@@ -1,0 +1,34 @@
+{% assign projects = site.data.portfolio.fullstack.items %} {% assign
+author_name = site.data.seo-schema.person.name %} {% assign author_url =
+site.data.seo-schema.person.url %}
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {% for project in projects %}
+      {
+        "@type": "SoftwareApplication",
+        "name": "{{ project.title }}",
+        "description": "{{ project.description }}",
+        "author": {
+          "@type": "Person",
+          "name": "{{ author_name }}",
+          "url": "{{ author_url }}"
+        }
+        {% if project.tech %}
+        ,"programmingLanguage": [
+          {% for lang in project.tech %}
+            "{{ lang }}"{% unless forloop.last %},{% endunless %}
+          {% endfor %}
+        ]
+        {% endif %}
+        {% if project.links.site contains "github.com" %}
+        ,"codeRepository": "{{ project.links.site }}"
+        {% else %}
+        ,"url": "{{ project.links.site }}"
+        {% endif %}
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+  }
+</script>

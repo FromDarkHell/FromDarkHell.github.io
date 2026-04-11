@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
     <meta charset="utf-8" />
@@ -17,7 +17,15 @@
     <link rel="icon" type="image/png" href="/favicon.png" />
     <script src="{{ '/assets/js/main.js?v=' | append: site.github.build_revision | relative_url }}"></script>
 
-    {% include syntax-highlighting.html %} {% seo %}
+    {% include seo-schema/schema-person.html %} {% include
+    seo-schema/schema-business.html %} {% include
+    seo-schema/schema-portfolio.html %}
+
+    <!-- Syntax Highlighting -->
+    {% include syntax-highlighting.html %}
+
+    <!-- Extra SEO -->
+    {% seo %}
   </head>
 
   <body>
@@ -32,21 +40,14 @@
           <nav
             class="content-container txt-xsmall-plus text-green-300 flex items-center justify-between w-full h-full text-small-regular font-mono"
           >
-            <div class="flex items-center h-full relative">
+            <h1 class="flex items-center h-full relative">
               <a
                 class="text-xl font-bold hover:text-blue-400 uppercase tracking-wider transition-all duration-300 relative group"
-                data-testid="nav-store-link"
                 href="/"
-                ><span class="relative z-10">fdh Systems</span
-                ><span
-                  class="absolute inset-0 text-blue-400 opacity-0 group-hover:opacity-70 transition-opacity duration-150 transform group-hover:translate-x-0.5"
-                  >fdh Systems</span
-                ><span
-                  class="absolute inset-0 text-red-400 opacity-0 group-hover:opacity-50 transition-opacity duration-150 transform group-hover:-translate-x-0.5"
-                  >fdh Systems</span
-                ></a
+              >
+                <span>Joe Iliff</span></a
               ><span class="ml-1 text-green-400 animate-pulse">_</span>
-            </div>
+            </h1>
 
             <div
               class="flex items-center gap-x-6 h-full flex-1 basis-0 justify-end"

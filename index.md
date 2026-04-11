@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Main
+title: "Joe Iliff - Software Developer"
+description: "Custom software development, reverse engineering, retro hardware repairs. Based in Missouri. Available for work."
 redirect_from:
   - /about/
 ---
@@ -8,15 +9,21 @@ redirect_from:
 ## About Me
 
 
-I'm Joe (Thomas) Iliff, a software developer with over a decade of professional experience. I've built tools, platforms, and applications that do what off-the-shelf software can't do. Whether you need a simple business automation, a full-stack web platform, or something entirely custom. I can build the entire project for you from first conversation up until final delivery and beyond.
+<div class="flex justify-between gap-4 items-stretch flex-col md:flex-row md:justify-center">
+	<div class="prose flex-1 flex-grow basis-full !max-w-none">
+		<p>I'm <span class="font-semibold">Joe (Thomas) Iliff</span>, a software developer, located in Versailles, MO. I have over a decade of professional experience. I've built tools, platforms, and applications that do what off-the-shelf software can't do. Whether you need a simple business automation, a full-stack web platform, or something entirely custom. I can build the entire project for you from first conversation up until final delivery and beyond.</p>
 
-Outside of client work, I enjoy learning how software works under the hood. I spend a good amount of time reverse-engineering video games, building tools/mods/utilities, that enhance gameplay and solve problems that don't always have documented solutions.
+		<p>Outside of client work, I enjoy learning how software works under the hood. I spend a good amount of time reverse-engineering video games, building tools/mods/utilities, that enhance gameplay and solve problems that don't always have documented solutions.</p>
+	</div>
 
-## What I Do
+	<div class="flex justify-center">
+		<img src="/assets/images/portfolio/self.png" class="rounded-3xl !my-0 object-cover w-48">
+	</div>
+</div>
 
-<div class="flex justify-start gap-8 items-center">
-	<h3 id="software-development" class="!m-0">Software Development</h3>
 
+<div class="flex justify-start gap-8 items-center !mt-24 !mb-6">
+	<h2 id="software-development" class="!my-0">Software Development</h2>
 	{% include availability-badge.html %}
 </div>
 
@@ -35,7 +42,7 @@ I offer custom software solutions, scripting, and application development. No ma
   </div>
 </div>
 
-### Repairs + Refurbishes
+## Retro Repairs + Hardware Refurbishes
 In addition to my freelance development, I also run a small store where you can:
 - Purchase refurbished tech and hardware
 - Send in your own devices for *repairs* **or** *restoration*
@@ -46,7 +53,7 @@ In addition to my freelance development, I also run a small store where you can:
 [View Store](https://store.fdh.one){:target="_blank" class="brand-link"}
 
 
-### Reverse Engineering
+## Reverse Engineering
 
 I've spent years digging into the inner workings of games. I've built various utilities, and created custom mods. For example:
 - Borderlands
