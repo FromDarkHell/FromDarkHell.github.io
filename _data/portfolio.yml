@@ -28,8 +28,15 @@ fullstack:
       links:
         site: "https://store.fdh.one"
 
+    - title: "New Tab View"
+      description: "A NextJS web app displaying a custom new tab page with various widgets and features"
+      tech: ["NextJS", "Typescript", "APIs", "React"]
+      image: "/assets/images/portfolio/fullstack/new-tab-view.png"
+      links:
+        site: "https://fdh.one/NewTabView"
+
     - title: "Etsy Statement Viewer"
-      description: "An NextJS powered web app for viewing/parsing Etsy financial statements"
+      description: "A NextJS powered web app for viewing/parsing Etsy financial statements"
       tech: ["NextJS", "Typescript"]
       image: "/assets/images/portfolio/fullstack/etsy-statement-viewer.png"
       links:
